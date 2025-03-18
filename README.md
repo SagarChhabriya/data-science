@@ -1,10 +1,10 @@
 # DSc
 Comprehensive repository featuring top MLOps practices, dvc, automation, and project templates.
 
-## TODO:
+<!-- ## TODO: -->
 
 <!-- 1. Multinomial -->
-2. Naive Bayes
+<!-- 2. Naive Bayes
 3. Perceptron
 4. SVM + LS-SVM
 5. Quadratic Classifiers + Kernel Estimation
@@ -16,7 +16,7 @@ Comprehensive repository featuring top MLOps practices, dvc, automation, and pro
     - Multi Layer Perceptron
     - Feed Forward Neural Network
     - Backpropagation
-8. Ensemble Learning
+8. Ensemble Learning -->
 
 
 <!-- 1. Naive Bayes
