@@ -1,0 +1,2 @@
+1. Bias: When a model is too simple and misses important patters, leading to poor accuracy. [Underfitting]    
+2. Variance: When a model is too complex and learns random noise, making it performing well on training data but poorly on new data. [Overfitting]
