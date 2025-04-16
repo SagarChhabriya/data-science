@@ -142,22 +142,22 @@ In machine learning, this is exactly what happens when we combine multiple model
 
 ---
 
-3. Stacking (Layered Decision-Making)
+## 3. Stacking (Layered Decision-Making)
 In stacking, instead of just combining the individual predictions directly, Sagar uses a secondary model to make the final decision based on the predictions of the initial advisors.
 
-Let’s say Sagar decides to train a secondary decision-maker (stacking model) — Zain — who learns how to combine the outputs from the initial five advisors to make a final recommendation.
+Let’s say Sagar decides to train a secondary decision-maker (stacking model) — Sir Mansoor — who learns how to combine the outputs from the initial five advisors to make a final recommendation.
 
 In practice:
 
 First, Sagar collects all the advice and predictions from the five advisors: Aqib, Younis, Mubeen, Qadeer, and Zain.
 
-The stacking model (Zain) looks at these predictions, learns from the historical performance of the advisors (i.e., how accurate they were in past decisions), and then makes a final recommendation by weighing the predictions appropriately.
+The stacking model (Sir Mansoor) looks at these predictions, learns from the historical performance of the advisors (i.e., how accurate they were in past decisions), and then makes a final recommendation by weighing the predictions appropriately.
 
 For example, the stacking model might weight Aqib’s and Qadeer’s predictions more heavily if they have historically been accurate with high-risk stocks, while giving lower weight to Younis if their tech stock predictions haven’t been as reliable.
 
-In this scenario, after looking at how each advisor performed in the past, Zain (the secondary model) decides that stock X is the best choice, even though not all advisors are in agreement.
+In this scenario, after looking at how each advisor performed in the past, Sir Mansoor (the secondary model) decides that stock X is the best choice, even though not all advisors are in agreement.
 
-4. Boosting (Focused Learning on Mistakes)
+## 4. Boosting (Focused Learning on Mistakes)
 In boosting, Sagar focuses on the errors from the previous round of predictions and adjusts accordingly to improve future decisions. It’s an iterative process where each subsequent decision takes into account the mistakes of the previous one.
 
 For example:
@@ -170,7 +170,7 @@ Round 3: To boost the model, Sagar increases the weight of the more aggressive a
 
 Boosting is an iterative method that focuses on improving the performance of weak models by correcting the errors from previous rounds. Sagar’s focus is to increase the accuracy of the advisors who have been wrong in the past.
 
-5. Bagging (Independent Model Voting)
+## 5. Bagging (Independent Model Voting)
 In bagging (Bootstrap Aggregating), Sagar can create multiple independent models using the same set of advisors. These advisors would make their decisions using random subsets of the stock market data, and then Sagar would take the majority vote or average of these models to make the final decision.
 
 For example:
@@ -181,7 +181,7 @@ After multiple rounds of asking each advisor for their recommendation, Sagar ave
 
 By aggregating the predictions from each model, Sagar reduces the variance of the final decision and avoids overfitting to any particular set of data.
 
-Why Shouldn’t You Have an Even Number of Models?
+### Why Shouldn’t You Have an Even Number of Models?
 The main issue with having an even number of models is that it can lead to ties, as we saw in Scenario 2. In situations where the predictions are split evenly, you have no clear winner, which could result in decision-making challenges.
 
 To avoid ties, it’s better to have an odd number of models. This ensures that there is always a clear majority and a final decision can be made without ambiguity. This is why ensemble learning algorithms like Random Forests or Boosting often work with odd numbers of decision trees or models, ensuring that a majority vote can always decide the output.
