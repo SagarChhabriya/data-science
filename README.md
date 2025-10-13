@@ -1,5 +1,7 @@
 # DSc
-Comprehensive repository featuring top MLOps practices, dvc, automation, and project templates.
+
+- Datasets for Data Science, Machine Learning, AI & Analytics: https://www.kdnuggets.com/datasets/index.html
+- https://www.openml.org/
 
 <!-- ## TODO: -->
 
