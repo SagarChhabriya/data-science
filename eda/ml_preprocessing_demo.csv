@@ -1,0 +1,506 @@
+customer_id,first_name,last_name,birth_year,height_cm,weight,income,experience,city,gender,department,education,payment_method,product_type,satisfaction,food_spending,travel_spending,shopping_spending,purchase_history,random_number,order_date,purchased
+10174,Ahmed,Sheikh,1980,167.1,62.3,32957.0,20.0,Lahore,Male,Finance,Bachelor,Debit Card,Furniture,High,4889.0,4404.0,9820.0,10,15413,2024-07-19,Yes
+10275,Omar,Malik,1969,153.7,55.0,77760.0,21.2,Karachi,Female,Operations,Bachelor,Credit Card,Clothing,High,2982.0,9686.0,25605.0,8,68381,2025-12-27,Yes
+10491,Hamza,Khan,2001,186.6,75.0,167155.0,0.0,Karachi,Female,Marketing,Bachelor,Debit Card,Books,Medium,11635.0,6853.0,6746.0,6,32528,2024-02-24,No
+10073,Saad,Raza,1983,175.7,81.0,29157.0,12.7,Rawalpindi,Male,HR,School,Credit Card,Electronics,Medium,15951.0,6040.0,20782.0,5,79715,2025-06-07,No
+10306,Hira,Ali,1984,178.6,69.0,74303.0,15.0,Lahore,,HR,Bachelor,Credit Card,Furniture,Medium,20374.0,4410.0,3110.0,7,51332,2024-10-01,No
+10077,Hamza,Siddiqui,1991,173.7,76.1,57306.0,7.1,Karachi,Male,Sales,Bachelor,Mobile Wallet,Electronics,Low,6942.0,2649.0,16706.0,8,12883,2024-09-05,No
+10477,Fatima,Raza,1971,180.0,79.7,41253.0,27.3,Karachi,Female,HR,School,Bank Transfer,Books,High,5126.0,5403.0,3656.0,7,23460,2026-08-20,Yes
+10141,Ayesha,Sheikh,1980,151.7,57.8,25916.0,16.2,Karachi,Male,Finance,Master,Cash,Grocery,High,15382.0,2699.0,10464.0,9,30284,2024-06-14,Yes
+10471,Mariam,Butt,1966,174.2,78.6,66934.0,29.7,Karachi,Male,IT,Master,Debit Card,Books,Medium,8254.0,19210.0,19664.0,8,69236,2025-07-06,Yes
+10500,Iqra,Siddiqui,1973,172.6,63.0,72278.0,18.1,Karachi,Male,Finance,Bachelor,Mobile Wallet,Grocery,High,7902.0,23000.0,6277.0,8,66286,2025-07-23,No
+10219,Sana,Butt,1993,157.1,61.9,68749.0,8.5,Karachi,Male,HR,Bachelor,Bank Transfer,Electronics,High,11374.0,13965.0,15084.0,10,47060,2026-01-02,Yes
+10010,Hussain,Ahmed,1994,160.3,53.9,50853.0,2.4,Lahore,Male,IT,Master,Mobile Wallet,Clothing,Medium,2797.0,6294.0,13927.0,7,60785,2024-12-14,Yes
+10481,Laiba,Raza,1990,181.7,75.9,98847.0,7.8,Karachi,Female,HR,Master,Credit Card,Books,High,13819.0,8211.0,3392.0,3,46385,2025-08-04,Yes
+10079,Ali,Siddiqui,1984,164.5,73.0,78764.0,13.3,Karachi,Female,Finance,Bachelor,Cash,Furniture,Medium,15800.0,3494.0,14656.0,5,87321,2025-07-22,Yes
+10323,Sara,Malik,1993,175.9,82.4,132448.0,4.2,Islamabad,Male,IT,PhD,Bank Transfer,Grocery,High,10639.0,12414.0,16415.0,8,4487,2024-02-26,Yes
+10313,Saad,Qureshi,1993,188.2,80.0,31045.0,9.6,Karachi,Female,Sales,Master,Cash,Furniture,High,10315.0,2488.0,6877.0,9,87833,2025-03-31,No
+10125,Usman,Butt,1994,151.0,56.7,101560.0,6.7,Karachi,Female,Operations,PhD,Cash,Clothing,High,7606.0,7044.0,2359.0,7,69207,2025-07-14,Yes
+10385,Hira,Malik,1976,166.5,64.9,42146.0,17.2,Lahore,Male,Operations,Master,Mobile Wallet,Books,High,5113.0,7786.0,19992.0,9,76558,2025-03-20,Yes
+10196,Sana,Ahmed,1990,185.0,63.2,92642.0,7.4,Faisalabad,Male,Marketing,Master,Debit Card,Electronics,Low,4573.0,5093.0,10465.0,6,9681,2026-03-13,Yes
+10448,Hussain,Malik,1983,168.4,63.1,121984.0,17.7,Lahore,Male,Marketing,Bachelor,Debit Card,Clothing,High,8149.0,15889.0,16593.0,7,24719,2026-03-17,No
+10272,Bilal,Ali,1981,168.0,,67533.0,13.7,Lahore,Female,Operations,School,Mobile Wallet,Grocery,Medium,20780.0,11187.0,9613.0,10,71311,2024-03-29,Yes
+10279,Ali,Raza,1978,159.3,75.9,72939.0,19.2,Islamabad,Male,Finance,Bachelor,Cash,Books,Medium,20271.0,17336.0,11973.0,9,36765,2024-12-19,Yes
+10031,Hamza,Siddiqui,1999,167.5,84.4,117149.0,0.7,Karachi,Female,Marketing,Bachelor,Cash,Grocery,Medium,3817.0,12173.0,7365.0,8,57291,2025-07-07,Yes
+10362,Zoya,Qureshi,1978,167.0,51.3,244157.0,16.8,Karachi,Female,Sales,Master,Debit Card,Furniture,Medium,11980.0,9511.0,11526.0,4,59894,2024-02-06,Yes
+10421,Fatima,Sheikh,1987,163.8,,47229.0,11.6,Rawalpindi,Female,Operations,Bachelor,Credit Card,Grocery,Low,3625.0,9119.0,7056.0,7,41320,2026-08-25,Yes
+10445,Sara,Sheikh,1999,152.0,79.0,57579.0,6.6,Karachi,Male,Operations,Bachelor,Debit Card,Grocery,High,6129.0,16845.0,10914.0,5,7164,2024-01-09,No
+10080,Fatima,Qureshi,1989,159.9,65.9,73722.0,9.9,Karachi,Female,HR,Bachelor,Cash,Electronics,Medium,10527.0,8392.0,14813.0,7,56486,2024-06-30,Yes
+10319,Iqra,Raza,1965,175.9,69.5,53115.0,22.2,Lahore,Female,HR,Bachelor,Cash,Clothing,Medium,14029.0,1805.0,5132.0,10,67283,2026-08-12,No
+10211,Omar,Siddiqui,1965,159.9,67.2,37467.0,22.9,Karachi,Male,Operations,School,Debit Card,Clothing,High,9271.0,3394.0,14322.0,6,98738,2025-02-06,No
+10497,Hassan,Ali,1994,170.4,72.8,49478.0,10.5,Lahore,Male,Sales,PhD,Cash,Books,Medium,,4245.0,10592.0,9,2356,2025-02-21,Yes
+10173,Ahmed,Ahmed,1966,190.5,73.0,99938.0,19.9,Karachi,Male,Finance,Master,Credit Card,Grocery,Medium,8151.0,5967.0,2819.0,8,36727,2026-08-01,No
+10454,Hassan,Siddiqui,1992,190.2,85.0,38936.0,11.0,Karachi,Female,HR,Bachelor,Credit Card,Clothing,Medium,10729.0,8547.0,15884.0,7,16007,2024-09-22,No
+10375,Sana,Khan,2004,166.9,71.8,,5.1,Karachi,Male,Finance,Master,Cash,Electronics,Low,9404.0,7920.0,6973.0,6,5194,2024-01-23,No
+10359,Iqra,Ali,1976,172.2,53.2,75145.0,16.3,Islamabad,Male,IT,Master,Credit Card,Clothing,High,8506.0,21539.0,11727.0,4,22594,2026-08-21,No
+10495,Maham,Qureshi,2001,172.7,71.1,25000.0,0.9,Lahore,Male,IT,School,Credit Card,Electronics,Medium,12657.0,784.0,10712.0,10,20408,2025-03-18,No
+10154,Ali,Ahmed,1997,163.1,75.6,54242.0,6.0,Karachi,Male,Finance,Bachelor,Debit Card,Clothing,Medium,5596.0,1853.0,9945.0,9,4319,2025-03-31,Yes
+10003,Hira,Siddiqui,1994,166.6,57.7,35171.0,10.1,Karachi,Female,IT,Master,Bank Transfer,Clothing,Medium,13032.0,3547.0,8384.0,4,67917,2025-05-07,No
+10336,Zoya,Khan,1973,173.9,63.2,39762.0,21.9,Islamabad,Female,IT,PhD,Mobile Wallet,Books,Medium,14911.0,13078.0,29642.0,10,90854,2024-07-20,No
+10209,Hamza,Malik,2003,155.7,54.5,55857.0,6.4,Karachi,Female,Marketing,Bachelor,Debit Card,Books,Medium,7107.0,7221.0,20207.0,14,81551,2025-01-31,Yes
+10074,Hira,Qureshi,1977,173.0,65.6,43947.0,,Karachi,Male,HR,Bachelor,Debit Card,Electronics,Medium,2767.0,13313.0,12692.0,7,72083,2025-07-15,No
+10496,Usman,Butt,1976,163.9,66.1,71653.0,23.1,Lahore,Female,HR,Bachelor,,Furniture,Medium,6853.0,3186.0,18243.0,8,12345,2026-06-01,No
+10452,Hassan,Butt,1978,167.0,66.9,118536.0,17.7,Rawalpindi,Female,Operations,School,Bank Transfer,Books,Low,10616.0,11461.0,11624.0,4,28326,2024-04-19,No
+10205,Laiba,Sheikh,1974,176.7,76.0,62975.0,19.0,Faisalabad,Male,IT,Master,Mobile Wallet,Clothing,High,11729.0,3233.0,13709.0,14,14049,2024-08-19,Yes
+10069,Sara,Hussain,1993,163.1,50.1,33063.0,8.4,Karachi,Female,HR,Master,Credit Card,Electronics,Low,13379.0,2109.0,6916.0,8,26448,2025-04-20,No
+10091,Hamza,Sheikh,1983,171.4,74.2,55490.0,14.8,Lahore,Male,Finance,Master,,Books,Low,8911.0,9193.0,3594.0,8,45371,2026-01-24,No
+10300,Iqra,Raza,1966,171.2,58.2,25000.0,25.9,Karachi,Female,IT,Bachelor,Credit Card,Books,High,13109.0,7459.0,13942.0,11,50401,2025-06-22,No
+10034,Iqra,Malik,1970,168.2,62.8,72077.0,,Rawalpindi,Female,Sales,Bachelor,Bank Transfer,Furniture,Medium,6785.0,8063.0,23415.0,9,49516,2026-03-06,Yes
+10071,Hira,Siddiqui,1979,175.5,80.1,99826.0,15.3,Islamabad,Male,Sales,Master,Debit Card,Books,Medium,7197.0,13409.0,9709.0,7,55853,2025-06-08,No
+10470,Sara,Qureshi,1975,173.0,79.0,139858.0,18.3,Karachi,Male,Finance,Bachelor,Mobile Wallet,Books,Medium,8115.0,13623.0,18550.0,15,25383,2026-01-29,Yes
+10001,Hamza,Ali,1969,191.0,84.5,25000.0,23.8,Rawalpindi,Male,Sales,Bachelor,Credit Card,Clothing,High,10855.0,2057.0,16861.0,7,41342,2025-11-08,No
+10012,Hassan,Ahmed,1989,155.3,68.4,70151.0,7.3,,Female,Operations,Master,Credit Card,Electronics,Medium,8632.0,13423.0,11312.0,3,37411,2024-11-25,No
+10282,Mariam,Qureshi,1995,173.8,73.6,58424.0,6.9,Faisalabad,Male,Operations,Master,Cash,Clothing,High,10139.0,3768.0,10527.0,8,67225,2024-05-24,No
+10023,Hira,Ali,1971,169.7,78.7,96666.0,22.8,Karachi,Female,Finance,Bachelor,Bank Transfer,Clothing,Medium,5608.0,21956.0,4946.0,11,30826,2026-05-14,No
+10102,Fatima,Butt,2002,178.1,77.6,96894.0,6.2,Lahore,Male,Marketing,PhD,Credit Card,Electronics,Low,16790.0,6016.0,11844.0,11,9863,2024-08-26,No
+10269,Mariam,Ali,1971,181.4,77.7,37300.0,27.0,Faisalabad,Male,IT,School,Cash,Books,Medium,17588.0,1159.0,16502.0,9,12804,2025-11-03,No
+10485,Usman,Butt,1988,197.7,76.2,58820.0,8.6,Islamabad,Male,Sales,Master,Debit Card,Furniture,High,17892.0,23923.0,2509.0,13,78157,2024-10-09,No
+10442,Hamza,Qureshi,1971,161.5,58.8,81944.0,20.3,Islamabad,Female,HR,Master,Debit Card,Books,Medium,11276.0,8695.0,7782.0,4,20810,2025-03-21,Yes
+10291,Saad,Ahmed,1984,172.5,66.6,35957.0,11.2,Rawalpindi,Female,Marketing,Master,Debit Card,Books,High,13217.0,12996.0,13819.0,7,13220,2025-05-07,No
+10085,Omar,Sheikh,1996,163.1,71.6,85136.0,4.7,Lahore,Female,IT,Master,Debit Card,Clothing,High,22967.0,5195.0,9866.0,6,97848,2024-05-16,Yes
+10246,Sana,Qureshi,1997,164.9,72.6,119521.0,2.8,Islamabad,Male,,Bachelor,Mobile Wallet,Grocery,Medium,21423.0,7053.0,5378.0,8,88292,2025-11-02,Yes
+10064,Hira,Khan,1980,176.1,63.7,113811.0,17.1,Karachi,Male,Operations,PhD,Cash,Furniture,High,18611.0,1096.0,8562.0,9,94326,2024-08-13,No
+10056,Hussain,Sheikh,1980,171.2,74.4,60693.0,12.0,Karachi,Female,Operations,PhD,Bank Transfer,Clothing,Low,12085.0,14040.0,10269.0,7,55215,2024-09-22,Yes
+10230,Hassan,Ali,2001,158.4,65.8,,9.5,Karachi,Female,Operations,Master,Mobile Wallet,Electronics,Medium,5869.0,10133.0,24972.0,5,97436,2025-04-26,No
+10019,Fatima,Raza,1975,171.4,80.9,30432.0,18.1,Lahore,Male,Sales,Master,Mobile Wallet,Clothing,Medium,24475.0,6676.0,7643.0,7,12686,2024-06-16,No
+10411,Zoya,Malik,1992,180.8,61.7,60010.0,9.7,Rawalpindi,Male,Marketing,Master,Cash,Clothing,Medium,11365.0,3140.0,23719.0,5,80801,2025-05-30,Yes
+10210,Iqra,Ahmed,1966,164.4,78.1,60130.0,21.6,Rawalpindi,Male,Operations,,Cash,Furniture,Low,13243.0,4796.0,8312.0,9,87355,2025-04-25,No
+10395,Ali,Qureshi,1975,152.8,64.9,108555.0,18.1,Islamabad,Male,Operations,School,Debit Card,Clothing,High,1636.0,14186.0,7919.0,9,76520,2026-08-29,Yes
+10083,Mariam,Butt,1966,164.6,73.1,120632.0,28.8,Karachi,Male,HR,PhD,Cash,Electronics,Medium,5536.0,5598.0,13103.0,9,18596,2024-04-15,No
+10040,Laiba,Hussain,1990,164.2,78.1,67658.0,17.4,Karachi,Female,Finance,Master,Credit Card,Clothing,Medium,6735.0,4403.0,19980.0,12,36024,2024-01-23,Yes
+10456,Hussain,Raza,1980,,52.8,104711.0,13.8,Karachi,Male,HR,Bachelor,Cash,Electronics,Medium,5948.0,21856.0,23427.0,9,32970,2024-05-31,No
+10047,Maham,Khan,1976,158.4,62.2,66725.0,12.0,Karachi,Female,Marketing,Bachelor,Credit Card,Grocery,High,16966.0,3038.0,19289.0,8,48710,2026-05-12,No
+10413,Fatima,Raza,1967,156.7,77.3,81391.0,21.7,Karachi,Male,Sales,School,Bank Transfer,Clothing,Medium,7764.0,4299.0,8141.0,5,32633,2026-05-10,Yes
+10315,Sana,Ahmed,1980,155.4,59.0,74264.0,16.7,Islamabad,Female,Sales,Master,Bank Transfer,Electronics,High,6293.0,24539.0,26239.0,7,89607,2025-03-09,Yes
+10355,Omar,Ahmed,1973,178.6,72.5,132586.0,16.1,Lahore,Female,HR,Bachelor,Cash,Clothing,Medium,11246.0,8897.0,18785.0,11,87751,2024-12-23,No
+10078,Saad,Sheikh,1993,163.7,75.7,37461.0,9.9,Rawalpindi,Male,Marketing,Master,Mobile Wallet,Clothing,Medium,15819.0,4657.0,7715.0,10,16946,2025-09-22,No
+10398,Usman,Khan,1987,,58.9,85023.0,13.0,Islamabad,Female,IT,Bachelor,Mobile Wallet,Books,Low,4908.0,4567.0,12288.0,8,39759,2026-04-12,Yes
+10105,Ali,Khan,1984,168.2,70.0,43850.0,7.7,Lahore,Female,Marketing,Master,Mobile Wallet,Electronics,Medium,18389.0,14873.0,8643.0,13,34537,2024-09-11,No
+10204,Hamza,Qureshi,1973,175.6,67.0,,19.3,Faisalabad,Male,IT,Master,Credit Card,Books,High,13207.0,6180.0,11202.0,1,16973,2025-03-25,No
+10381,Mariam,Malik,1989,171.2,59.0,118453.0,8.7,Islamabad,Female,HR,Master,Bank Transfer,Grocery,Medium,12802.0,7583.0,4205.0,6,10041,2025-02-28,No
+10489,Hussain,Hussain,1982,184.6,71.9,33290.0,15.8,Karachi,Male,Finance,PhD,Mobile Wallet,Grocery,Medium,21788.0,5945.0,8969.0,9,17992,2025-06-22,No
+10070,Iqra,Ali,1967,169.7,71.3,120553.0,20.0,Karachi,Male,HR,Bachelor,Bank Transfer,Electronics,Medium,4429.0,13778.0,8298.0,6,4034,2024-11-10,No
+10408,Sana,Qureshi,1978,170.3,67.7,38848.0,17.4,Karachi,Female,Marketing,Bachelor,Bank Transfer,Furniture,Medium,16146.0,10298.0,17170.0,9,38788,2025-04-01,Yes
+10256,Ali,Raza,1968,168.2,61.8,126664.0,,Lahore,Male,Marketing,Master,Credit Card,Grocery,Medium,17212.0,8445.0,18271.0,8,53643,2025-03-24,Yes
+10392,Sana,Qureshi,1975,154.7,53.0,41826.0,21.9,Lahore,Male,IT,Master,Cash,Clothing,Medium,16448.0,12180.0,15407.0,5,11805,2026-02-12,No
+10312,Ali,Sheikh,1975,183.3,83.5,169189.0,17.2,Lahore,Male,HR,Master,Bank Transfer,Grocery,Medium,,5637.0,18315.0,8,11339,2026-04-03,No
+10235,Laiba,Siddiqui,1976,167.9,,92004.0,19.5,Faisalabad,Male,,Bachelor,Bank Transfer,Books,High,6441.0,11234.0,9703.0,5,89620,2024-08-07,Yes
+10474,Fatima,Khan,2000,168.2,75.6,93252.0,1.6,Islamabad,Female,Sales,PhD,Cash,Furniture,Medium,3279.0,3391.0,6553.0,7,57403,2026-07-22,Yes
+10324,Laiba,Ali,1984,,76.1,56586.0,15.3,Lahore,Female,HR,Master,Credit Card,Books,High,8929.0,8390.0,6331.0,11,82022,2025-05-12,Yes
+10094,Saad,Ahmed,1977,176.1,79.9,62619.0,23.8,Lahore,Male,Sales,PhD,Cash,Furniture,High,13515.0,8789.0,5856.0,12,71919,2026-02-19,No
+10138,Fatima,Ali,1981,174.1,65.8,76760.0,14.4,Karachi,Female,Finance,Bachelor,Cash,Electronics,Low,2315.0,6482.0,6586.0,12,80883,2024-09-24,No
+10177,Ali,Khan,1984,159.6,69.6,25382.0,9.9,Faisalabad,Female,Operations,Master,Cash,Grocery,Medium,9845.0,5004.0,20539.0,13,83578,2025-12-15,No
+10337,Laiba,Sheikh,2003,173.1,72.2,106540.0,1.6,Karachi,Female,IT,Bachelor,Cash,Clothing,Medium,12862.0,8128.0,3526.0,9,94019,2024-06-27,Yes
+10132,Hamza,Butt,1996,173.2,67.1,61202.0,4.1,Islamabad,Female,Marketing,Bachelor,Mobile Wallet,Grocery,Medium,14049.0,8947.0,19942.0,6,84765,2025-08-22,No
+10375,Sana,Khan,2004,166.9,71.8,,5.1,Karachi,Male,Finance,Master,Cash,Electronics,Low,9404.0,7920.0,6973.0,6,5194,2024-01-23,No
+10365,Saad,Malik,1991,163.5,76.1,310094.0,12.1,Karachi,Male,Operations,Master,Debit Card,Books,High,13803.0,2597.0,3396.0,7,40364,2024-09-26,Yes
+10133,Mariam,Siddiqui,1966,182.9,75.0,168502.0,23.0,Karachi,Female,Marketing,Bachelor,Bank Transfer,Clothing,Medium,6310.0,6852.0,16655.0,10,84132,2025-08-23,No
+10332,Hira,Raza,1991,167.0,77.7,96217.0,9.1,Rawalpindi,,Finance,Master,Mobile Wallet,Furniture,High,22102.0,4891.0,11050.0,5,81239,2024-12-12,Yes
+10412,Laiba,Raza,1981,160.2,67.0,110903.0,18.9,Karachi,Female,Finance,Master,Cash,Clothing,High,6027.0,2719.0,5579.0,12,83228,2026-05-25,Yes
+10156,Zain,Raza,1992,170.4,55.4,40254.0,10.3,Karachi,Female,IT,Bachelor,Mobile Wallet,Grocery,High,9653.0,2391.0,12977.0,7,58650,2024-11-04,No
+10350,Bilal,Butt,1990,165.3,78.0,103654.0,8.2,Karachi,Female,Operations,Bachelor,Bank Transfer,Furniture,Low,6982.0,8437.0,15753.0,6,38378,2025-12-15,No
+10087,Hassan,Khan,1982,178.2,73.1,56958.0,15.9,Rawalpindi,Female,Operations,Master,Bank Transfer,Clothing,Medium,15297.0,12116.0,12656.0,11,56127,2024-04-29,Yes
+10076,Ali,Qureshi,2001,172.2,66.5,59328.0,5.8,Karachi,Female,Marketing,Bachelor,Credit Card,Grocery,High,6128.0,2435.0,16764.0,10,20979,2026-08-03,Yes
+10443,Hussain,Qureshi,1994,169.2,74.0,100915.0,4.3,Karachi,Male,Finance,Master,Mobile Wallet,Books,Medium,5962.0,11517.0,6057.0,12,70887,2026-04-28,Yes
+10016,Ahmed,Malik,1974,175.5,80.6,,15.0,Lahore,Female,Finance,PhD,Cash,Furniture,Medium,7947.0,6247.0,7469.0,8,44192,2024-06-08,No
+10326,Omar,Qureshi,1972,173.5,76.0,68177.0,21.3,Rawalpindi,Female,IT,Master,Credit Card,Clothing,High,10512.0,7240.0,18848.0,6,19113,2024-06-17,No
+10389,Usman,Siddiqui,1977,173.3,61.7,29280.0,16.8,Karachi,Female,Sales,Master,Cash,Books,Medium,6280.0,12347.0,10019.0,10,25413,2024-02-08,No
+10020,Zoya,Sheikh,1985,190.9,68.7,68215.0,12.2,Lahore,Male,Operations,Bachelor,Mobile Wallet,Clothing,High,18276.0,1024.0,11770.0,7,87778,2024-05-24,Yes
+10325,Ali,Ahmed,1970,189.3,65.2,98513.0,22.9,Karachi,Male,Finance,Bachelor,Mobile Wallet,Electronics,Medium,8577.0,5872.0,9712.0,8,79865,2025-09-05,Yes
+10335,Mariam,Sheikh,1984,161.6,59.6,64808.0,15.9,Lahore,Male,Operations,Bachelor,Mobile Wallet,Electronics,Medium,16909.0,8989.0,8544.0,10,65730,2025-12-14,Yes
+10057,Iqra,Malik,2000,175.1,77.7,35289.0,6.0,Islamabad,Male,HR,Bachelor,Mobile Wallet,Electronics,Medium,4030.0,11578.0,15579.0,9,95374,2025-01-12,Yes
+10339,Bilal,Khan,1983,169.4,69.0,30953.0,13.4,Rawalpindi,Male,HR,Master,Mobile Wallet,Books,Low,5936.0,7265.0,7575.0,11,29145,2025-11-28,Yes
+10409,Sana,Malik,1999,155.7,56.5,40441.0,0.0,Faisalabad,Female,HR,School,Mobile Wallet,Grocery,High,5708.0,11126.0,4621.0,6,13899,2026-06-19,No
+10334,Ahmed,Malik,1984,167.3,73.3,102407.0,12.0,Islamabad,Male,IT,Bachelor,Mobile Wallet,Electronics,High,4458.0,8622.0,7045.0,11,83974,2025-03-30,No
+10182,Hussain,Khan,1974,171.4,77.6,64257.0,23.3,Lahore,Male,Operations,School,Credit Card,Books,High,11329.0,17148.0,21298.0,7,56390,2025-07-29,No
+10228,Saad,Ali,1974,160.3,77.9,96159.0,20.9,Karachi,Female,Operations,Master,Credit Card,Grocery,High,6278.0,6115.0,4392.0,6,45910,2025-11-30,No
+10427,Ayesha,Butt,2005,147.3,62.7,62499.0,0.7,Karachi,Male,Finance,PhD,Credit Card,Clothing,Low,21437.0,6827.0,12616.0,9,66232,2024-03-24,No
+10181,Bilal,Malik,1996,173.1,81.3,261700.0,8.2,Karachi,Male,Finance,Bachelor,Debit Card,Books,High,8006.0,9515.0,12789.0,5,91369,2025-01-23,No
+10026,Fatima,Raza,1976,154.2,77.5,82832.0,,Lahore,Male,Sales,Master,Bank Transfer,Clothing,High,13717.0,6468.0,10939.0,9,50230,2026-02-24,Yes
+10330,Fatima,Raza,1999,166.9,62.1,28389.0,6.1,Rawalpindi,Female,Sales,Master,Cash,Electronics,Low,5219.0,7609.0,16739.0,12,26577,2025-03-03,Yes
+10239,Zoya,Khan,2000,170.4,76.5,57558.0,0.0,Lahore,Female,Operations,Master,Bank Transfer,Books,Medium,9794.0,4699.0,24336.0,6,86114,2024-07-13,Yes
+10245,Hassan,Hussain,1996,148.3,62.8,64966.0,5.9,Lahore,Female,Finance,Master,Cash,Clothing,Medium,8125.0,4902.0,23052.0,6,4575,2024-06-14,No
+10251,Ahmed,Hussain,1967,,67.1,25000.0,24.2,Karachi,Female,Operations,Bachelor,Mobile Wallet,Furniture,Medium,11039.0,3691.0,11180.0,14,24738,2024-01-03,Yes
+10418,Mariam,Siddiqui,1989,175.0,68.6,93734.0,12.4,Lahore,Male,HR,Bachelor,Credit Card,Electronics,Medium,18659.0,12240.0,4902.0,11,43389,2024-07-11,No
+10118,Zain,Malik,1998,,71.9,86609.0,6.0,Faisalabad,Female,,Master,Cash,Grocery,Medium,9433.0,6569.0,10300.0,7,60797,2025-08-28,Yes
+10043,Fatima,Ali,1979,174.6,80.7,113293.0,8.3,Lahore,Female,Marketing,Master,Mobile Wallet,Clothing,High,12826.0,12205.0,13110.0,3,45202,2025-06-08,No
+10322,Hussain,Raza,1966,188.2,78.8,41968.0,24.0,Karachi,Female,Marketing,PhD,Mobile Wallet,Grocery,Medium,5853.0,12275.0,12525.0,9,73862,2025-03-14,No
+10347,Usman,Ahmed,1983,164.4,76.6,69584.0,14.7,Rawalpindi,Male,IT,Master,Bank Transfer,Grocery,Medium,6485.0,23503.0,14276.0,10,91811,2024-04-21,Yes
+10183,Ayesha,Butt,2004,169.9,64.5,69684.0,0.5,Rawalpindi,Male,Sales,Master,Cash,Books,Medium,10677.0,3708.0,8785.0,6,17424,2024-09-19,No
+10156,Zain,Raza,1992,170.4,55.4,40254.0,10.3,Karachi,Female,IT,Bachelor,Mobile Wallet,Grocery,High,9653.0,2391.0,12977.0,7,58650,2024-11-04,No
+10281,Sana,Qureshi,1997,171.1,76.8,93796.0,7.4,Karachi,Male,Sales,Master,Credit Card,Books,Medium,4243.0,1563.0,5006.0,9,62127,2024-04-09,No
+10127,Sara,Malik,1999,173.8,74.9,58983.0,2.7,Karachi,Female,IT,Master,Debit Card,Clothing,High,13530.0,8178.0,20443.0,4,15030,2025-07-27,No
+10449,Zain,Sheikh,2000,179.3,80.3,44695.0,0.0,Lahore,Male,IT,Bachelor,Credit Card,Electronics,Medium,5439.0,428.0,6768.0,7,77082,2025-12-15,No
+10032,Saad,Malik,1990,180.9,69.5,77820.0,11.5,Islamabad,Female,Operations,Bachelor,Bank Transfer,Electronics,Medium,6502.0,4602.0,7385.0,13,15106,2025-05-30,Yes
+10114,Hamza,Khan,2001,177.9,,160022.0,0.0,Lahore,Female,HR,Bachelor,Credit Card,Electronics,Low,15303.0,14008.0,11326.0,7,124,2026-08-07,No
+10149,Hamza,Siddiqui,1971,160.5,63.2,,18.3,,Female,Operations,Bachelor,,Clothing,High,7142.0,6661.0,8226.0,9,95374,2024-02-19,Yes
+10430,Fatima,Sheikh,1971,152.0,67.6,45499.0,27.2,Lahore,Male,HR,Master,Mobile Wallet,Furniture,High,10380.0,11812.0,8700.0,9,63272,2024-03-20,Yes
+10401,Laiba,Ali,1990,175.4,63.6,,11.5,Faisalabad,Male,Marketing,Bachelor,Credit Card,Grocery,High,6784.0,2705.0,13516.0,6,69520,2024-09-20,No
+10058,Fatima,Malik,1992,178.4,69.4,31944.0,5.6,Islamabad,Male,Operations,Master,Debit Card,Clothing,High,12291.0,12549.0,19279.0,3,2945,2025-07-03,No
+10195,Bilal,Butt,1996,183.5,66.3,,5.2,Islamabad,Male,IT,PhD,Mobile Wallet,Books,Medium,9837.0,13201.0,12690.0,8,62704,2024-03-27,Yes
+10025,Mariam,Sheikh,1966,159.3,65.8,71403.0,22.6,Karachi,Female,Marketing,Bachelor,Debit Card,Clothing,Medium,19283.0,10249.0,14328.0,8,58957,2025-02-26,No
+10018,Fatima,Khan,1975,180.0,72.8,114293.0,19.2,Karachi,Female,Marketing,Bachelor,Mobile Wallet,Grocery,High,9376.0,26870.0,13299.0,5,11400,2024-09-22,No
+10298,Ali,Raza,1995,185.0,75.2,,4.8,Rawalpindi,Female,Finance,Bachelor,Mobile Wallet,Books,Medium,10620.0,6283.0,14257.0,12,93392,2025-05-27,Yes
+10067,Omar,Raza,1971,175.8,66.8,27029.0,21.9,Islamabad,Female,Operations,Master,Cash,Books,High,6852.0,7020.0,13819.0,7,65672,2026-08-23,Yes
+10212,Ali,Malik,2000,152.9,67.3,1500000.0,6.8,Lahore,Female,Finance,Bachelor,Bank Transfer,Electronics,High,10500.0,14020.0,17537.0,7,76681,2025-04-07,Yes
+10404,Ali,Hussain,1983,165.1,75.7,64691.0,11.7,Faisalabad,Male,IT,PhD,Mobile Wallet,Grocery,Low,4130.0,4017.0,6969.0,15,67987,2025-07-08,Yes
+10095,Omar,Malik,1993,166.5,68.4,57072.0,10.3,Lahore,Male,Sales,Master,Mobile Wallet,Books,Medium,11271.0,6771.0,9745.0,7,42711,2026-06-23,Yes
+10155,Mariam,Khan,1975,160.5,63.1,52362.0,14.2,Karachi,Male,Finance,PhD,Credit Card,Grocery,Medium,10307.0,13679.0,11380.0,10,35082,2024-11-18,Yes
+10441,Saad,Sheikh,1965,173.5,75.6,129235.0,21.4,Karachi,Male,Marketing,Master,Mobile Wallet,Electronics,High,4874.0,5078.0,10495.0,8,11851,2025-07-19,Yes
+10024,Hira,Sheikh,1981,169.0,69.5,55500.0,16.2,Faisalabad,Female,Sales,Master,Credit Card,Furniture,Low,11813.0,10902.0,16671.0,6,7751,2026-02-12,No
+10226,Usman,Khan,1988,167.9,68.3,31707.0,14.5,Lahore,Male,Operations,Bachelor,Credit Card,Electronics,High,9123.0,7321.0,11164.0,11,44958,2026-08-30,No
+10433,Mariam,Siddiqui,1997,171.8,78.5,66533.0,9.4,Karachi,Male,Sales,Bachelor,Mobile Wallet,Furniture,High,9633.0,1518.0,4243.0,10,58543,2025-06-05,No
+10447,Hussain,Malik,1988,157.7,70.3,213597.0,7.9,Karachi,Female,Operations,Bachelor,Debit Card,Furniture,Medium,12731.0,2610.0,6831.0,5,186,2026-07-08,No
+10006,Hamza,Hussain,1998,195.2,82.8,40021.0,3.1,Faisalabad,Male,Finance,Bachelor,Cash,Furniture,Medium,3640.0,10395.0,6517.0,10,99822,2025-11-11,Yes
+10117,Hira,Ali,1993,166.8,74.5,77082.0,5.5,Karachi,Male,Finance,Master,Cash,Clothing,Medium,14995.0,19348.0,6325.0,9,31855,2024-02-15,Yes
+10046,Hassan,Qureshi,2004,163.2,70.4,144232.0,0.0,Lahore,Male,HR,Bachelor,Mobile Wallet,Electronics,High,4276.0,15186.0,5414.0,12,54821,2025-11-25,Yes
+10017,Ali,Qureshi,1999,185.3,73.4,62463.0,,Faisalabad,Male,Finance,Master,Bank Transfer,Grocery,High,11762.0,11793.0,11205.0,6,54113,2025-11-26,No
+10468,Laiba,Sheikh,1994,196.3,77.5,1200000.0,7.8,Karachi,Female,Marketing,Bachelor,Mobile Wallet,Grocery,Low,6391.0,17761.0,12397.0,4,66866,2024-03-07,Yes
+10362,Zoya,Qureshi,1978,167.0,51.3,244157.0,16.8,Karachi,Female,Sales,Master,Debit Card,Furniture,Medium,11980.0,9511.0,11526.0,4,59894,2024-02-06,Yes
+10004,Ayesha,Khan,1989,167.5,72.4,92981.0,4.9,Karachi,Male,Finance,Master,Cash,Clothing,Medium,12316.0,16130.0,17102.0,10,14539,2025-07-13,Yes
+10295,Hassan,Ali,1993,179.0,75.8,25000.0,0.3,Lahore,Male,Marketing,Bachelor,Credit Card,Grocery,Medium,14556.0,9259.0,26435.0,7,90160,2024-12-01,Yes
+10186,Usman,Qureshi,2005,154.0,48.1,36008.0,1.4,Islamabad,Male,Finance,Bachelor,Mobile Wallet,Furniture,Medium,9715.0,3651.0,6750.0,5,36787,2024-10-04,Yes
+10061,Hussain,Ahmed,2001,159.1,68.2,47766.0,0.9,Karachi,Male,Finance,Master,Credit Card,Grocery,High,5569.0,14774.0,21871.0,13,65207,2024-03-14,Yes
+10111,Ali,Siddiqui,1984,154.7,68.1,76284.0,12.5,Karachi,Male,Marketing,Master,Cash,Books,Low,22792.0,870.0,9646.0,9,21095,2026-04-28,Yes
+10321,Hamza,Qureshi,1981,177.1,66.8,129543.0,15.3,Rawalpindi,Male,Marketing,Bachelor,Debit Card,Books,Low,12083.0,1202.0,7970.0,8,88305,2026-07-05,Yes
+10266,Ali,Hussain,1981,174.1,68.8,109873.0,14.6,Lahore,Male,Finance,PhD,Bank Transfer,Clothing,Medium,11384.0,3714.0,11442.0,6,28088,2026-03-20,No
+10030,Mariam,Siddiqui,1982,169.3,74.0,133090.0,10.0,Lahore,Male,IT,,Bank Transfer,Furniture,High,8151.0,3168.0,6895.0,9,79947,2026-01-04,No
+10263,Hamza,Hussain,1970,174.4,71.9,82789.0,16.9,Lahore,Female,Operations,Bachelor,Mobile Wallet,Electronics,Medium,19150.0,8753.0,15320.0,7,85440,2025-01-14,Yes
+10478,Saad,Malik,1965,154.9,66.6,99280.0,25.0,Karachi,Male,Marketing,Master,Mobile Wallet,Grocery,Medium,11487.0,6069.0,31395.0,5,49650,2026-03-12,No
+10027,Laiba,Malik,1982,174.2,63.1,47455.0,14.8,Karachi,Male,IT,Bachelor,Bank Transfer,Grocery,Low,29770.0,3592.0,8061.0,7,83221,2025-04-01,No
+10008,Ayesha,Siddiqui,1974,167.0,77.9,65327.0,18.7,Karachi,Female,IT,Bachelor,Credit Card,Books,Medium,10807.0,18842.0,10007.0,7,38656,2025-01-08,No
+10458,Zoya,Qureshi,1995,178.8,62.3,54273.0,4.9,Faisalabad,Male,HR,Bachelor,Debit Card,Grocery,Medium,10574.0,10271.0,11303.0,12,27656,2026-08-12,No
+10109,Maham,Khan,1982,164.3,63.5,82303.0,16.5,Lahore,Female,Operations,Bachelor,Bank Transfer,Books,High,11602.0,4979.0,11000.0,10,79997,2026-04-10,No
+10038,Saad,Qureshi,2003,180.8,88.7,25000.0,0.0,Lahore,Male,Finance,Master,Cash,Clothing,High,8563.0,11451.0,8368.0,6,60507,2024-09-03,No
+10158,Hira,Ali,1965,172.2,72.4,72329.0,21.8,Karachi,Female,Finance,Master,Mobile Wallet,Clothing,High,,10379.0,16753.0,9,78671,2025-09-13,No
+10472,Zoya,Qureshi,1976,167.6,62.9,44980.0,23.5,Karachi,Female,Finance,Master,Bank Transfer,Electronics,Medium,7658.0,10248.0,13161.0,9,38796,2024-07-02,No
+10119,Sara,Khan,1977,165.8,61.5,74808.0,15.8,Karachi,Male,Sales,Bachelor,Debit Card,Books,Medium,7719.0,27034.0,5879.0,8,69433,2025-10-11,Yes
+10115,Saad,Khan,1986,181.9,,115362.0,9.9,Karachi,Male,IT,Master,Debit Card,Books,High,9988.0,5765.0,5789.0,6,53150,2025-02-06,Yes
+10176,Ali,Raza,1994,162.2,60.4,,8.9,Karachi,Female,IT,PhD,Bank Transfer,Electronics,Medium,9709.0,7134.0,16540.0,5,24584,2025-07-02,No
+10193,Ali,Ahmed,1980,145.0,67.7,140785.0,17.7,Faisalabad,Female,Sales,School,Bank Transfer,Grocery,High,5319.0,4103.0,13298.0,6,3572,2025-12-24,Yes
+10273,Sara,Sheikh,2005,166.1,70.9,1000000.0,0.0,Lahore,Male,Finance,Master,Bank Transfer,Books,Medium,4168.0,1670.0,7719.0,7,78580,2024-11-28,Yes
+10145,Laiba,Ahmed,1965,158.6,70.9,47472.0,24.3,Karachi,Female,Sales,School,Cash,Furniture,Medium,6891.0,9472.0,21758.0,10,30580,2024-08-04,No
+10490,Sana,Ali,1995,168.2,68.2,111554.0,7.2,Rawalpindi,Male,IT,Master,Bank Transfer,Books,Medium,1129.0,2276.0,3836.0,11,8913,2024-02-23,No
+10383,Maham,Butt,1990,182.0,,45491.0,9.4,Karachi,Male,Finance,Bachelor,Cash,Electronics,High,4845.0,13860.0,7342.0,10,29950,2024-01-18,No
+10356,Laiba,Sheikh,1984,173.6,63.4,50278.0,13.5,Lahore,Male,HR,Bachelor,Mobile Wallet,Grocery,Low,15060.0,9902.0,8369.0,9,38600,2024-02-25,No
+10278,Hira,Sheikh,2004,160.4,65.7,58833.0,0.0,Karachi,Male,Marketing,PhD,Cash,Electronics,High,11541.0,10264.0,7857.0,8,86341,2025-12-25,Yes
+10221,Zoya,Khan,1976,167.0,68.5,68310.0,16.3,Lahore,Female,Sales,Master,Bank Transfer,Books,High,4950.0,14865.0,15616.0,4,394,2026-04-15,No
+10450,Usman,Sheikh,1991,155.0,63.9,27917.0,9.1,,Male,Finance,Bachelor,Cash,Grocery,Medium,8939.0,4200.0,12380.0,6,56203,2026-06-22,No
+10142,Hamza,Khan,2003,171.4,47.1,43783.0,0.0,Lahore,Female,Sales,Bachelor,Cash,Electronics,High,12846.0,6661.0,9485.0,18,50909,2025-10-29,Yes
+10369,Hira,Butt,1983,189.6,94.9,36723.0,16.4,Karachi,Female,Marketing,Master,Cash,Clothing,Medium,12888.0,9500.0,7806.0,9,98630,2024-08-15,No
+10068,Sana,Malik,2001,175.4,73.7,25000.0,0.4,Karachi,Male,Finance,Bachelor,Bank Transfer,Furniture,High,5179.0,2809.0,10723.0,11,15774,2024-12-13,Yes
+10361,Mariam,Ali,1995,160.2,69.7,,7.0,Faisalabad,Male,Sales,School,Cash,Electronics,High,9957.0,9929.0,10954.0,9,94401,2024-02-23,No
+10169,Usman,Ahmed,1967,160.2,67.4,35233.0,26.8,Karachi,Male,Sales,Bachelor,Cash,Electronics,High,13308.0,21524.0,14673.0,5,76151,2025-08-04,No
+10499,Ayesha,Ali,2003,153.5,60.0,25000.0,7.4,Karachi,Female,Marketing,Bachelor,Credit Card,Grocery,Low,4907.0,3902.0,14529.0,8,54734,2024-08-12,No
+10379,Fatima,Ali,2003,170.9,65.7,27651.0,,Islamabad,Female,Finance,School,Cash,Furniture,Medium,20297.0,9789.0,7953.0,9,83960,2025-05-10,No
+10366,Fatima,Khan,1975,173.8,67.0,159640.0,19.3,Faisalabad,Female,Finance,PhD,Bank Transfer,Electronics,High,5899.0,2387.0,17666.0,5,55960,2026-05-12,Yes
+10194,Saad,Raza,1998,171.4,73.5,56920.0,3.2,Karachi,Male,Finance,Bachelor,Debit Card,Furniture,Medium,14476.0,4124.0,7131.0,6,19577,2025-06-23,No
+10250,Iqra,Malik,2002,169.1,68.3,68075.0,3.1,Karachi,Male,Finance,Master,Bank Transfer,Grocery,Medium,9268.0,6141.0,10075.0,9,87098,2025-07-02,Yes
+10110,Hassan,Butt,1969,161.7,74.9,32872.0,27.7,Karachi,Female,Marketing,Bachelor,Credit Card,Electronics,High,9015.0,8352.0,5773.0,5,33938,2025-08-29,Yes
+10434,Iqra,Butt,1965,157.2,52.8,83481.0,25.8,Karachi,Male,Marketing,Bachelor,,Furniture,Medium,4770.0,3771.0,15713.0,2,15629,2024-07-17,No
+10146,Sara,Qureshi,1975,180.1,73.4,48232.0,17.2,Karachi,Male,HR,School,Credit Card,Electronics,High,8488.0,2645.0,15505.0,10,55179,2025-03-06,Yes
+10093,Hamza,Raza,1998,174.3,56.7,89828.0,2.2,Lahore,Male,HR,Master,Cash,Furniture,Medium,5518.0,6086.0,11950.0,10,74629,2025-04-01,No
+10153,Usman,Malik,1981,159.4,70.9,88094.0,18.5,Islamabad,,Operations,Bachelor,Credit Card,Books,High,12066.0,12725.0,4421.0,6,63519,2025-11-30,Yes
+10223,Ali,Ali,1992,166.2,64.6,84920.0,6.1,Karachi,Female,,Master,Credit Card,Electronics,Low,5141.0,5536.0,7118.0,9,59455,2024-07-01,No
+10410,Ahmed,Hussain,1994,148.9,54.2,88410.0,0.0,Lahore,Female,Marketing,Bachelor,Debit Card,Electronics,Medium,17056.0,3053.0,16668.0,7,10473,2026-01-28,No
+10084,Zoya,Ali,1986,155.2,69.6,142568.0,13.9,Lahore,Female,HR,Master,Bank Transfer,Clothing,Medium,17506.0,3306.0,25945.0,7,84292,2024-07-09,No
+10249,Maham,Qureshi,1982,176.9,62.2,77527.0,16.2,Karachi,Female,HR,Master,,Furniture,High,9341.0,6514.0,13583.0,9,88213,2025-05-02,No
+10166,Ahmed,Raza,1975,174.1,70.4,25893.0,19.3,Lahore,Male,Finance,Bachelor,Mobile Wallet,Clothing,High,5052.0,9007.0,7979.0,10,98845,2024-10-01,Yes
+10164,Fatima,Malik,1983,179.4,79.8,42390.0,9.5,Karachi,Male,HR,Master,Mobile Wallet,Furniture,High,7197.0,14595.0,16555.0,4,25166,2025-07-28,No
+10200,Mariam,Hussain,2004,169.5,70.4,75068.0,1.4,Karachi,Female,IT,School,Debit Card,Grocery,Medium,16952.0,1607.0,23244.0,5,64528,2026-02-15,No
+10232,Sana,Raza,1988,180.6,75.3,139349.0,10.7,Lahore,Female,Marketing,Master,Cash,Books,High,4498.0,5575.0,4984.0,10,86291,2024-06-22,Yes
+10075,Sara,Butt,1985,160.0,67.7,40552.0,16.7,Islamabad,Male,Finance,School,Cash,Furniture,High,10053.0,5366.0,13961.0,6,73933,2026-04-04,No
+10311,Omar,Butt,1988,161.8,71.0,110419.0,12.9,Islamabad,Female,IT,PhD,Debit Card,Electronics,High,,9331.0,10387.0,14,51096,2026-05-31,Yes
+10455,Sana,Qureshi,1993,170.0,67.0,35386.0,9.3,Lahore,Female,HR,School,Debit Card,Grocery,Medium,9972.0,7311.0,9629.0,6,94081,2025-01-07,Yes
+10254,Saad,Ahmed,1980,180.8,73.5,65581.0,13.6,Karachi,Female,Operations,Bachelor,Cash,Clothing,High,11525.0,7932.0,13776.0,8,52331,2024-06-10,Yes
+10120,Mariam,Butt,1973,181.2,75.2,65155.0,20.0,Lahore,Female,Sales,Bachelor,Credit Card,Clothing,High,9844.0,5610.0,16934.0,7,58969,2025-01-03,No
+10285,Zoya,Siddiqui,1992,166.5,69.1,25000.0,3.9,Faisalabad,Male,HR,PhD,Mobile Wallet,Books,Medium,12433.0,11485.0,3758.0,10,82788,2026-02-01,No
+10302,Hassan,Hussain,1991,152.9,66.0,202068.0,10.1,Faisalabad,Male,Operations,PhD,Mobile Wallet,Grocery,Low,3780.0,13433.0,10606.0,5,81007,2024-09-06,Yes
+10483,Hira,Khan,1970,169.5,67.4,27345.0,22.4,Karachi,Male,Finance,School,Debit Card,Clothing,Medium,10597.0,9725.0,11195.0,8,78054,2025-06-06,No
+10357,Sana,Khan,1983,166.9,70.8,105492.0,11.6,Islamabad,Male,Sales,Master,Mobile Wallet,Grocery,Medium,14195.0,5806.0,10847.0,4,98346,2026-03-23,Yes
+10403,Mariam,Khan,1993,172.6,75.5,59338.0,8.2,Lahore,Male,Finance,Master,Cash,Books,Medium,12940.0,6889.0,8699.0,10,1505,2024-04-20,No
+10229,Saad,Siddiqui,1978,,70.6,71967.0,15.8,Rawalpindi,Male,HR,Bachelor,Debit Card,Electronics,Low,2795.0,2867.0,4264.0,6,52907,2026-06-20,No
+10262,Omar,Siddiqui,1978,145.0,59.8,59891.0,22.0,Karachi,Male,Operations,Bachelor,Bank Transfer,Electronics,Medium,5278.0,4162.0,13121.0,6,99134,2024-11-29,Yes
+10238,Ayesha,Qureshi,2000,175.4,66.5,106849.0,2.1,Lahore,Male,Marketing,Master,Credit Card,Clothing,Medium,20517.0,9012.0,8182.0,4,95158,2026-02-10,No
+10438,Zain,Raza,1968,165.6,87.1,94837.0,16.5,Lahore,Male,IT,Master,Debit Card,Furniture,Medium,6316.0,3529.0,5410.0,12,3478,2024-08-31,No
+10476,Mariam,Ali,1990,,70.0,88097.0,9.1,Karachi,Male,Operations,PhD,Cash,Grocery,Medium,17317.0,10346.0,30941.0,6,76204,2026-04-28,Yes
+10037,Iqra,Sheikh,1968,173.6,72.4,37375.0,23.1,Karachi,Female,Operations,Master,Mobile Wallet,Grocery,Low,14439.0,11221.0,10345.0,7,83248,2024-04-13,Yes
+10197,Hassan,Malik,1989,167.7,61.3,93277.0,11.2,Karachi,Female,Finance,Master,Mobile Wallet,Furniture,Medium,6595.0,6499.0,3409.0,10,25707,2025-01-19,Yes
+10140,Laiba,Malik,1980,180.6,76.8,65744.0,14.7,Islamabad,Female,Finance,Bachelor,Bank Transfer,Books,Medium,6325.0,2550.0,7802.0,12,77657,2024-04-22,Yes
+10368,Ali,Ahmed,1998,191.9,77.5,42229.0,1.0,Karachi,Male,Finance,Bachelor,Mobile Wallet,Electronics,Medium,5819.0,633.0,11899.0,5,85918,2025-05-22,No
+10248,Iqra,Siddiqui,1984,173.0,78.7,55839.0,15.1,Karachi,Male,Sales,School,Debit Card,Clothing,Medium,7827.0,8419.0,11546.0,10,96778,2024-04-20,No
+10288,Maham,Raza,1996,177.2,81.7,39117.0,1.4,Islamabad,Female,IT,Bachelor,Bank Transfer,Grocery,High,11172.0,2973.0,26605.0,8,93121,2026-06-28,No
+10378,Hassan,Qureshi,1975,164.0,69.5,137061.0,15.5,Faisalabad,Male,Operations,PhD,Credit Card,Grocery,Medium,6961.0,1743.0,16096.0,8,79767,2026-03-06,Yes
+10060,Zain,Ali,1976,172.4,80.0,30982.0,15.2,Karachi,Female,Operations,PhD,Bank Transfer,Grocery,Medium,9987.0,12808.0,18021.0,11,38625,2026-05-12,No
+10112,Usman,Ali,1987,145.0,81.5,195725.0,12.6,Rawalpindi,Male,Sales,Master,Mobile Wallet,Furniture,High,10925.0,8829.0,9408.0,7,27925,2025-05-09,Yes
+10090,Zain,Butt,1994,162.6,60.9,107448.0,3.7,Karachi,Female,Operations,Bachelor,Debit Card,Grocery,High,2357.0,13719.0,23022.0,5,18640,2024-03-12,Yes
+10267,Sana,Raza,1987,188.3,78.8,28712.0,10.6,Lahore,Female,IT,Bachelor,Cash,Clothing,Medium,13843.0,13097.0,16657.0,10,87830,2026-03-19,No
+10007,Mariam,Qureshi,1989,169.2,68.8,25000.0,14.6,Karachi,Male,Operations,Bachelor,Mobile Wallet,Electronics,Medium,14146.0,8854.0,7332.0,10,83454,2026-05-15,Yes
+10457,Iqra,Raza,1999,162.2,60.2,53037.0,0.9,Karachi,Female,Operations,School,Mobile Wallet,Books,Low,4470.0,3346.0,7364.0,8,76821,2025-08-17,No
+10348,Hamza,Qureshi,1972,165.9,62.3,57131.0,21.5,Lahore,Female,Sales,Master,Debit Card,Grocery,Medium,2840.0,1329.0,9798.0,8,72132,2024-05-27,Yes
+10341,Ayesha,Raza,1991,184.4,79.3,25000.0,6.8,Rawalpindi,Female,Finance,Bachelor,Bank Transfer,Furniture,Low,19213.0,5494.0,6342.0,4,77149,2026-03-14,No
+10159,Saad,Khan,1992,172.3,71.7,43759.0,6.6,Lahore,Female,IT,Bachelor,Mobile Wallet,Furniture,Medium,10401.0,14824.0,5058.0,9,76378,2024-05-24,Yes
+10151,Omar,Raza,1976,171.8,60.0,102324.0,13.1,Islamabad,Female,Sales,Master,Debit Card,Books,High,11487.0,5654.0,9222.0,4,63480,2024-01-09,Yes
+10178,Mariam,Qureshi,2002,173.8,50.4,47848.0,0.0,Karachi,Male,Marketing,School,Bank Transfer,Clothing,Medium,5505.0,7638.0,17547.0,5,61923,2024-05-09,Yes
+10397,Zain,Raza,2005,171.8,70.2,77022.0,0.0,Karachi,Male,Finance,School,Credit Card,Clothing,Medium,5946.0,4950.0,9555.0,13,96094,2026-05-16,No
+10185,Bilal,Siddiqui,1977,166.3,67.2,97527.0,15.0,Rawalpindi,Male,HR,Bachelor,Debit Card,Clothing,Medium,7647.0,5746.0,20056.0,5,41645,2025-09-23,No
+10318,Hassan,Raza,1967,164.1,78.2,92536.0,21.1,Lahore,Male,Sales,School,Mobile Wallet,Grocery,High,16215.0,2902.0,8727.0,6,10020,2025-04-17,No
+10011,Omar,Siddiqui,2005,186.0,74.8,109964.0,0.0,Karachi,Female,Sales,Master,Bank Transfer,Furniture,Medium,12552.0,4767.0,29877.0,5,61290,2024-03-07,Yes
+10384,Usman,Butt,2002,175.9,75.3,102708.0,8.8,Karachi,Male,Finance,School,Debit Card,Furniture,High,8336.0,9187.0,4183.0,5,3528,2026-08-16,No
+10104,Hassan,Qureshi,1979,165.0,71.8,124841.0,15.7,Islamabad,Male,Sales,Master,Bank Transfer,Electronics,Medium,7940.0,5600.0,5054.0,5,89018,2026-06-11,Yes
+10082,Ayesha,Ahmed,2000,169.9,69.4,76841.0,7.9,Karachi,Male,Marketing,School,Bank Transfer,Clothing,High,16921.0,10619.0,6560.0,5,59871,2026-02-14,No
+10039,Ahmed,Ali,1966,159.8,78.9,40670.0,27.9,Lahore,Male,Operations,Master,Cash,Books,Low,10206.0,2958.0,6179.0,6,24968,2026-03-22,Yes
+10317,Zain,Sheikh,1984,181.4,,124513.0,15.3,Rawalpindi,Male,Marketing,Bachelor,Debit Card,Grocery,Medium,8197.0,5080.0,6594.0,6,13937,2024-06-21,Yes
+10168,Zoya,Raza,1975,171.7,69.2,44577.0,20.0,Lahore,Female,Operations,Bachelor,Bank Transfer,Clothing,Low,9067.0,3057.0,20774.0,9,73171,2024-03-26,No
+10475,Saad,Siddiqui,1982,177.7,81.4,87298.0,9.8,Rawalpindi,Male,Operations,Bachelor,Mobile Wallet,Grocery,High,9059.0,365.0,10414.0,7,62540,2025-05-19,No
+10299,Hassan,Butt,1986,179.7,68.4,184815.0,9.2,,Female,Sales,School,Bank Transfer,Grocery,Medium,8968.0,11529.0,17414.0,8,52381,2024-05-09,No
+10405,Usman,Ahmed,1997,179.1,77.3,63938.0,,Lahore,Female,Marketing,School,Cash,Clothing,High,7721.0,3300.0,21035.0,10,76773,2026-04-29,Yes
+10199,Hussain,Hussain,1976,183.7,73.1,159380.0,21.8,Faisalabad,Male,Marketing,Master,Cash,Furniture,Medium,5021.0,3379.0,9986.0,13,86196,2024-09-21,No
+10377,Usman,Raza,1971,174.1,68.9,40241.0,20.9,Faisalabad,Male,Finance,Bachelor,Debit Card,Books,Low,12454.0,30050.0,7733.0,4,15214,2025-03-23,Yes
+10147,Saad,Hussain,1985,163.5,63.6,52801.0,8.3,Islamabad,Female,Operations,Bachelor,Mobile Wallet,Books,Medium,4642.0,7024.0,13463.0,10,57585,2024-10-18,No
+10396,Usman,Malik,1992,162.5,62.4,73364.0,5.0,Karachi,Female,Marketing,Bachelor,Cash,Furniture,Medium,6049.0,7953.0,3178.0,5,30000,2024-10-07,No
+10148,Hassan,Siddiqui,1968,161.8,85.1,43062.0,26.0,Karachi,Male,HR,School,Bank Transfer,Electronics,High,11733.0,1485.0,8943.0,6,65021,2026-06-11,No
+10484,Sana,Butt,1972,174.8,72.2,37489.0,23.3,Lahore,Male,Operations,,Mobile Wallet,Electronics,Medium,,13088.0,15567.0,9,56279,2026-05-29,Yes
+10290,Hassan,Siddiqui,1977,152.6,57.9,40943.0,17.2,Karachi,Male,Finance,Bachelor,Debit Card,Electronics,High,4309.0,23885.0,3720.0,8,38853,2025-05-09,No
+10124,Hussain,Butt,1983,183.2,68.1,39016.0,18.2,Rawalpindi,Male,IT,Master,Credit Card,Grocery,Medium,11904.0,7509.0,5056.0,6,24100,2026-06-26,Yes
+10372,Omar,Ahmed,1992,179.2,75.7,88614.0,9.1,Lahore,Male,Marketing,Bachelor,Credit Card,Books,Low,11294.0,13393.0,25117.0,7,16492,2025-12-23,Yes
+10097,Ahmed,Ali,1986,154.9,50.6,84505.0,9.7,Karachi,Male,Finance,School,Bank Transfer,Electronics,Low,5502.0,11844.0,9504.0,11,60640,2024-02-21,Yes
+10144,Ali,Qureshi,1988,170.6,71.5,93916.0,14.5,Karachi,Female,Marketing,Bachelor,Credit Card,Furniture,Medium,3350.0,12148.0,13938.0,5,70656,2025-12-14,Yes
+10240,Omar,Malik,1986,184.4,87.5,45197.0,13.9,Lahore,Female,Sales,Master,Cash,Furniture,High,,7170.0,7248.0,8,66200,2025-02-12,No
+10276,Ahmed,Ali,1991,166.7,61.3,158515.0,7.8,Karachi,Female,Operations,PhD,Debit Card,Books,Medium,10112.0,2334.0,17339.0,9,72884,2025-02-23,Yes
+10098,Ali,Ahmed,2000,162.0,,52211.0,2.9,Faisalabad,Male,HR,Master,,Grocery,Medium,5347.0,2166.0,10747.0,10,3160,2025-07-27,Yes
+10353,Hira,Ahmed,1977,172.3,67.6,45592.0,16.3,Lahore,Female,IT,Master,Debit Card,Furniture,Low,10454.0,8676.0,13402.0,7,42927,2026-07-03,No
+10123,Laiba,Khan,1968,165.6,65.7,183341.0,21.8,Islamabad,Female,Finance,Bachelor,Cash,Electronics,Low,8918.0,12334.0,12159.0,5,72576,2025-02-05,Yes
+10184,Zoya,Sheikh,1997,171.3,76.6,,5.0,Islamabad,Male,Operations,Master,Bank Transfer,Electronics,High,12588.0,7462.0,12485.0,6,51269,2026-08-23,No
+10203,Laiba,Sheikh,1990,157.5,48.9,34308.0,11.7,Faisalabad,Male,HR,Master,Credit Card,Books,Medium,6681.0,612.0,8923.0,7,2775,2025-12-03,No
+10247,Hassan,Ahmed,2000,187.9,76.3,70014.0,1.4,Karachi,Female,HR,Bachelor,Cash,Clothing,Low,13064.0,738.0,25180.0,8,56777,2024-05-30,No
+10308,Zain,Malik,1996,173.4,70.3,,13.1,Lahore,Male,Sales,Master,Mobile Wallet,Electronics,Medium,28944.0,2844.0,13715.0,6,38724,2024-05-20,No
+10423,Ali,Sheikh,1971,168.3,70.2,267098.0,23.1,Islamabad,Female,Sales,Bachelor,Debit Card,Electronics,Medium,10920.0,15187.0,15199.0,7,16869,2026-02-24,No
+10354,Hassan,Qureshi,1992,165.4,53.9,111582.0,10.4,Karachi,Female,Sales,PhD,Bank Transfer,Grocery,Low,9713.0,16203.0,12163.0,5,90215,2024-12-13,Yes
+10303,Omar,Sheikh,1989,173.2,57.7,98374.0,7.2,Rawalpindi,Female,Sales,Master,Bank Transfer,Clothing,Low,7623.0,2318.0,19545.0,9,48958,2026-01-03,Yes
+10399,Hussain,Hussain,1987,154.8,71.9,67854.0,9.0,Islamabad,Female,Sales,Bachelor,Cash,Books,Medium,10057.0,8918.0,9613.0,10,94325,2024-05-12,Yes
+10287,Fatima,Butt,1987,169.3,79.4,130086.0,10.6,Karachi,Male,Finance,Bachelor,Mobile Wallet,Electronics,Low,5840.0,17398.0,8711.0,8,39721,2026-01-08,Yes
+10126,Hamza,Raza,1995,157.8,59.6,138748.0,1.6,Karachi,Male,Operations,Master,Credit Card,Clothing,Medium,11378.0,19010.0,5277.0,9,50294,2024-01-23,No
+10305,Iqra,Hussain,1965,175.5,73.2,71433.0,23.9,Islamabad,Male,Finance,Master,Bank Transfer,Electronics,Medium,10334.0,7083.0,6310.0,12,77265,2024-05-17,Yes
+10224,Sana,Siddiqui,1984,164.6,59.3,25000.0,14.2,Lahore,Male,Marketing,Bachelor,Debit Card,Books,Medium,20839.0,4354.0,6009.0,9,12057,2025-01-25,Yes
+10422,Hassan,Hussain,1989,164.8,61.0,78303.0,11.8,Islamabad,Female,Sales,PhD,Cash,Books,High,6440.0,13373.0,15236.0,6,67760,2025-07-21,No
+10220,Laiba,Raza,1979,178.7,78.2,82719.0,17.6,Karachi,Male,Sales,Master,Mobile Wallet,Grocery,Medium,8655.0,3955.0,15316.0,11,8788,2024-01-17,Yes
+10130,Hussain,Butt,1983,161.6,57.9,72694.0,12.9,Lahore,Female,IT,School,Debit Card,Grocery,Medium,8628.0,9524.0,14422.0,11,48107,2024-04-27,Yes
+10424,Ali,Raza,1986,180.8,75.1,87424.0,14.5,Rawalpindi,Male,Finance,Bachelor,Debit Card,Books,Medium,4229.0,9755.0,13892.0,7,99733,2025-02-12,Yes
+10292,Usman,Qureshi,1999,161.1,71.3,49935.0,0.0,Karachi,Female,Finance,Bachelor,Mobile Wallet,Electronics,Medium,10200.0,4260.0,16318.0,4,90352,2024-06-17,No
+10493,Zain,Hussain,1997,165.4,45.0,110512.0,2.9,Lahore,Male,Finance,Master,Bank Transfer,Clothing,High,16617.0,8903.0,5302.0,3,50427,2026-01-14,No
+10394,Hussain,Hussain,1971,175.7,64.9,26762.0,18.6,Islamabad,Male,IT,Master,Credit Card,Books,Medium,18154.0,163.0,11806.0,6,46546,2025-07-18,No
+10480,Maham,Ali,1987,155.3,70.5,43943.0,6.9,Islamabad,Male,Finance,Bachelor,Cash,Furniture,High,11224.0,7264.0,7614.0,8,95118,2025-04-16,No
+10358,Sara,Butt,2003,154.2,72.5,31302.0,0.3,Karachi,Male,Operations,Bachelor,Credit Card,Grocery,Medium,6399.0,2403.0,25084.0,8,93331,2024-11-11,Yes
+10297,Laiba,Butt,1989,169.3,72.8,76774.0,13.5,Karachi,Female,HR,Bachelor,Debit Card,Grocery,Medium,17930.0,5111.0,10088.0,6,68994,2026-05-06,Yes
+10370,Ahmed,Qureshi,1970,171.4,81.1,92711.0,23.5,Islamabad,Female,Sales,Master,Debit Card,Clothing,Medium,3548.0,4559.0,16720.0,7,89126,2025-03-03,No
+10343,Ali,Sheikh,1977,182.6,77.4,183402.0,15.8,Karachi,Female,Marketing,Master,Cash,Grocery,Low,7605.0,16467.0,11275.0,9,60599,2026-08-03,Yes
+10113,Maham,Raza,1975,177.0,65.0,90999.0,21.1,Faisalabad,Male,IT,Master,Bank Transfer,Electronics,Medium,15355.0,19519.0,11945.0,11,83326,2024-02-26,Yes
+10180,Fatima,Siddiqui,1989,164.6,70.0,69664.0,4.0,Lahore,Female,HR,School,Bank Transfer,Electronics,Medium,12120.0,10160.0,5384.0,3,86349,2026-03-14,No
+10419,Ayesha,Sheikh,2002,176.5,61.2,59140.0,7.0,Faisalabad,,HR,Master,Bank Transfer,Electronics,Medium,14383.0,15966.0,14436.0,7,21324,2025-05-29,No
+10342,Usman,Butt,1977,170.7,71.2,30406.0,17.7,Karachi,Male,Sales,Bachelor,Mobile Wallet,Books,Medium,8238.0,5210.0,3505.0,13,19308,2026-06-24,No
+10333,Ahmed,Sheikh,1976,164.7,76.0,156723.0,23.2,Islamabad,Male,Sales,,Bank Transfer,Furniture,Low,13792.0,18795.0,6371.0,9,21321,2025-05-31,No
+10487,Fatima,Sheikh,1983,167.6,79.2,40413.0,17.0,,Female,Marketing,PhD,Bank Transfer,Clothing,Medium,10894.0,9667.0,8238.0,7,88341,2025-06-19,No
+10363,Mariam,Raza,1975,175.4,82.9,89147.0,20.7,Lahore,Female,Marketing,Bachelor,Debit Card,Furniture,High,1727.0,14119.0,8599.0,9,42637,2025-12-23,Yes
+10234,Hassan,Khan,1998,164.0,71.8,63754.0,5.1,Islamabad,Female,Marketing,Bachelor,Debit Card,Furniture,High,19841.0,2902.0,8083.0,7,20906,2025-07-19,Yes
+10473,Hussain,Siddiqui,1994,159.5,65.6,70474.0,6.1,Lahore,Male,Sales,,Cash,Grocery,Medium,14149.0,13008.0,8262.0,7,51426,2024-02-04,Yes
+10165,Hamza,Hussain,1990,165.4,68.9,62819.0,7.0,Islamabad,Male,Sales,PhD,Bank Transfer,Clothing,High,10446.0,13709.0,6350.0,4,67286,2025-02-02,Yes
+10137,Bilal,Butt,1988,167.1,61.6,68877.0,9.5,Lahore,,Sales,PhD,Cash,Clothing,Medium,3587.0,968.0,6278.0,11,35959,2024-09-21,Yes
+10198,Laiba,Ali,1966,156.7,71.4,137774.0,25.3,Lahore,Female,Marketing,Bachelor,Credit Card,Furniture,Medium,8952.0,5139.0,18943.0,6,79855,2025-10-30,Yes
+10259,Maham,Ali,1978,164.6,63.4,41502.0,18.5,Karachi,Female,Finance,PhD,Mobile Wallet,Grocery,Low,14083.0,14200.0,4501.0,8,21038,2024-03-23,Yes
+10233,Sana,Qureshi,1978,181.0,76.5,89006.0,17.8,,Female,HR,PhD,Mobile Wallet,Books,High,7598.0,1740.0,14232.0,9,44390,2025-03-16,Yes
+10116,Hira,Ahmed,1968,168.5,51.6,137512.0,20.4,Karachi,Male,Finance,Master,Bank Transfer,Grocery,High,4914.0,4038.0,8522.0,12,71446,2024-03-07,Yes
+10121,Hamza,Hussain,1995,169.7,64.8,97768.0,2.7,Karachi,Female,Sales,Bachelor,Bank Transfer,Grocery,Medium,4765.0,4851.0,8423.0,8,40835,2025-08-27,Yes
+10352,Laiba,Siddiqui,1987,170.5,69.4,127184.0,5.9,Faisalabad,Female,Sales,Master,Bank Transfer,Furniture,High,12168.0,22304.0,6725.0,11,34552,2026-05-26,No
+10225,Fatima,Ahmed,2003,174.3,65.8,39754.0,4.4,Rawalpindi,Female,IT,Master,Mobile Wallet,Clothing,Medium,12122.0,7631.0,5230.0,8,61484,2024-02-13,No
+10406,Sara,Butt,2000,162.0,63.2,59011.0,2.6,Lahore,Male,Sales,PhD,Mobile Wallet,Furniture,Low,10648.0,18498.0,10927.0,11,8003,2024-08-25,Yes
+10437,Omar,Raza,1981,169.5,53.4,29086.0,8.3,Karachi,Female,Finance,School,Cash,Furniture,Medium,7839.0,1991.0,9495.0,11,12461,2026-03-29,Yes
+10128,Hira,Butt,1985,187.5,54.8,35242.0,9.2,Faisalabad,Female,Sales,Bachelor,Mobile Wallet,Grocery,Medium,11641.0,14474.0,4959.0,8,31812,2024-09-23,Yes
+10286,Zoya,Ali,1983,157.2,55.8,68081.0,14.0,Karachi,Male,Operations,Bachelor,Cash,Clothing,High,1709.0,11196.0,4929.0,11,78041,2025-01-20,No
+10415,Hassan,Hussain,1994,161.4,65.7,89183.0,11.5,Islamabad,Male,Finance,Bachelor,Cash,Grocery,High,6924.0,7093.0,14892.0,11,78539,2026-05-11,No
+10108,Hira,Ahmed,1968,182.6,74.6,97585.0,20.6,Lahore,Female,HR,Bachelor,Credit Card,Furniture,Medium,7262.0,3087.0,5625.0,4,62887,2026-01-18,Yes
+10374,Ali,Malik,1999,162.4,86.1,45761.0,0.0,Lahore,Male,HR,Bachelor,Credit Card,Furniture,Medium,6365.0,4709.0,5345.0,8,39063,2024-01-01,No
+10371,Sana,Ali,2002,165.2,69.1,88990.0,2.0,Karachi,Male,Marketing,Master,Credit Card,Books,High,17775.0,6360.0,6063.0,9,1121,2026-05-19,No
+10134,Ahmed,Siddiqui,1974,157.1,63.1,25000.0,16.6,Faisalabad,Female,Operations,School,Bank Transfer,Electronics,Medium,,6704.0,10039.0,10,973,2024-02-24,No
+10400,Ahmed,Khan,1992,169.1,61.9,49815.0,5.3,Karachi,Male,Finance,School,Cash,Grocery,High,18383.0,5547.0,9800.0,6,97487,2025-03-24,No
+10045,Hira,Ali,1971,167.7,74.2,39199.0,24.2,Lahore,Female,IT,Bachelor,Mobile Wallet,Electronics,Medium,6742.0,1108.0,16087.0,9,16351,2025-12-30,No
+10466,Zoya,Qureshi,1968,168.0,64.4,130053.0,26.6,Lahore,Female,HR,Bachelor,Cash,Grocery,High,16843.0,5194.0,12147.0,8,79571,2025-06-08,Yes
+10066,Maham,Raza,1974,161.0,60.1,57824.0,19.4,Karachi,Male,IT,Bachelor,Bank Transfer,Electronics,Medium,10281.0,7140.0,10812.0,7,89759,2024-11-03,No
+10284,Hassan,Malik,1981,170.7,72.9,66440.0,15.3,Faisalabad,Male,IT,Bachelor,Credit Card,Books,Low,4813.0,13766.0,12444.0,7,51600,2024-02-13,Yes
+10086,Hassan,Raza,1980,165.8,58.1,83771.0,15.7,Rawalpindi,Male,Marketing,Master,Mobile Wallet,Grocery,Medium,4783.0,5094.0,10180.0,12,64039,2025-11-30,Yes
+10243,Omar,Raza,2000,181.6,66.0,53930.0,2.6,Islamabad,Female,HR,Bachelor,Debit Card,Electronics,High,2361.0,3753.0,13827.0,12,47260,2025-04-06,Yes
+10187,Laiba,Khan,2001,166.0,69.7,184419.0,3.0,Islamabad,Female,Marketing,Bachelor,Cash,Books,High,7490.0,7461.0,21349.0,7,95202,2025-12-14,Yes
+10387,Maham,Sheikh,1988,167.5,77.3,64152.0,15.3,Islamabad,Female,HR,Master,Cash,Electronics,High,6774.0,8097.0,41646.0,10,77295,2025-07-12,No
+10160,Laiba,Hussain,1971,186.7,72.2,145761.0,20.2,Lahore,Male,Finance,Bachelor,Credit Card,Clothing,High,9549.0,8959.0,12183.0,11,91672,2026-01-09,No
+10013,Ahmed,Butt,1978,163.9,75.9,37992.0,14.6,Karachi,Male,Sales,Bachelor,Cash,Electronics,High,7928.0,13114.0,13207.0,3,90983,2026-05-01,Yes
+10036,Maham,Siddiqui,1977,200.0,82.5,65532.0,19.3,Karachi,Female,Sales,PhD,Debit Card,Furniture,High,9988.0,6207.0,6444.0,7,52185,2025-12-05,Yes
+10029,Usman,Hussain,1980,189.1,76.2,89305.0,19.9,Lahore,Female,IT,Master,Mobile Wallet,Books,High,16401.0,1858.0,20574.0,8,59616,2024-12-10,Yes
+10171,Zoya,Ahmed,1967,178.8,78.8,114573.0,,Islamabad,Male,Sales,PhD,Debit Card,Furniture,High,5743.0,6714.0,11363.0,10,10283,2025-12-11,No
+10143,Ali,Khan,1995,182.0,67.7,42168.0,3.2,Karachi,Male,Operations,Bachelor,Credit Card,Electronics,Low,14095.0,5561.0,11509.0,5,7819,2024-01-08,Yes
+10417,Ali,Qureshi,1979,159.1,45.0,83115.0,17.9,Rawalpindi,Male,Finance,Bachelor,Debit Card,Clothing,Medium,8584.0,11513.0,12427.0,5,93787,2024-06-21,No
+10425,Omar,Ali,1981,181.4,86.7,51573.0,10.2,Islamabad,Male,Finance,Bachelor,Bank Transfer,Furniture,High,6291.0,1419.0,19811.0,3,2081,2025-11-18,Yes
+10222,Ahmed,Butt,2001,195.7,81.6,56197.0,5.1,Islamabad,Male,Marketing,Master,Bank Transfer,Grocery,High,14212.0,5706.0,20634.0,5,61776,2026-03-07,No
+10096,Fatima,Butt,2000,173.0,81.4,86789.0,7.2,Lahore,Female,,Bachelor,Debit Card,Grocery,Low,10533.0,7516.0,2984.0,8,54052,2025-04-23,No
+10052,Hussain,Butt,1985,172.6,62.5,65095.0,13.8,Karachi,Male,IT,Bachelor,Cash,Books,High,4861.0,8805.0,7606.0,10,5466,2025-01-09,Yes
+10241,Hussain,Sheikh,1978,161.8,72.2,52169.0,14.5,Rawalpindi,Male,Marketing,Bachelor,Debit Card,Clothing,High,11175.0,12076.0,14578.0,6,47302,2025-04-15,Yes
+10376,Hamza,Qureshi,1972,165.7,68.6,25000.0,20.3,Rawalpindi,Male,Sales,Bachelor,Cash,Grocery,Low,13393.0,6570.0,11617.0,9,89145,2025-05-17,No
+10382,Usman,Butt,1976,185.2,74.0,55395.0,18.2,Karachi,Male,Operations,Master,Bank Transfer,Furniture,Low,11750.0,6848.0,19623.0,5,66303,2025-11-30,No
+10179,Ahmed,Hussain,1992,157.6,69.3,48136.0,9.8,Faisalabad,Male,Operations,Master,Debit Card,Electronics,High,15363.0,8784.0,7170.0,21,6186,2025-03-23,Yes
+10042,Hamza,Malik,1991,184.0,82.2,40603.0,7.5,Lahore,Male,Finance,PhD,Bank Transfer,Grocery,Medium,15068.0,3641.0,5136.0,8,26623,2026-03-25,No
+10440,Mariam,Qureshi,1968,168.1,65.4,25000.0,16.4,Lahore,Male,Finance,Master,Cash,Furniture,Low,6545.0,8186.0,9035.0,9,89411,2025-01-27,Yes
+10391,Sana,Ahmed,1968,162.8,67.0,84438.0,24.8,Lahore,Male,Sales,Master,Bank Transfer,Furniture,Medium,3116.0,15103.0,19468.0,7,22120,2024-07-28,Yes
+10207,Ali,Ali,1998,162.4,71.9,54690.0,2.7,Rawalpindi,Male,Finance,PhD,Bank Transfer,Electronics,High,9325.0,9270.0,7385.0,7,80226,2024-11-21,No
+10283,Hussain,Khan,1999,168.9,61.9,208826.0,3.0,Rawalpindi,Male,Sales,PhD,Cash,Electronics,Medium,8090.0,16488.0,13890.0,11,47056,2024-01-10,Yes
+10255,Hussain,Siddiqui,1969,160.5,63.8,116592.0,27.2,Faisalabad,Male,Sales,Master,Debit Card,Furniture,Medium,8169.0,4301.0,11025.0,7,71083,2024-12-09,No
+10416,Ali,Malik,1993,168.6,69.1,,7.8,Karachi,Female,IT,Bachelor,Cash,Clothing,High,18106.0,14340.0,11497.0,8,43387,2026-04-03,No
+10005,Omar,Raza,1992,166.0,78.0,700000.0,,Lahore,Female,Operations,Bachelor,Bank Transfer,Books,High,8284.0,21960.0,8316.0,9,11972,2025-09-30,Yes
+10257,Hussain,Malik,1985,166.9,79.4,,14.7,Karachi,Male,IT,Bachelor,Cash,Grocery,High,12956.0,6835.0,7272.0,8,21281,2024-11-27,Yes
+10453,Zoya,Sheikh,1982,160.3,81.6,25031.0,13.3,Islamabad,Female,IT,Master,Bank Transfer,Clothing,Medium,11748.0,1545.0,22770.0,8,18459,2026-04-13,No
+10101,Hassan,Ahmed,1983,165.9,,30709.0,15.2,Rawalpindi,Male,Finance,School,Mobile Wallet,Furniture,Medium,12620.0,772.0,7177.0,9,18707,2024-09-20,No
+10227,Usman,Siddiqui,1985,162.4,81.7,136456.0,11.5,Karachi,Female,Operations,Bachelor,Bank Transfer,Furniture,Medium,8147.0,6591.0,11285.0,6,28430,2026-06-19,Yes
+10432,Ahmed,Ahmed,1991,171.5,72.6,70670.0,10.5,Lahore,Male,Marketing,Master,Debit Card,Books,Medium,8591.0,3809.0,11849.0,7,77586,2024-07-27,Yes
+10214,Iqra,Butt,1991,156.8,45.0,25000.0,7.1,,Male,IT,Bachelor,Mobile Wallet,Clothing,High,19480.0,5492.0,6805.0,8,57603,2024-07-20,No
+10426,Zain,Khan,1982,195.0,85.5,51500.0,15.2,Lahore,Male,Operations,Master,Debit Card,Books,High,9147.0,24234.0,16663.0,6,13777,2025-09-19,Yes
+10172,Zoya,Malik,1991,165.3,62.8,112850.0,13.4,Islamabad,Male,Marketing,Master,Mobile Wallet,Books,Medium,1815.0,2653.0,17149.0,9,20320,2026-05-25,Yes
+10099,Sana,Siddiqui,1973,177.7,71.3,68367.0,24.0,Islamabad,Male,Marketing,Master,Mobile Wallet,Clothing,Medium,11281.0,13531.0,14443.0,8,71193,2024-04-28,No
+10293,Zoya,Raza,1969,183.9,79.5,107179.0,26.0,Karachi,Male,Sales,Master,Debit Card,Electronics,Medium,4941.0,15330.0,5511.0,8,48866,2025-10-03,Yes
+10216,Hassan,Ahmed,1995,,65.5,107517.0,1.6,Islamabad,Male,HR,School,Cash,Electronics,High,11255.0,8225.0,19026.0,12,27183,2026-08-13,Yes
+10062,Maham,Ali,1994,161.0,71.7,56653.0,6.7,Islamabad,Male,Marketing,Master,Bank Transfer,Books,Medium,16829.0,5052.0,11601.0,6,44765,2025-03-13,No
+10048,Zoya,Raza,1977,179.2,63.7,59080.0,11.7,Karachi,Female,Sales,Master,,Furniture,Medium,3882.0,1229.0,9840.0,5,88233,2026-01-23,No
+10033,Hamza,Hussain,1980,174.0,62.0,139292.0,10.6,Karachi,Male,Finance,School,Mobile Wallet,Furniture,Low,14817.0,8145.0,17708.0,9,18914,2026-02-26,No
+10268,Fatima,Siddiqui,1978,171.1,58.4,161803.0,18.9,Karachi,Male,Finance,School,Credit Card,Electronics,High,8181.0,4079.0,22558.0,8,76214,2025-03-29,Yes
+10328,Sana,Malik,1997,176.9,74.1,39898.0,3.4,Islamabad,Female,IT,Master,Debit Card,Clothing,Medium,5476.0,9679.0,16559.0,6,55999,2026-04-29,Yes
+10201,Hassan,Raza,1973,168.4,58.7,100754.0,19.5,Islamabad,Male,Finance,Master,Debit Card,Clothing,Medium,10627.0,15877.0,10170.0,11,70566,2024-01-22,Yes
+10451,Saad,Siddiqui,1996,176.0,61.1,72321.0,0.6,Islamabad,Male,Marketing,Master,Bank Transfer,Books,High,12709.0,5001.0,5667.0,10,25216,2024-06-01,No
+10028,Hassan,Raza,1975,163.7,69.2,194272.0,22.5,Faisalabad,Male,Sales,Master,Bank Transfer,Grocery,Medium,3559.0,9914.0,2635.0,6,43119,2026-04-19,Yes
+10393,Hamza,Qureshi,1996,179.6,81.5,58306.0,10.4,Karachi,Female,Sales,Master,Cash,Books,High,6520.0,4184.0,7855.0,8,53987,2024-07-29,Yes
+10231,Mariam,Ali,1982,172.2,68.6,97873.0,16.6,Rawalpindi,Female,IT,Master,Debit Card,Books,Medium,11399.0,9649.0,16786.0,14,97758,2024-09-19,No
+10261,Laiba,Butt,1995,170.7,74.0,25000.0,2.2,Islamabad,Male,IT,Master,Mobile Wallet,Electronics,Medium,3475.0,18976.0,10628.0,9,28565,2026-07-12,Yes
+10289,Bilal,Sheikh,2004,175.2,62.9,37776.0,0.0,Islamabad,Male,HR,Bachelor,Mobile Wallet,Clothing,Medium,5845.0,12566.0,13906.0,8,44485,2026-01-30,No
+10163,Laiba,Ahmed,1968,165.9,59.5,89020.0,29.4,Karachi,Male,Marketing,Bachelor,Debit Card,Books,Medium,4835.0,6934.0,21049.0,12,99668,2024-04-23,No
+10429,Sara,Khan,1974,188.1,68.7,70426.0,21.9,Faisalabad,Female,Marketing,Bachelor,Credit Card,Grocery,Medium,,3756.0,6370.0,6,53813,2026-03-08,No
+10139,Fatima,Khan,1996,171.9,73.0,51197.0,3.2,Karachi,Male,HR,Bachelor,Bank Transfer,Electronics,Low,8457.0,20285.0,9859.0,7,18009,2026-06-25,Yes
+10063,Sana,Khan,1987,160.5,74.1,121925.0,11.2,Karachi,Female,Operations,School,Credit Card,Grocery,Medium,9338.0,2475.0,18321.0,4,97333,2026-05-30,No
+10136,Sara,Khan,1966,154.5,69.6,135958.0,24.2,Karachi,Female,HR,Bachelor,Debit Card,Grocery,High,9003.0,2096.0,14570.0,13,2633,2024-08-26,Yes
+10129,Ayesha,Hussain,1995,167.7,67.3,122723.0,7.6,Rawalpindi,Female,HR,Master,Debit Card,Furniture,High,4185.0,9198.0,19826.0,5,15794,2026-04-20,Yes
+10482,Mariam,Hussain,1970,165.9,54.4,50647.0,23.5,Faisalabad,Female,IT,Master,Cash,Grocery,Medium,12378.0,11568.0,16177.0,17,71747,2026-01-15,No
+10009,Ayesha,Ali,1978,170.8,64.8,,16.1,Islamabad,Female,IT,Bachelor,Mobile Wallet,Clothing,Medium,8768.0,6347.0,6459.0,5,77023,2026-08-12,No
+10327,Maham,Siddiqui,1993,162.1,71.8,221993.0,6.4,Islamabad,Male,HR,Bachelor,Bank Transfer,Grocery,High,5765.0,1116.0,20506.0,12,51698,2025-08-04,Yes
+10469,Sana,Butt,1986,190.6,78.7,66422.0,11.7,Karachi,Male,IT,Master,Debit Card,Grocery,High,5983.0,9922.0,7868.0,13,41421,2026-08-09,Yes
+10065,Omar,Butt,1978,170.7,78.7,45638.0,13.0,Islamabad,Female,Marketing,Master,Bank Transfer,Clothing,High,15113.0,3434.0,11196.0,5,45421,2026-03-29,Yes
+10301,Zain,Raza,1969,168.0,69.4,25000.0,23.4,Rawalpindi,Male,Marketing,Bachelor,Mobile Wallet,Books,Medium,13600.0,5576.0,9671.0,7,36259,2025-05-28,No
+10015,Bilal,Raza,1998,170.4,76.8,56258.0,0.0,Lahore,Female,HR,Bachelor,Debit Card,Electronics,High,9294.0,3633.0,29977.0,10,21704,2024-06-03,Yes
+10157,Fatima,Butt,1996,173.6,70.1,,2.7,Lahore,Female,HR,School,Credit Card,Furniture,High,15895.0,418.0,13887.0,5,43070,2026-04-29,No
+10041,Hira,Khan,1991,191.1,98.6,116565.0,6.9,Islamabad,Female,HR,Bachelor,Mobile Wallet,Grocery,Medium,9529.0,4548.0,15747.0,8,54289,2026-08-10,Yes
+10380,Sana,Butt,1968,185.9,80.3,144717.0,23.1,Karachi,Male,Operations,PhD,Cash,Books,High,10420.0,4508.0,17197.0,11,17188,2026-06-18,No
+10465,Saad,Khan,2005,167.2,57.7,74670.0,0.0,Karachi,Female,Marketing,Bachelor,Cash,Clothing,Low,17614.0,34798.0,12286.0,13,94438,2024-06-24,No
+10407,Hussain,Qureshi,1978,158.6,55.0,83075.0,,Karachi,Male,Marketing,Bachelor,Bank Transfer,Clothing,Medium,7447.0,3631.0,8653.0,8,75428,2026-06-09,No
+10217,Hamza,Siddiqui,1978,172.9,66.1,67918.0,19.4,Karachi,Male,IT,Bachelor,,Books,High,4804.0,14554.0,8053.0,9,79877,2026-06-26,Yes
+10280,Usman,Ahmed,1979,170.6,76.6,67195.0,13.1,Karachi,Female,,Master,Mobile Wallet,Books,Medium,7977.0,552.0,5909.0,5,92783,2026-04-03,Yes
+10439,Ahmed,Sheikh,1990,174.1,74.2,68611.0,10.1,Karachi,Male,HR,Bachelor,Mobile Wallet,Electronics,Medium,4656.0,6558.0,11088.0,12,2203,2026-06-09,No
+10435,Hassan,Siddiqui,1998,165.5,79.4,107663.0,,Islamabad,Female,Operations,Master,Cash,Clothing,Medium,12136.0,12432.0,6140.0,8,8266,2025-07-24,No
+10338,Zain,Khan,1968,173.5,72.8,38577.0,24.7,Rawalpindi,Male,HR,Master,Cash,Clothing,Medium,13535.0,18353.0,5201.0,9,84880,2024-02-26,No
+10237,Laiba,Khan,1970,154.6,60.6,850000.0,20.9,Islamabad,Female,,Bachelor,Mobile Wallet,Books,Medium,4730.0,7773.0,10809.0,7,57558,2025-01-28,Yes
+10208,Omar,Malik,1984,159.4,58.8,77269.0,12.5,Rawalpindi,Male,Finance,School,Cash,Books,High,18073.0,2924.0,18175.0,7,82274,2024-07-01,No
+10213,Ayesha,Malik,1988,176.5,80.7,36215.0,9.3,Karachi,Female,Marketing,Bachelor,Credit Card,Clothing,Medium,8493.0,12762.0,10155.0,10,96538,2025-02-20,No
+10296,Ali,Khan,1970,170.2,59.8,52786.0,,Lahore,Female,IT,Bachelor,Debit Card,Electronics,High,2791.0,2349.0,6090.0,8,36818,2026-01-16,Yes
+10462,Zoya,Qureshi,2003,181.2,88.8,138064.0,3.1,Islamabad,Female,Operations,School,Credit Card,Books,Medium,16090.0,11171.0,13623.0,14,67108,2024-11-21,Yes
+10252,Hassan,Malik,1987,151.3,61.6,95355.0,11.6,Karachi,Male,Sales,School,Debit Card,Clothing,High,4135.0,8546.0,14736.0,9,23391,2025-04-27,No
+10494,Hamza,Malik,1974,156.1,,104456.0,19.7,Rawalpindi,Male,Finance,Master,Mobile Wallet,Grocery,Medium,8332.0,4531.0,10527.0,4,98995,2024-10-03,Yes
+10463,Sara,Ahmed,1990,159.6,57.9,145293.0,3.9,Lahore,Male,Sales,Bachelor,Bank Transfer,Grocery,High,4331.0,12904.0,5382.0,6,21554,2025-11-02,Yes
+10304,Maham,Qureshi,1972,168.7,69.6,47472.0,24.1,Rawalpindi,Female,Marketing,Bachelor,Credit Card,Furniture,High,7442.0,2893.0,3459.0,8,18282,2026-08-04,Yes
+10351,Sara,Hussain,1990,182.2,70.5,50943.0,9.9,Lahore,Male,Operations,Master,Bank Transfer,Grocery,Medium,13772.0,10045.0,7478.0,6,52366,2025-01-12,Yes
+10270,Maham,Khan,1996,165.6,76.4,89165.0,4.4,Karachi,Female,Finance,Bachelor,Credit Card,Clothing,Medium,9371.0,9198.0,13173.0,11,46003,2026-01-10,Yes
+10202,Mariam,Qureshi,1976,161.1,73.3,140103.0,16.0,Karachi,Female,Operations,PhD,Mobile Wallet,Electronics,Medium,10819.0,7063.0,14129.0,7,48437,2026-02-06,No
+10162,Zoya,Butt,1988,177.8,67.1,148436.0,14.2,Islamabad,Male,Operations,Master,Mobile Wallet,Grocery,High,3387.0,21229.0,3323.0,8,40252,2025-02-15,Yes
+10044,Omar,Khan,1972,166.2,74.9,33399.0,24.9,Lahore,Female,Operations,Master,Credit Card,Electronics,High,10072.0,6559.0,12559.0,11,75034,2024-05-23,Yes
+10218,Sana,Raza,1966,186.7,80.2,34252.0,24.8,Islamabad,Female,Finance,Master,Credit Card,Books,Medium,6415.0,2089.0,16727.0,6,77374,2025-07-08,No
+10402,Zain,Khan,1989,166.5,87.6,70858.0,11.1,Karachi,Male,Operations,Bachelor,Debit Card,Electronics,Medium,12341.0,2342.0,17151.0,8,3769,2026-03-17,No
+10191,Sana,Qureshi,1991,164.1,69.4,39820.0,7.3,Karachi,Female,IT,Master,Credit Card,Furniture,Medium,18219.0,4238.0,16019.0,7,30478,2025-09-13,Yes
+10310,Zoya,Qureshi,2003,148.5,65.7,,9.3,Karachi,Male,Operations,Bachelor,Cash,Electronics,High,10196.0,355.0,10317.0,15,94809,2024-09-12,Yes
+10260,Sana,Hussain,2003,179.3,87.3,120172.0,3.6,Faisalabad,Male,Operations,Bachelor,Bank Transfer,Books,Medium,5945.0,8311.0,9705.0,7,40577,2026-02-15,No
+10106,Hassan,Raza,1973,165.4,57.1,65205.0,16.9,Karachi,Female,IT,Master,Bank Transfer,Clothing,Medium,12193.0,2009.0,14985.0,6,71633,2025-11-15,Yes
+10054,Bilal,Butt,1969,162.7,65.3,25937.0,21.6,Lahore,Male,HR,School,Cash,Electronics,Medium,5377.0,9258.0,6224.0,6,97740,2025-11-22,No
+10390,Fatima,Ali,1989,169.9,62.5,54640.0,5.7,Faisalabad,Female,Finance,Master,Debit Card,Clothing,Low,11439.0,10019.0,22757.0,5,14313,2025-12-29,Yes
+10002,Laiba,Siddiqui,1987,167.4,75.4,30861.0,6.6,Karachi,Male,Marketing,Bachelor,Debit Card,Electronics,Low,8256.0,1424.0,6261.0,12,1237,2025-08-18,Yes
+10492,Sara,Raza,1994,181.1,69.7,157511.0,9.6,Rawalpindi,Female,Sales,Bachelor,Mobile Wallet,Books,High,11773.0,5820.0,7986.0,8,96400,2026-06-06,No
+10488,Laiba,Raza,2001,157.6,62.0,56941.0,0.0,Rawalpindi,Male,Finance,Master,Cash,Grocery,Low,10928.0,1364.0,2906.0,13,30569,2024-09-30,No
+10050,Iqra,Raza,1981,177.4,77.5,33477.0,17.2,Faisalabad,Male,IT,Bachelor,Credit Card,Furniture,Medium,8591.0,3302.0,6143.0,5,30890,2025-04-09,No
+10420,Usman,Khan,2002,157.3,66.0,112231.0,3.3,Karachi,Male,IT,PhD,Bank Transfer,Grocery,High,3064.0,6949.0,28472.0,12,69270,2026-02-28,No
+10081,Omar,Siddiqui,1970,165.5,64.4,,21.9,Karachi,Male,Operations,Master,Credit Card,Books,High,15921.0,401.0,11101.0,9,68851,2026-08-19,No
+10206,Saad,Qureshi,1996,172.0,61.8,25000.0,4.7,Lahore,Male,Operations,Bachelor,Credit Card,Furniture,Medium,8743.0,12976.0,4524.0,3,98909,2024-07-04,Yes
+10035,Hussain,Ahmed,1976,163.6,65.6,43511.0,17.2,Karachi,Male,IT,Master,Debit Card,Grocery,Medium,7863.0,6689.0,7541.0,11,47343,2026-07-24,Yes
+10431,Maham,Raza,2002,187.9,75.6,45455.0,1.7,Islamabad,Male,Marketing,Bachelor,Bank Transfer,Clothing,High,9769.0,9905.0,14574.0,8,98506,2025-07-31,Yes
+10264,Hassan,Ali,1976,180.0,66.4,25000.0,20.3,Rawalpindi,Male,Finance,School,Debit Card,Grocery,Medium,12684.0,4656.0,8925.0,6,96343,2024-08-06,Yes
+10428,Fatima,Hussain,1974,160.8,58.7,,19.3,Karachi,Male,Sales,Master,Cash,Books,Medium,,4974.0,9385.0,10,55453,2025-11-01,Yes
+10367,Ali,Butt,2002,181.1,70.9,26918.0,5.1,Islamabad,Female,Operations,School,Mobile Wallet,Furniture,High,4536.0,3788.0,5475.0,9,80224,2026-01-01,Yes
+10092,Saad,Malik,1987,145.8,58.1,147585.0,4.2,Karachi,Male,IT,School,Debit Card,Electronics,Medium,2648.0,8848.0,26751.0,5,96560,2024-05-10,No
+10340,Hira,Siddiqui,2002,168.2,62.8,54857.0,1.4,Karachi,Male,Sales,Bachelor,Cash,Books,Medium,14112.0,5682.0,27535.0,6,57327,2025-08-26,No
+10479,Hamza,Qureshi,1990,167.1,,66026.0,11.3,Lahore,Male,HR,Bachelor,Debit Card,Grocery,High,4592.0,5460.0,9949.0,8,72496,2024-03-16,No
+10053,Ahmed,Raza,1972,165.7,67.0,127951.0,21.3,Lahore,Female,Sales,Bachelor,Debit Card,Furniture,Low,7776.0,7797.0,3814.0,6,82419,2025-11-07,Yes
+10346,Fatima,Raza,1986,162.7,63.2,67619.0,13.1,Rawalpindi,Female,IT,Bachelor,Mobile Wallet,Grocery,High,13748.0,13443.0,11170.0,6,73766,2026-07-21,No
+10265,Zoya,Khan,1980,158.5,64.9,73942.0,20.0,Faisalabad,Female,Finance,Bachelor,Credit Card,Grocery,Low,9938.0,16019.0,6667.0,10,89929,2025-10-19,No
+10242,Bilal,Qureshi,1980,180.9,70.2,87279.0,12.4,Faisalabad,Male,HR,Bachelor,Credit Card,Electronics,Medium,5358.0,6117.0,9933.0,6,84753,2024-12-12,Yes
+10014,Fatima,Butt,1999,179.4,78.0,33477.0,3.3,Karachi,Female,Sales,Master,Cash,Grocery,Medium,10121.0,16115.0,9061.0,9,51303,2024-07-12,Yes
+10316,Hamza,Sheikh,1999,163.5,58.9,25000.0,5.1,Karachi,Male,HR,Bachelor,Credit Card,Books,High,8752.0,3744.0,17943.0,3,20081,2025-08-29,No
+10089,Usman,Khan,2000,178.4,78.7,36078.0,5.4,Karachi,Female,HR,School,Bank Transfer,Furniture,Low,710.0,8208.0,3899.0,5,35450,2026-04-10,No
+10388,Laiba,Ali,1980,170.0,60.3,25000.0,17.9,Lahore,Male,IT,Bachelor,Cash,Grocery,High,11196.0,1237.0,6971.0,4,18758,2025-09-18,No
+10274,Mariam,Siddiqui,1998,168.5,64.5,130015.0,6.6,Lahore,Male,Sales,Bachelor,Bank Transfer,Electronics,Medium,15713.0,8402.0,18604.0,7,16164,2024-11-05,Yes
+10167,Hassan,Ahmed,2004,156.3,60.5,72177.0,0.0,Islamabad,Male,,Bachelor,Debit Card,Grocery,Medium,15230.0,14114.0,8706.0,7,64928,2024-05-03,No
+10329,Maham,Butt,1967,,77.1,47422.0,21.5,Rawalpindi,Female,IT,Bachelor,Credit Card,Furniture,Medium,16029.0,11623.0,13756.0,10,97817,2025-07-14,No
+10498,Ayesha,Butt,1991,180.5,73.6,105493.0,3.0,Islamabad,Female,Operations,Bachelor,Cash,Books,Medium,12612.0,12491.0,29731.0,8,96430,2025-09-23,No
+10135,Zain,Malik,1966,182.1,66.3,79941.0,27.2,Lahore,Male,Marketing,Bachelor,Debit Card,Grocery,High,7685.0,10752.0,3744.0,4,361,2024-06-01,Yes
+10307,Ahmed,Hussain,1987,182.3,78.0,46845.0,8.7,Karachi,Male,Sales,Bachelor,Bank Transfer,Electronics,Medium,8957.0,14659.0,13881.0,8,45681,2025-04-08,Yes
+10486,Hassan,Siddiqui,1986,172.7,80.9,89340.0,6.5,Rawalpindi,Female,Operations,Master,Credit Card,Grocery,High,7728.0,5626.0,17083.0,11,36745,2026-03-26,No
+10320,Sara,Khan,1965,171.7,74.3,58765.0,23.0,Lahore,Female,IT,Bachelor,Debit Card,Electronics,Medium,17391.0,10748.0,9271.0,6,49682,2025-02-26,No
+10244,Laiba,Siddiqui,1989,170.5,46.2,43017.0,9.4,Lahore,Male,HR,Bachelor,Cash,Grocery,High,17026.0,2254.0,16065.0,8,74802,2024-03-01,No
+10055,Zain,Butt,1990,186.7,76.2,171405.0,12.0,Karachi,Male,HR,Master,Bank Transfer,Grocery,High,10484.0,4831.0,7396.0,8,93481,2025-09-20,No
+10364,Usman,Hussain,1990,154.3,66.8,53170.0,,Faisalabad,Female,HR,Bachelor,Cash,Clothing,Medium,6464.0,3822.0,12020.0,8,69226,2026-03-15,Yes
+10051,Omar,Siddiqui,2000,166.6,69.2,54186.0,0.0,Karachi,Female,Finance,PhD,Debit Card,Clothing,Low,8171.0,2889.0,8461.0,7,10225,2026-02-22,No
+10461,Fatima,Siddiqui,1981,170.0,70.5,29381.0,12.0,Lahore,Male,Finance,Master,Debit Card,Grocery,Medium,7496.0,4026.0,8569.0,6,9103,2025-10-07,Yes
+10175,Usman,Ali,1966,153.9,62.0,52150.0,,Karachi,Female,Marketing,Master,Bank Transfer,Furniture,Medium,23469.0,3397.0,17051.0,9,73587,2024-10-02,No
+10446,Ayesha,Ahmed,1972,174.8,72.4,35903.0,21.5,Karachi,Male,Operations,Master,Bank Transfer,Books,Low,20939.0,3244.0,2905.0,5,94369,2025-09-04,No
+10190,Ayesha,Sheikh,1984,173.9,84.8,110820.0,12.5,Lahore,Female,Operations,Bachelor,Credit Card,Books,Medium,,6882.0,15037.0,11,88591,2025-03-20,No
+10074,Hira,Qureshi,1977,173.0,65.6,43947.0,,Karachi,Male,HR,Bachelor,Debit Card,Electronics,Medium,2767.0,13313.0,12692.0,7,72083,2025-07-15,No
+10464,Hassan,Ali,2003,161.0,66.4,71748.0,0.0,Karachi,Female,Marketing,Master,Bank Transfer,Books,High,4965.0,8635.0,5575.0,15,84080,2025-07-04,No
+10188,Ahmed,Siddiqui,1980,174.7,66.9,60709.0,12.8,Rawalpindi,Male,HR,Bachelor,Credit Card,Clothing,Low,6465.0,12403.0,4581.0,7,75526,2024-02-15,No
+10170,Zoya,Ahmed,1976,179.4,87.6,150140.0,20.4,Rawalpindi,Male,Operations,Bachelor,Cash,Books,Medium,17753.0,9135.0,14353.0,13,24867,2024-02-16,Yes
+10059,Ahmed,Sheikh,1993,171.3,78.4,75537.0,12.5,Karachi,Male,Operations,Bachelor,Cash,Books,Medium,13317.0,1419.0,17343.0,7,24337,2025-07-09,No
+10049,Hussain,Butt,1981,175.4,71.1,73980.0,16.9,Rawalpindi,Male,Operations,Bachelor,Bank Transfer,Grocery,High,14191.0,8330.0,15152.0,6,27471,2024-07-11,Yes
+10345,Fatima,Khan,1992,175.9,70.2,33815.0,2.7,Karachi,Female,Operations,Bachelor,Mobile Wallet,Books,Medium,12767.0,10456.0,5832.0,7,20250,2026-01-08,Yes
+10236,Ali,Sheikh,1986,166.0,71.3,75527.0,11.0,Karachi,Male,Marketing,Master,Mobile Wallet,Electronics,High,3522.0,2265.0,17099.0,7,53731,2025-07-11,No
+10253,Sana,Hussain,1996,177.9,82.5,81328.0,5.9,,Female,Finance,Bachelor,Debit Card,Electronics,High,16400.0,5464.0,4022.0,12,91613,2024-01-13,No
+10022,Sana,Hussain,1986,169.0,63.9,61991.0,11.6,Islamabad,Male,,School,Cash,Grocery,High,7648.0,1125.0,8132.0,9,12019,2026-06-04,Yes
+10314,Ayesha,Raza,1990,167.6,65.2,53701.0,11.8,Karachi,Female,HR,,Debit Card,Grocery,Medium,15416.0,6014.0,9301.0,8,11676,2026-08-09,No
+10460,Usman,Siddiqui,2001,177.6,79.3,40098.0,6.8,Lahore,Female,Finance,School,Debit Card,Furniture,High,3426.0,7051.0,16679.0,7,81235,2026-06-25,Yes
+10161,Zoya,Butt,1966,174.2,70.5,63673.0,,Karachi,Female,HR,Bachelor,Credit Card,Furniture,Medium,7873.0,11994.0,10943.0,7,12428,2026-03-31,No
+10277,Ali,Ahmed,1987,183.4,77.7,32551.0,13.8,Karachi,Male,Finance,Bachelor,Debit Card,Books,Medium,6483.0,10697.0,16057.0,9,51886,2025-08-31,No
+10444,Iqra,Butt,1973,163.6,61.1,25526.0,19.7,Lahore,Male,Operations,Bachelor,Debit Card,Books,Medium,16517.0,5529.0,15164.0,4,2807,2025-01-27,Yes
+10192,Sana,Butt,2005,179.9,65.8,96542.0,0.0,Faisalabad,Female,IT,School,Bank Transfer,Grocery,Medium,10102.0,5106.0,4655.0,7,95911,2024-02-15,No
+10386,Zoya,Siddiqui,2001,180.4,72.3,43315.0,6.7,Islamabad,Male,Marketing,Master,Mobile Wallet,Clothing,Low,12785.0,16824.0,10046.0,6,83409,2025-07-14,No
+10294,Maham,Butt,1973,173.3,71.7,150486.0,19.7,Lahore,Male,Sales,Master,Bank Transfer,Electronics,Medium,8122.0,11951.0,6717.0,6,54458,2025-06-14,Yes
+10414,Iqra,Malik,1980,161.9,71.2,47964.0,21.9,Karachi,Male,Finance,School,Mobile Wallet,Furniture,Medium,9273.0,9966.0,11473.0,13,33744,2026-06-15,No
+10344,Omar,Malik,1986,160.0,70.7,27458.0,14.7,Islamabad,Male,IT,Bachelor,Credit Card,Clothing,High,8068.0,12706.0,3617.0,8,19624,2025-05-15,Yes
+10258,Ali,Malik,2004,174.2,60.2,40720.0,0.0,Islamabad,Female,IT,Bachelor,Credit Card,Furniture,Medium,3931.0,25400.0,17094.0,12,98490,2024-09-20,Yes
+10309,Ahmed,Malik,1975,159.5,68.1,79007.0,20.9,Karachi,Male,Finance,Bachelor,Mobile Wallet,Books,Low,6261.0,3272.0,11263.0,11,10163,2026-08-01,No
+10150,Bilal,Ahmed,1990,168.0,74.1,80005.0,9.1,Lahore,Female,HR,Bachelor,Cash,Grocery,Low,10814.0,1975.0,3299.0,11,976,2024-04-16,Yes
+10131,Sara,Butt,1995,180.0,65.6,101668.0,6.3,Lahore,Male,Finance,Bachelor,Mobile Wallet,Books,Medium,12037.0,2274.0,12024.0,8,85663,2026-08-09,No
+10152,Saad,Raza,1995,157.3,56.2,93074.0,8.3,Faisalabad,Female,Operations,Master,Cash,Clothing,Low,8934.0,5426.0,14676.0,3,16266,2026-01-14,No
+10360,Zain,Khan,1979,175.8,69.1,127308.0,12.5,Lahore,Female,Sales,Master,Mobile Wallet,Electronics,High,7344.0,9389.0,8185.0,9,60335,2024-07-03,No
+10100,Usman,Qureshi,2003,,74.2,106421.0,2.5,Karachi,Female,IT,Bachelor,Cash,Grocery,Medium,10882.0,10610.0,12890.0,11,66989,2026-05-26,Yes
+10373,Sara,Malik,1965,164.6,72.9,26521.0,22.5,Karachi,Male,IT,Bachelor,Debit Card,Clothing,High,11911.0,4574.0,8649.0,10,43639,2026-03-20,Yes
+10088,Ali,Ali,1969,175.9,67.3,114518.0,21.2,Karachi,Female,Marketing,Bachelor,Mobile Wallet,Grocery,Medium,11612.0,15300.0,19394.0,5,96135,2026-01-23,Yes
+10459,Hamza,Hussain,1968,163.9,52.8,71554.0,29.0,Karachi,Male,Sales,Master,Credit Card,Furniture,Low,2632.0,5888.0,12895.0,11,94680,2025-02-18,Yes
+10331,Mariam,Siddiqui,1969,164.8,68.4,35558.0,20.6,Islamabad,Male,HR,Bachelor,Cash,Furniture,High,8515.0,8754.0,5192.0,6,50101,2025-02-22,Yes
+10215,Zain,Butt,1966,179.8,79.0,,27.8,Karachi,Male,Sales,Master,Bank Transfer,Electronics,Medium,11110.0,2563.0,5864.0,9,66404,2024-03-05,Yes
+10467,Zoya,Sheikh,1994,166.5,66.8,70849.0,2.6,Karachi,Female,IT,Bachelor,Bank Transfer,Books,Medium,7035.0,11691.0,18742.0,6,92657,2024-11-10,No
+10122,Zoya,Raza,1971,173.8,67.6,48805.0,25.1,Lahore,Male,Operations,Bachelor,Credit Card,Clothing,Medium,9294.0,2633.0,30944.0,8,17112,2024-08-19,Yes
+10105,Ali,Khan,1984,168.2,70.0,43850.0,7.7,Lahore,Female,Marketing,Master,Mobile Wallet,Electronics,Medium,18389.0,14873.0,8643.0,13,34537,2024-09-11,No
+10021,Zain,Khan,1985,163.7,70.9,107519.0,11.1,Karachi,Male,HR,Master,Credit Card,Electronics,Low,12385.0,12149.0,17092.0,8,4488,2024-07-04,Yes
+10189,Bilal,Khan,1986,168.6,69.4,52302.0,10.5,Karachi,Female,Finance,Bachelor,Debit Card,Grocery,Medium,10537.0,7105.0,12615.0,14,83745,2024-06-16,No
+10072,Sara,Qureshi,2000,161.4,53.4,80260.0,0.3,Rawalpindi,Male,Sales,Bachelor,Mobile Wallet,Furniture,High,9399.0,10800.0,3613.0,5,20498,2025-02-28,Yes
+10107,Usman,Khan,1996,158.2,59.1,72761.0,8.4,Karachi,Male,Sales,Bachelor,Bank Transfer,Clothing,High,11524.0,4478.0,12565.0,9,77392,2024-11-04,No
+10271,Bilal,Sheikh,1979,169.8,68.3,62079.0,13.9,Faisalabad,Female,HR,Bachelor,Credit Card,Clothing,Medium,3313.0,11424.0,14491.0,7,66762,2026-01-15,No
+10349,Hussain,Siddiqui,1972,165.3,,25000.0,23.9,Karachi,Male,Operations,,Debit Card,Grocery,High,6914.0,8501.0,5586.0,7,94139,2026-02-19,No
+10436,Zoya,Khan,1968,187.5,84.8,291324.0,25.2,Lahore,Female,IT,Master,Cash,Books,Medium,7576.0,7315.0,6493.0,6,24672,2024-08-21,Yes
+10103,Omar,Hussain,1970,171.4,85.9,86579.0,19.0,Rawalpindi,Male,,Master,Credit Card,Grocery,High,7906.0,2024.0,10408.0,10,10220,2024-12-16,No
