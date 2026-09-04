@@ -1,0 +1,1601 @@
+id,text,label
+1,pls check The application keeps crashng https://example.com/support,technical
+2,Need hElp asAp WHY WAS i cHaRgeD $35 FOR my oRDeR? pLS CheCk 😭,billing
+3,plz    help    pls  check my    recent   transaction?!    https://shop.example.com/order   plz   help  🤦,billing
+4,plz   help    <p>...   There is a  duplicate   payment on  my   account?!</div>,billing
+5,plz help my order still hasn't arrvied,delivery
+6,NEED  HELP   ASAP  I   FORGOT MY LOIGN    DETAILS.,account
+7,...   How can I  change  my email   address? 🤦,account
+8,WWw.ExampLe.coM/hELP   thE  Refund  amOUnT  oN mY    ACcouNT   Is  iNcOrRect!!!! 🙏,billing
+9,I AM GETTING AN ERRROR MSG,technical
+10,<STRONG>?? THE SCREEN GOES BLANK WHEN I OPEN THE APP.</DIV> 😢,technical
+11,The  app  keeps  crashing.,technical
+12,😤   <SPAN>THE PACKAGE WAS SUPPOSED    TO ARRIVE    YESTERDAY.</SPAN>    PLS   HELP,delivery
+13,u  guys pls  help    I have    been   waiting   for  my  order 4   several    days!?!,delivery
+14,🙏 pls check www.example.com/help <p>I am unable to access my profile!!</span>,account
+15,need help asap <span>the system is not responding 2 my requests??</p> 🤦,technical
+16,<p><b>I    was charged even though  my   order   was   cancelled.</span>,billing
+17,https://example.com/account <p>... My invoice shows the wrong amount...</b></p> 🙏,billing
+18,🙏 <div>The  pacage    is  missing?!</b>,delivery
+19,💳    <p><b>??    thE    PayMENT  AmOUNt   looKS  wroNG!?!</diV>   PLz  hELP,billing
+20,The tracking information has not changed. let me know asap,delivery
+21,My acc has been locked.,account
+22,?? the website stopped responding??? let me know asap,technical
+23,i need HElp REcoVeriNG My aCcOunt.,account
+24,NEeD hElP AsAP ThEre IS A DupliCaTe PaymNEt on mY acCOUNt.,billing
+25,u GuyS Pls hElp There is a dupliCATE PAYmenT On My ACcouNt??,billing
+26,💳 can u help ... The tracking info has not changed.,delivery
+27,😢 need help asap ?? My shipment appears to be delayed???,delivery
+28,need help asap <p><b>My account has been locked.</div> 😤,account
+29,neEd  heLP   asAP    mY    InVoiCe    SHoWS The wRONg   AmoUNT??? tHx,billing
+30,pls check  ... i    am    getting an error   message.    https://example.com/help   thx    pls,technical
+31,THERE IS A DUPLICATE PAYMANT ON MY ACCOUNT.,billing
+32,<strong>i was charged twice for the same purchase??</b></p> thx,billing
+33,<div>Can u check the status of my delivary?</b> 😤,delivery
+34,my account   is  locked!!!!,account
+35,🙏    need    help  asap    I    am  getting   an  error  message.   https://example.com/account,technical
+36,HI plS My orDeR WAs EXPeCtEd tOdAy buT HAsN't aRriVed. 😢,delivery
+37,🙏 <strong>Why was I charged $120 for my order?!</b> www.example.com/help thx,billing
+38,😤 can u help the webiste stopped responding... can u check,technical
+39,<strong>Can you explain this charge on my bill?!</strong> thx,billing
+40,CAN U HELP <SPAN>CAN YOU EXPLAIN THIS CHARGE ON MY BILL?</B></P>,billing
+41,ThE  Page  KeepS  sHOWinG  AN  Error. HtTPS://sHoP.eXaMPlE.cOm/OrdER,technical
+42,I  am    having a    technical problm   w/   the   applcation,technical
+43,... I FORGOT MY PASSORD!!!,account
+44,I WOULD LIKE TO DISPUTE A CHARGE?!,billing
+45,http://support.example.com How can I reset my pw?! plz help,account
+46,PLs checK <diV>my CaRD WaS CHArged but THE paYMAnt faIlEd!?!</P> hTTPS://ExaMplE.Com/ACCOunt,billing
+47,pls check <span>The webiste is not loading properly!!!</p> http://support.example.com thx pls,technical
+48,https://example.com/support i was billed more than i expected.,billing
+49,PLS CHECK THE APP STOPS WORKIN WHENEVER I OPEN IT??? HTTPS://SHOP.EXAMPLE.COM/ORDER PLS CHECK 🙏,technical
+50,can u help <span>Can you tell me when my package will arrive??</span>,delivery
+51,😢   pls   check   My    accout   credentials  r not   working!!,account
+52,HEY PLS HELP <SPAN>WHEN SHOULD I EXPECT MY PACKAGE?!</P> 😭,delivery
+53,My package has not arrived yet???,delivery
+54,I was chared twice 4 the same purchase?! plz help,billing
+55,u guys pls help Can you help me recover my password? https://shop.example.com/order,account
+56,I AM UNABLE TO ACCESS MY PROFILE. 😭,account
+57,PLS HELP HTTP://SUPPORT.EXAMPLE.COM WHY IS THERE AN ADDITIONAL FEE ON MY BILL?,billing
+58,tHe SYStem is EXTREMElY SLoW?! pLS chECK,technical
+59,https://example.com/help    The    app suddenly    closes   by    itself.,technical
+60,<b>The website gives me an error every time.</p> pls help,technical
+61,<div>... There is a duplicate payment on my account.</div> 😕,billing
+62,🤦 i would like to dispute a charge!!!! www.example.com/help,billing
+63,😡 I need to update my account information.,account
+64,??    The    courier has  not   delivered    my order!! http://support.example.com    pls check,delivery
+65,<P>!!!  SOMETHING IS   WRONG   WITH  THE   APPLICATION.</P>,technical
+66,<p><b>?? there    is   an    incorrect   charge   on   my  accout</span>    plz    help,billing
+67,pls   check   https://example.com/support  I cant  get   the website  2 work!!,technical
+68,<p>When should I expect my package?</strong>,delivery
+69,pls check http://support.example.com The app crashes whenever I try to place an order. thx pls,technical
+70,need help asap www.example.com/help <p>I cant get the webiste to work.</div>,technical
+71,hey pls help http://support.example.com i cant log into my acct,account
+72,pls   check  The website    stopped responding.,technical
+73,My  lgoin  is   not    working...,account
+74,HtTPs://ShoP.eXAmplE.Com/OrdeR ?? wHerE is My oRDeR? Pls cHECK,delivery
+75,?? there is a duplicate payment on my acount pls help,billing
+76,<p>?? my shipment appears to be delayed!!!</b></p> 💳,delivery
+77,<P>i    AM HAVinG  TrOubLe    siGNINg    iNtO    tHE  WeBSIte.</p>    WwW.eXAmPle.com/HeLp,account
+78,plz help <div>Can you tell me when my package will arrive!!!</span> can u check 😭,delivery
+79,plS    chECK    <Span>I   NEed   tO RESet  MY LOGIN INforMaTion.</b></p>   📦,account
+80,<b>Can u help me recover my password?</b></p>,account
+81,MY ACCOUNT IS LOCKED. 😭,account
+82,u   guys   pls   help <span>My shipment   appears to    be    delayed!!!</p>,delivery
+83,U GUYS PLS HELP <P><B>!!! I NEED 2 RESET MY LOGIN INFO</P>,account
+84,hi  pls   www.example.com/help   !!!   the   application  is freezing    repeatedly.,technical
+85,hey pls  help  <b>I   forgot my  pw!!</strong>  thx    pls,account
+86,need help  asap    my  account  has  been    locked?! can  u    check,account
+87,!!! I NEED HELP UNDERSTANDING MY LATEST BILL. PLZ HELP,billing
+88,NEED    HELP    ASAP  HTTP://SUPPORT.EXAMPLE.COM    !!!   THE   SEARCH    FEATURE    IS  NOT    WROKING,technical
+89,😡  can   u   help    !!!   there is   an   incorrect  charge on    my    account!!!,billing
+90,The  app  suddenly   closes by itself!!,technical
+91,📦 <dIv>i am StiLl waitiNg fOR mY SHipEment</dIV>,delivery
+92,😩    <STRONG>THE  APPLICATION   IS FREEZING    REPEATEDLY.</SPAN>    HTTPS://EXAMPLE.COM/ACCOUNT,technical
+93,need  help asap    <span>I   am unable  to   access  my  profile.</span>  https://example.com/help   🤦,account
+94,<p>The search feature is not working.</strong>,technical
+95,need help asap <strong>the website gives me an error every time!!</strong> pls check,technical
+96,<B>plz ChECK mY rEcEnT TrANsactioN.</DiV>,billing
+97,hTTPS://eXamPLe.Com/HeLP <spaN>THe SySteM IS NOT responDinG tO mY rEqUeStS?!</dIv> 😭,technical
+98,<p>The  amount    on my   invioce is incorrect.</strong>,billing
+99,hey  pls  help  My   shipment   appears   2  be  delayed!!! thx,delivery
+100,<P>i hAve BeeN waIting fOr my oRdER 4 sEVeRal dAys.</SpaN>,delivery
+101,www.example.com/help <b>the    payment  amount  looks wrong???</span>,billing
+102,😡 <P>MY DELIVERY IS LATE.</B>,delivery
+103,pls help https://example.com/support ?? There is a duplicate payment on my account!! 🙏,billing
+104,can u help http://support.example.com my package has not arrived yet.,delivery
+105,<p><b>Where is my order???</p> pls check,delivery
+106,plz help <strong>Can you explain this charge on my bill?</div> pls help,billing
+107,need help asap there is an incorrect chage on my account??,billing
+108,u guys pls help ... I don't recognize this charage of $100!! https://example.com/support,billing
+109,😡 <SPan>the syStem is nOt respONdIng tO MY rEqUesTS...</b></p>,technical
+110,hi pls The delivery is taking too long...,delivery
+111,I cannot log into my account?? 😤,account
+112,pls check the app freezes on the login screen!!!! 🤦,technical
+113,https://example.com/help When   should    I   expect   my   package!!,delivery
+114,HTTPS://EXAMPLE.COM/HELP MY ACC HAS BEEN LOCKED.,account
+115,NEED HELP ASAP <SPAN>THE APP CRASHES WHENEVER I TRY 2 PLACE AN ORDER.</SPAN>,technical
+116,need help asap <b>The package is missing!!!</strong> pls check,delivery
+117,plz help ?? can you explain this charge on my bill? http://support.example.com pls check,billing
+118,?? i need help understanding my latest bill!!!,billing
+119,https://example.com/account !!! i don't recognize this charge of $35??,billing
+120,📦 I was charaged even though my order was cancelled. thx pls,billing
+121,pls help  My   order  still    hasn't   arrived??  www.example.com/help,delivery
+122,u guys pls help ... Can you help me recover my password...,account
+123,pls check  my    recent   transaction!!!! https://shop.example.com/order  can u   check   💳,billing
+124,<p><B>ThE ScREen GOES BlaNk wHen i opEn THe aPP!!!!</div> CaN u Check,technical
+125,😭 hi pls I need help recovering my acc...,account
+126,I  WAS    BILLED  MORE   THAN   I    EXPECTED.,billing
+127,... Why was I charged $75 4 my order? http://support.example.com,billing
+128,I am getting an errror msg!?!,technical
+129,need help asap please check my recent transaction. thx,billing
+130,<b>I was charged even though my order was cancelled.</b>,billing
+131,<P>THE SYSTEM IS NOT RESPONDING 2 MY REQUESTS.</SPAN> HTTPS://EXAMPLE.COM/ACCOUNT 🙏,technical
+132,PLS HELP HOW DO I CHANGE MY PASSORD?,account
+133,hey pls help My account is locked.,account
+134,https://example.com/support <b>My shipment has not been delivered.</b> can u check,delivery
+135,THE WEBSITE GIVES ME AN ERROR EVERY TIME. THX 🤦,technical
+136,WHY WAS I CHARAGED $5 FOR MY ORDER?,billing
+137,😕 why is there an additional fee on my bill!!!! thx pls,billing
+138,PLZ HELP I NEED TO RESET MY LOGIN INFORMATION!!,account
+139,pls help The application keeps crashing.,technical
+140,plZ help i am STiLl WaiTIng fOR mY ShipMENt?! Pls helP,delivery
+141,pls help ... I am unable 2 sign in.,account
+142,hey pls help <strong>the refund amount on my account is incorrect.</span>,billing
+143,http://support.example.com ...   I have  a problem w/ my    latest invoice.,billing
+144,I WaS chaReD twiCE FoR ThE SAmE pURChASe. WWw.eXaMplE.COM/heLp,billing
+145,😭 i don't recognize this charge of $150!!!! www.example.com/help,billing
+146,HEy pLS HElP <B>ThE weBisTE IS NOT LoaDinG PrOperlY.</span> 😡,technical
+147,hi pls I was charged twice 4 the same purchase... pls check,billing
+148,😕 plz help <p><b>I cannot remember my username!!!</strong>,account
+149,need help asap ?? I have been waiting for my order for several days?!,delivery
+150,tHe APPLiCAtIOn Is frEEZiNg REPEaTeDLy?! THX,technical
+151,hi pls <b>?? The website stopped responding.</b> 😩,technical
+152,😕   NEED HELP    ASAP ??   THE    APP  SUDDENLY CLOSES   BY  ITSELF!!!,technical
+153,<SPAN>?? I HAVE NOT RECEIVED MY DELIVERY.</P> LET ME KNOW ASAP 😤,delivery
+154,<SPAN>I NEED HELP!!! UNDERSTANDING MY LATEST BILL!?!</P> LET ME KNOW ASAP,billing
+155,HI PLS ... SOMETHING IS WRONG WITH THE APP THX PLS,technical
+156,hey   pls   help Why    can't  I    sign into my    acount???  thx pls,account
+157,I    am  unable  to    access my   profile!!!!    https://example.com/account thx,account
+158,The search feature is not working.,technical
+159,<strong>i need 2 update my account info</b></p>,account
+160,<p>I was   billed    more    than I   expected.</div>,billing
+161,😩 pls check <strong>... I cannot access my accont</b>,account
+162,PLZ HELP I HAVE BEEN WAITING FOR MY ORDER FOR SEVERAL DAYS.,delivery
+163,The courier has not delivered my order?? https://example.com/support thx pls,delivery
+164,😭 The application freezes on the login screen.,technical
+165,!!! the paCagE Is MIssiNg??? HTTPs://EXamPle.Com/accoUnt,delivery
+166,need help asap ?? I need help recovering my account. 💳,account
+167,http://support.example.com <b>My    order still    hasn't    arrived!!!!</p> 😡,delivery
+168,<div>I    am unable to   sign  in.</b>  https://example.com/support,account
+169,💳 Https://eXAmPLE.COm/helP the websITE SToppeD reSpoNdINg!?! THx pLs,technical
+170,the delivary    is   taking   too   long!!!!,delivery
+171,u guys pls   help   <div>My   payment  was  processed twice!!</div>,billing
+172,😩 ?? i hAVE not rEceived my DElIveRy.,delivery
+173,U GUYS PLS HELP <B>THE AMOUNT ON MY INVOICE IS INCORRECT.</SPAN> HTTPS://EXAMPLE.COM/SUPPORT PLS CHECK 😩,billing
+174,<span>?? My    accout   is locked.</div>   pls   check,account
+175,pls help https://example.com/support <p><b>something is wrong with the application.</b></p> 💳,technical
+176,😡   pls    help   <strong>The payment  amount    looks   wrong?!</strong>,billing
+177,need help asap <span>?? the courier has not delivered my order!!!</b>,delivery
+178,!!! why is there an additional fee on my bill? plz help,billing
+179,my shipment has not been delivered. www.example.com/help let me know asap,delivery
+180,😤 pls    help    https://example.com/account   <div>I am    having    a  technical    problem   with   the  application???</p> plz  help,technical
+181,can u help <strong>?? i am having a technical probelm w/ the app!!!!</b> let me know asap,technical
+182,<strong>My payment was processed twice.</span> plz help,billing
+183,Can you tell me when my package will arrive!!!,delivery
+184,<DIV>PLEASE CHECK MY RECENT TRANSACTION???</STRONG> PLS HELP,billing
+185,😤    <b>...  My shipment has  not   been delivered.</b>,delivery
+186,😭 hi    pls ?? I was chared  even  though    my    order    was  cancelled.    thx pls,billing
+187,the page  keeps showing  an error!!!    http://support.example.com thx  pls,technical
+188,?? There is an incorrect charge on my accout,billing
+189,need help asap <span>the page keeps showing an error.</span> thx 🙏,technical
+190,🤦 Need HeLP AsaP <SPaN>... CaN yOu ExpLAiN THIs chargE on my BiLL?</SPAn>,billing
+191,pls CHEck I AM haVInG a TEcHniCal prObLEm with tHe aPplIcAtION. PLS CHeck,technical
+192,PLs ChECk    i  haVE   bEen   WAitInG    fOR   My    ORDER   FOr   SEVERAL    DAYs???   😭,delivery
+193,HI PLS <diV>I haVE a PROBem w/ My lATEST InvoICe.</p>,billing
+194,can    u  hElp    ...   I    NEED HELp   UndeRStaNdIng  MY  lAtEsT  bIll...,billing
+195,HTTP://SUPPORT.EXAMPLE.COM MY SHIPMENT HAS NOT BEEN DELIVERED. THX,delivery
+196,😡   <div>!!! Something is    wrong  with  the app</strong>    https://example.com/account  plz  help,technical
+197,WWW.EXAMPLE.COM/HELP THE APPLICATION IS FREEZING REPEATEDLY!?! PLS HELP,technical
+198,📦 hi pls I have been waiting 4 my order for several days. thx,delivery
+199,hi    pls    I    would   like 2  dispute   a   charge.    pls help  😭,billing
+200,<p><b>... the system is not responding 2 my requests??</p>,technical
+201,plz help https://shop.example.com/order I have been waiting for my order 4 several days. 😩,delivery
+202,HI pLS CAn U ChecK the sTatus Of mY deLVery??? PlS HELp,delivery
+203,plz help !!! my card was charged but the payment failed. let me know asap,billing
+204,need help asap why is there an additional fee on my bill!!! https://example.com/account,billing
+205,i am unable to sign in. pls help 🙏,account
+206,<p>?? the system is extremely slow!!</span> 📦,technical
+207,<B>I NEed 2 UPdaTe my aCcOut iNFO</sTRoNg> 😕,account
+208,hi pls   !!!  i was  chargd    twice  4    the  same purchase.,billing
+209,HTTPS://EXAMPLE.COM/SUPPORT I HAVE NOT RECEIVED MY DELIVERY. 😕,delivery
+210,pls help my logn is not working!?!,account
+211,PlZ   heLP   <b>The  coURier    HaS  not   dELIVEReD   mY    ORDEr?!</b>,delivery
+212,I am unable 2 access my profile.,account
+213,hi pls Something is wrong with the application. thx,technical
+214,hey pls help https://example.com/help I am having a technical problem with the app?? can u check,technical
+215,I was chargd twice for the same purchase... 😢,billing
+216,PLZ  HELP    HTTPS://SHOP.EXAMPLE.COM/ORDER  ...   I    WAS    CHARGED   EVEN    THOUGH MY   ORDER WAS  CANCELLED. PLS CHECK,billing
+217,can u help The system is not responding 2 my requests. thx,technical
+218,The courier has not delivered my order. https://example.com/account can u check 🙏,delivery
+219,www.example.com/help   <span>There    is    an   incorrect charge  on  my  acct</strong>   can  u check,billing
+220,📦    plz   help  <b>??   My  acct    has    been  locked??</span>,account
+221,The delivery date has passed!?!,delivery
+222,<p><b>!!! i cannot upload my file.</b>,technical
+223,😭 HtTP://supPORT.exAmPLE.coM My OrDER STilL hasn't arriveD.,delivery
+224,<div>...  how   do   i    change    my    password?</strong>   can u   check,account
+225,HI    PLS   ... THE  APP   CRASHES  WHENEVER    I   TRY TO    PLACE    AN    ORDER.,technical
+226,😢 can u help How can I change my email address?! plz help,account
+227,<b>I cant get the website to work?!</b>,technical
+228,<span>the app crashes whenever i try to place an order.</b></p>,technical
+229,<p>please    check    my   recent transaction??</strong>,billing
+230,hey pls   help    The    app    crashes whenever   I   try    to place    an order.,technical
+231,can    u help  <p>!!!  I   need    to reset    my  login    information.</span>  https://example.com/support,account
+232,need help asap <span>... the tracking info has not changed.</strong>,delivery
+233,u guys pls help my account is locked. 😩,account
+234,I am unable 2 access my profile!!!!,account
+235,NEED HELP ASAP <DIV>WHY WAS I CHARGED $20 FOR MY ORDER??</DIV> LET ME KNOW ASAP,billing
+236,u   guys pls  help    <b>i  have   not   received   my  delivary...</span>  https://example.com/account,delivery
+237,<span>i have a prob w/ my latest invoice.</b> 🙏,billing
+238,🙏 https://example.com/help <strong>... the delivery date has passed!!</p>,delivery
+239,pls help The courier has not delivered my order. https://example.com/support 😡,delivery
+240,can you    tell   me when    my  package   will arrive??,delivery
+241,<p><b>I have been waiting for my order 4 several days.</b></p>,delivery
+242,<div>My   order  was  expected today    but  hasn't arrvied</b></p>,delivery
+243,HI PLS MY SHIPMENT HAS NOT BEEN DELIVERED!?! THX PLS,delivery
+244,u guys  pls help   https://shop.example.com/order  <span>The   package   is missing.</b></p>    can  u   check,delivery
+245,😡 can you explain this charge on my bill?,billing
+246,THE    SYSTEM    IS   EXTREMELY    SLOW??,technical
+247,<B>MY INVOICE SHOWS   THE    WRONG    AMOUNT.</P>,billing
+248,<span>I   would  like    2  dispute   a   charge.</p>   pls help,billing
+249,u guys pls help My order was expected today but hasn't arrived. 🙏,delivery
+250,pls help ?? Can you tell me when my package will arrive? pls check,delivery
+251,PLS CHECK <SPAN>!!! MY DELIVERY IS LATE!!!</STRONG>,delivery
+252,<b>?? the website is not loading properly?!</div> thx 📦,technical
+253,😩 u guys pls help <b>I forgot my login details.</b></p> thx pls,account
+254,😩 <span>The refund amount on my account is incorrect?!</b> pls check,billing
+255,??    I   WAS    CHARGED  EVEN    THOUGH  MY  ORDER  WAS    CANCELLED.   LET    ME KNOW   ASAP,billing
+256,hey pls  help I  need   2   update my    account information. https://shop.example.com/order   let me   know asap,account
+257,U GUYS PLS HELP I HAVE BEEN WAITING FOR MY ORDER FOR SEVERAL DAYS?? HTTPS://EXAMPLE.COM/SUPPORT THX PLS,delivery
+258,I would  like 2  dispute    a charge.,billing
+259,🙏 HEY PLS HELP WWW.EXAMPLE.COM/HELP THE WEBSITE GIVES ME AN ERROR EVERY TIME!!!,technical
+260,<SPAN>WHY WAS I CHARGED $5 FOR MY ORDER...</P>,billing
+261,<b>Can u check the status of my delivery?</span> www.example.com/help,delivery
+262,pls   check  ??    My    acount  credentials   are  not wroking,account
+263,😤   the   website    stopped   responding??    www.example.com/help,technical
+264,... whyyy can't I sign into my acc 💳,account
+265,plz help The delivery date has passed. http://support.example.com,delivery
+266,hey pls help <p><b>?? The webiste is not loading properly.</b> 😭,technical
+267,<strong>the system is not responding to my requests.</p>,technical
+268,http://support.example.com <p><b>I am unable to sign in!?!</b>,account
+269,?? Why    is   there an additional  fee    on my   bill???,billing
+270,plz hElp tHE WEBsiTe stOPpED rESPONdiNG??,technical
+271,I need help recovering my acc,account
+272,?? how can i reset my pw??,account
+273,i  am unable 2    access my   profile.   😩,account
+274,😩   !!! I need to   update    my acct information. www.example.com/help   can u  check,account
+275,<P><B>THE APP SUDDENLY CLOSES BY ITSELF.</SPAN>,technical
+276,http://support.example.com I need help recovering my acct,account
+277,plz help Something is wrong with the application.,technical
+278,pls help I am having trouble signing into the webiste 🤦,account
+279,<p>... I WOuLd lIke 2 DIsputE a CHaRG??</SPan>,billing
+280,pls help <p>Where is my order?</span> plz help,delivery
+281,i cant get the website 2 work.,technical
+282,plz help The package was supposed to arrive yesterday?! https://shop.example.com/order,delivery
+283,The   app stops  working whenever  I   open  it???,technical
+284,<p>... I need to reset my login information!!</strong> plz help 😩,account
+285,🙏   the  app    keeps   crashing.,technical
+286,😩 u guys pls help https://example.com/help where is my order? thx,delivery
+287,HEY    PLS   HELP WHEN SHOULD   I   EXPECT    MY    PACKAGE?,delivery
+288,😢   My payment  was   processed   twice.    let   me know  asap,billing
+289,<p>my login is not working.</strong>,account
+290,😢  <span>??    i    cant upload  my    file!!!</p>,technical
+291,??  there    is an incorrect  charge   on   my    acct??,billing
+292,HI PLS HTTP://SUPPORT.EXAMPLE.COM ... I NEED TO UPDATE MY ACCOUNT INFORMATION.,account
+293,My   card    was charged   but the    payment  failed!?!,billing
+294,😢 HI PLS MY SHIPMENT HAS NOT BEEN DELIVERED. PLZ HELP,delivery
+295,😭 the courier has not delivered my order!!,delivery
+296,hTtPS://sHoP.ExaMple.coM/ordER I KEep reCeiVINg an ERrO WHILE USInG THE wEbsITe!!!! THX,technical
+297,😭  CAN  U  HELP    I  NEED    TO RESET  MY LOGN  INFORMATION!!!!,account
+298,I  need  to    reset my login  information!!!!    plz help,account
+299,plz help <p><b>I was billed more than I expected.</b> thx pls,billing
+300,the   system   is    not   responding  to   my  requests?!,technical
+301,... MY CaRD was ChARGEd BuT THe PAYMeNT faileD. 😤,billing
+302,😡  PlZ HELp ThE   WEBSitE    iS noT    lOADInG   pRopeRlY.,technical
+303,MY SHIPMENT HAS NOT BEEN DELIVERED. PLS CHECK 🤦,delivery
+304,<P><B>I HAVE BEEN WAITING 4 MY ORDER 4 SEVERAL DAYS.</STRONG>,delivery
+305,pLS CHeCk i cannoT GET thE wEBSIte To wORk. hTTP://SUPpOrt.eXaMPLe.Com 📦,technical
+306,HTtpS://ExAmpLe.coM/ACcOUNT <stRong>I CAnnot remEmBer My UserName!!</sTRonG>,account
+307,the courier has not delivered my order!!!! https://shop.example.com/order,delivery
+308,need help    asap  Where    is my   order? 😕,delivery
+309,😤 <p>The app suddenly closes by itself.</strong>,technical
+310,🤦 MY INVOCE SHOWS THE WRONG AMOUNT!! WWW.EXAMPLE.COM/HELP CAN U CHECK,billing
+311,pls check    <strong>why   can't   i   sign    into my acct!!!!</b></p>,account
+312,U  GUYS  PLS  HELP  THE AMOUNT  ON    MY INVOICE   IS  INCORRECT...  CAN    U CHECK,billing
+313,i need 2 update my account information.,account
+314,...    my  order was    expected 2day but  hasn't  arrived.,delivery
+315,😢 can u help http://support.example.com The page keeps showing an error.,technical
+316,Pls CHecK ... my paCkAgE SEEmS To Be STUCK in traNsit.,delivery
+317,<P>HOw dO I cHanGe mY Pw</p> PLS CHECk,account
+318,pls help   https://example.com/help  ??    My    payment   was   processed   twice.    😕,billing
+319,I  am havInG    tROubLE SIGnIng    into    The   WEBsite.,account
+320,... ThE systEm IS eXTReMElY slOW.,technical
+321,pls help <p>I need 2 reset my login information.</b></p>,account
+322,?? The app freezes on the logn screen?! thx,technical
+323,I keep receiving an error while using the website. https://shop.example.com/order thx,technical
+324,pls help https://example.com/help <p>I cannot upload my file.</div>,technical
+325,<b>I am getting an eror message...</span> http://support.example.com,technical
+326,... MY SHIPMENT APPEARS 2 BE DELAYED.,delivery
+327,!!! Something is wrong with the application.,technical
+328,?? I am unable to sign in!!!!,account
+329,hi pls <span>... I am getting an error message.</strong> pls help,technical
+330,PLZ HELP I CANT GET THE WEBSITE TO WORK. THX,technical
+331,... I cant remember my username!! https://shop.example.com/order,account
+332,!!! the delivery is taking too long. 😕,delivery
+333,<div>i  am   having    trouble   signing into   the   website.</p>,account
+334,🙏 I WAS CHARGED EVEN THOUGH MY ORDER WAS CANCELLED.,billing
+335,plz help ?? I need to reset my login information!!,account
+336,CAN U hElP when SHoULD I ExpecT My pACkGE? 😤,delivery
+337,😩 <div>the app suddenly closes by itself?!</span>,technical
+338,pls help !!! The refud amount on my acount is incorrect!!!! pls help,billing
+339,<span>The screen goes blank when I open the app.</span>,technical
+340,MY ACCT HAS BEEN LOCKED.,account
+341,I FORGOT MY LOGIN DETAILS.,account
+342,i need help recovering my account. 🙏,account
+343,plz help <div>The package is missing?!</div> https://shop.example.com/order,delivery
+344,📦 i  DOn'T   RecOgNIZE  tHiS   chaRGe    of    $5.,billing
+345,🙏 HI PLS <STRONG>WHERE IS MY ORDER?</P>,delivery
+346,<p><b>How    can    I    reset  my pwd</div>  https://example.com/account   pls check   🤦,account
+347,httpS://example.COM/AcCoUnt I CAnnOT get The WebSite To WOrK!!!! cAN u CHecK,technical
+348,U   gUyS    PLS   helP   <sTRonG>THE PAyMEnt  aMOUNt   LooKs    WrONG.</B></P>,billing
+349,CAN U HELP <StROnG>I kEeP reCeIVinG an ERRoR while usING thE WebSite.</DIV> 💳,technical
+350,CAN U HELP ?? I AM UNABLE 2 SIGN IN??,account
+351,U    GuYS PLs HelP   My   ACC  iS LOcKeD!!!  pLZ    HELp  💳,account
+352,https://example.com/support I    need   help   recovering    my   account.  thx    🤦,account
+353,hey   pls    help    <span>i  need    2  reset my    loign  info??</b></p>  https://example.com/account let   me    know asap 🙏,account
+354,hey pLs helP <stRonG>THE aPP suddeNLY cLoSEs By itseLf.</b> https://EXaMpLE.COM/SUPpOrT,technical
+355,HttPS://eXaMpLE.cOm/aCCOUNT the CouRIER haS Not dELiverED my oRDeR!!!!,delivery
+356,😩 MY   ACCT HAS    BEEN  LOCKED!?!,account
+357,U GUYS PLS HELP <P>THE SCREEN GOES BLANK WHEN I OPEN THE APP.</DIV> PLS HELP,technical
+358,<p><b>My package seems to be stuck in transit???</strong> 😡,delivery
+359,pls  help  https://example.com/support  i was   charged even    though  my    order   was  cancelled.,billing
+360,NEED HELP ASAP <STRONG>THE APP CRASHES WHENEVER I TRY 2 PLACE AN ORDER.</DIV>,technical
+361,😢 <B>I FORGOT MY PASSWORD.</B>,account
+362,THE PACKAGE IS MISSING!?!,delivery
+363,🤦 <b>My order was expected 2day but hasn't arrivd</strong> https://example.com/account,delivery
+364,my card was chared but the payment failed. 😩,billing
+365,📦  can u help    the  webiste stopped    responding???,technical
+366,The amount on my invoice is incorrect. 🤦,billing
+367,http://support.example.com <b>?? I am unable to sign in!!</p>,account
+368,<P><b>mY ACCoUNT hAS BeEn loCkeD.</SPan>,account
+369,I  was    charaged even though  my   order  was  cancelled.,billing
+370,😡 PLS HELP I CANNOT LOG INTO MY ACC!!!! THX PLS,account
+371,www.example.com/help ?? I cannot get the webiste to work. thx,technical
+372,?? My  acct credentials  are  not  working!?! pls check,account
+373,<b>There    is   an incorrect charge   on my  account.</b></p>   📦,billing
+374,pls help i forgot my login details.,account
+375,<b>my shipment has not been delivered.</b></p>,delivery
+376,hi pls ... my acc is locked?!,account
+377,??  CAN  U HELP ME    RECOVER  MY PASWORD?,account
+378,NEED HELP ASAP <DIV>MY ACCOUNT CREDENTIALS R NOT WORKING.</STRONG>,account
+379,u guys pls help How can I change my email adres?,account
+380,pls   check    https://example.com/help !!!   My    acc  has   been   locked... can u  check   😡,account
+381,u guys pls help ?? I would like 2 dispute a charage can u check,billing
+382,mY pAcKAgE Has Not ArriVed yET.,delivery
+383,The   app  stops   working    whenever   I open    it!!    📦,technical
+384,I cannot get the website to work. 📦,technical
+385,🤦 plz    help I   cannot log into    my   account!!,account
+386,My  order  still  hasn't arrived!!!!,delivery
+387,u gUys plS help htTPS://example.com/accOUnT <dIv>thE aPPLiCATIOn kEEpS cRAshing.</B> pLz Help,technical
+388,pls    check   www.example.com/help ...   Something    is  wrong with  the    app,technical
+389,need help asap I cannot access my acct??? 😡,account
+390,tHe   deliveRY   Is TaKING   tOO    LoNG!?!,delivery
+391,HI PLS I AM GETTING AN ERROR MSG 😕,technical
+392,<strong>the system is extremely slow!!!</strong> 😩,technical
+393,🤦 HOW DO I CHANGE MY PASWORD??,account
+394,ThE  TRACKinG iNfO  Has    NOt   chANgED!!!!  📦,delivery
+395,NEEd Help ASAp i aM hAViNg a techNICal ProblEM WIth THe App,technical
+396,need  help asap  How   do   I  change   my    password!!   https://example.com/support,account
+397,<span>The applicaton is freezing repeatedly.</strong> let me know asap,technical
+398,🤦 !!!    I  HAVE BEEN WAITING    4    MY  ORDER FOR    SEVERAL    DAYS.,delivery
+399,hey pls  help  <strong>?? i   am   having   a technical    prob   with the    application.</p>,technical
+400,HEY PLS HELP <SPAN>MY SHIPMENT HAS NOT BEEN DELIVERED.</B></P> HTTPS://EXAMPLE.COM/ACCOUNT THX,delivery
+401,I would like to dispute a charge?! 😭,billing
+402,🙏 <P>MY PAYMENT WAS PROCESSED TWICE.</SPAN>,billing
+403,💳 https://example.com/support <b>... can u explain this charge on my bill?</span>,billing
+404,The delievery date has passed!!!! https://shop.example.com/order,delivery
+405,hey pls help I am getting an error msg let me know asap,technical
+406,can u help <b>My acc has been locked.</div>,account
+407,hi pls the search feature is not working. pls check 😢,technical
+408,tHE  dELIVERY    datE has    paSsed.,delivery
+409,need  help   asap  I   cant  upload    my file. 😡,technical
+410,🤦   u  guys    pls help  I    forgot    my    password???    https://shop.example.com/order,account
+411,The courier has not delivered my order.,delivery
+412,Need heLP ASAP <p>ThE WEbsITE iS NOt LoadInG PRoPErLY?!</sPaN>,technical
+413,hi pls I    would like   2   dispute a charge.  💳,billing
+414,😤 my accout credentials are not working.,account
+415,<P><B>... I CANT REMEMBER MY USERNAME.</SPAN> PLS HELP,account
+416,My invoice shows the wrong amount. 🤦,billing
+417,i have a problem w/ my latest invoice. pls check,billing
+418,The refund amount on my account is incorrect. 💳,billing
+419,<p><b>I  foRgoT   MY LGoIN   DETailS!?!</P>   Www.eXAmpLe.Com/heLP tHX    PlS,account
+420,The amount on my invoice is incorrect.,billing
+421,I need help understanding my latest bill.,billing
+422,need help asap The tracking info has not changed??,delivery
+423,?? I NEED 2 RESET MY LOGIN INFORMATION. PLS CHECK,account
+424,?? MY   SHIPMENT APPEARS    TO    BE    DELAYED!!!! LET ME  KNOW  ASAP,delivery
+425,PLS CHECK THE APP FREEZES ON THE LOGIN SCREEN.,technical
+426,😩   <b>i    cannot  get  the  website  to work!!!</p>,technical
+427,THE COURIER HAS NOT DELIVERED MY ORDER??? HTTPS://EXAMPLE.COM/HELP THX PLS,delivery
+428,pls check The amount on my invoice is incorrect.,billing
+429,I hAVE a pRoBLem wIth MY lAteSt iNVOICe.,billing
+430,??    the website   stopped responding.,technical
+431,hi pls I am having trouble signing into the website.,account
+432,need help asap https://example.com/help i was charged twice 4 the same purchase. 📦,billing
+433,<p><b>The search feature is not working.</div>,technical
+434,pls help I keep receiving an error while using the website...,technical
+435,... The page keeps showing an error!!!! thx pls,technical
+436,WWW.EXAMPLE.COM/HELP <SPAN>... I CANNOT ACCESS MY ACCOUNT.</SPAN>,account
+437,u  guys  pls    help i would  like  to  dispute  a   charg,billing
+438,😭 <div>I cannot get the website to work!!!</div> let me know asap,technical
+439,My    shipment    appears   to be  delayed. https://example.com/account   thx    pls,delivery
+440,i  would    like    to dispute   a  charge!!,billing
+441,can    u  help    I    cannot upload   my  file???,technical
+442,https://shop.example.com/order can u check the status of my delivery? 😡,delivery
+443,my acc credentials are not wroking https://example.com/account,account
+444,<div>How    can  I change   my email address?</b></p> 🤦,account
+445,... why did you charge me an extra $75? let me know asap,billing
+446,https://shop.example.com/order   <p>The application    freezes  on the login  screen??</b></p>  thx   pls,technical
+447,!!! My invoice shows the wrong amount. let me know asap,billing
+448,😭 need help asap the screen goes blank when i open the app??? pls help,technical
+449,u guys pls help   !!! How can   I    reset   my   pw!?!,account
+450,😢   My    order still  hasn't    arrived?!,delivery
+451,www.example.com/help    !!!    i   was   charged even though  my  order   was    cancelled.,billing
+452,🤦 hey pls help i cant remember my username...,account
+453,My package    seems  to  be  stuck   in   transit.   http://support.example.com    thx,delivery
+454,😭    hey  pls   help  ...    I    am   getting    an error  message??,technical
+455,Why was I charged $5 4 my order!!!,billing
+456,😩 <SPan>?? I cANnoT gEt ThE WeBSItE 2 worK!!</stROng>,technical
+457,<b>i am unable to sign in.</div> pls check,account
+458,I  was   charged even    though my order   was   cancelled.,billing
+459,I    need help  recovering   my account???    thx  📦,account
+460,need help asap https://example.com/help <p>My card was charged but the payment failed!?!</b></p> let me know asap,billing
+461,can u help https://example.com/help how can i change my email address?,account
+462,u guys pls help www.example.com/help Why was I charged $5 4 my order?!,billing
+463,<P><B>hoW   CAN    i resEt    My   PaSsWorD?</p>,account
+464,🙏 u guys pls help The amount on my invoice is incorrect. thx pls,billing
+465,The paymant amount looks wrong.,billing
+466,😡    heY plS HELp  <sPAN>I   kEEp   reCEIVINg    AN  eRroR    WhILe  usINg  tHe  wEbisTe</B></P>,technical
+467,need   help  asap   <span>The    website   stopped   responding.</b></p>   thx  pls,technical
+468,I was charged even though my order was cancelled!!! let me know asap 😭,billing
+469,😢 hi pls https://example.com/help <span>... My login is not working!!!</span> pls help,account
+470,I don't recognize this charge of $75. plz help,billing
+471,🤦 PLS HELP WHEN SHOULD I EXPECT MY PACKAGE?,delivery
+472,<div>I cannot access my account...</span>,account
+473,?? Can you help me recover my password!!,account
+474,😢    HTTPS://SHOP.EXAMPLE.COM/ORDER    MY ORDER WAS    EXPECTED    TODAY  BUT    HASN'T   ARRIVED.,delivery
+475,can u help <p>My order was expected today but hasn't arrived.</div>,delivery
+476,hi pls I need to update my account info thx pls 😩,account
+477,NEED HELP ASAP I AM UNABLE 2 ACCESS MY PROFILE.,account
+478,PLS CHECK HTTPS://SHOP.EXAMPLE.COM/ORDER <B>THE SYSTEM IS EXTREMELY SLOW??</STRONG> CAN U CHECK,technical
+479,plz help there is an incorrect charge on my acc???,billing
+480,I am unable to sign in?!,account
+481,!!! my accont is locked. www.example.com/help pls check,account
+482,My   account is   locked?! https://shop.example.com/order,account
+483,😭 <b>?? tHe APP Keeps CRASHiG</b>,technical
+484,HEY PLS HELP I AM STILL WAITING 4 MY SHIPMENT. 😢,delivery
+485,can you check the status of my delivery?,delivery
+486,😤 pls help https://example.com/help I was charaged even though my order was cancelled.,billing
+487,hi pls <p>can u check the status of my delivery!!!!</span>,delivery
+488,😢    hTtPs://exampLE.COM/SUPPORt    thE   sCReEn    GOeS   BLANK    wHEn    I OpEn    the    aPp???,technical
+489,😕 <span>I cannot log into my account!!!!</b>,account
+490,I forgot my login details?!,account
+491,I don't recognize this charge of $25...,billing
+492,my ORDer sTill HaSN't arriveD.,delivery
+493,plz help https://shop.example.com/order !!! Why can't I sign into my account??? 🤦,account
+494,😭 u guys pls help !!! The application is freezing repeatedly. plz help,technical
+495,<P><B>?? THE SYSTEM IS EXTREMELY SLOW.</B></P> PLS HELP,technical
+496,pls check <p><b>i have been waiting 4 my order 4 several days.</strong> www.example.com/help,delivery
+497,😕 My account is locked. pls check,account
+498,😭 hi    pls   The    system    is extremely    slow??? can    u  check,technical
+499,hi pls <span>?? I cannot log into my acount!?!</p>,account
+500,The websit stopped responding!! 😩,technical
+501,PLS    HELP   THERE  IS   A  DUPLICATE PAYMNET   ON MY  ACCOUNT. PLS    HELP,billing
+502,<p>my order still hasn't arrived.</div> pls check,delivery
+503,HEY    PLS    HELP    THE  APP   CRASHES    WHENEVER  I   TRY   2  PLACE  AN ORDER?!  CAN   U   CHECK 😕,technical
+504,<p>The package was supposed to arrive yesterday.</b>,delivery
+505,<strong>Where is my order?</b> plz help,delivery
+506,🤦   HI  PLS  WHY  CAN'T   I  SIGN   INTO  MY ACCOUNT!!!!  HTTPS://EXAMPLE.COM/SUPPORT,account
+507,😡 ... CAN YOU EXPLAIN THIS CHARGE ON MY BILL??,billing
+508,The webIsTE StOpPED reSpondiNG.,technical
+509,need help asap <b>Why can't I sign into my acount...</p> can u check,account
+510,plz HELp <B>?? the apP StoPS WORkinG whENeVER i oPen it!!!</P> htTPs://EXaMPlE.COm/hElP leT mE KNoW asaP,technical
+511,PLS CHECK !!! THERE IS A DUPLICATE PAYMENT ON MY ACCOUNT?? PLS CHECK,billing
+512,🤦 hey Pls hElP <b>... My SHipMEnt hAS NoT BeeN dELiVEred.</b></p>,delivery
+513,🙏 the website gives me an error every time... https://shop.example.com/order,technical
+514,😩  U GUYS PLS   HELP   HTTP://SUPPORT.EXAMPLE.COM    THERE    IS   AN    INCORRECT  CHARG  ON    MY    ACCOUNT??,billing
+515,CAN YOU HELP ME RECOVER MY PWD...,account
+516,hTtPs://exAMPLe.COm/help <P>... tHE PaYmENt AMoUnT  lOOKS WroNG.</p>,billing
+517,<P><B>hOw CAn i  ResEt   my   pW</StROng>,account
+518,pls    help  Something   is   wrong  with    the  application???    thx,technical
+519,https://example.com/account can u tell me when my package will arrive?,delivery
+520,💳 can u help https://example.com/support <p><b>How can I change my email addres???</span>,account
+521,Why   is there    an   additional fee on   my bill?  😕,billing
+522,plz help ... i forgot my password. let me know asap,account
+523,WWW.EXAMPLE.COM/HELP ?? I CANT GET THE WEBSITE TO WORK!!! THX,technical
+524,I   cannot    access   my acc  can u check,account
+525,HEy PLS helP hTTPS://ShoP.exAmpLE.cOm/OrdER !!! i KeEP ReCeIVINg aN ERROR WHILE usiNg tHe wEbsITe.,technical
+526,<span>?? My payment was processed twice.</strong>,billing
+527,plz   help   I   forgot my   loign  details???,account
+528,😢 <span>I was charged even though my order was cancelled!!!</p>,billing
+529,😕 pls check The tracking information has not changed!! https://shop.example.com/order,delivery
+530,https://example.com/support The website is not loading properly.,technical
+531,<p>Can    you    explain   this    charg  on  my   bill?</b>,billing
+532,pls  check   How  can    I    change my email   addres? thx,account
+533,can u help why is there an additional fee on my bill... thx,billing
+534,<p><b>Can you explain this charge on my bill...</p>,billing
+535,<b>... I cant log into my account.</b>,account
+536,<b>My shipmnt appears 2 be delayed...</div>,delivery
+537,My pacage has not arrived yet. https://example.com/support,delivery
+538,<Div>HoW Can I reSeT my pAsswOrD??</diV>,account
+539,U guys PLS helP hTTpS://ExaMPlE.COM/HeLp <div>the TrACkiNG iNfoRMaTioN HaS noT chAngeD!?!</diV>,delivery
+540,The website    stopped responding.  thx  pls,technical
+541,WWW.EXAMPLE.COM/HELP <P><B>!!! MY ORDER WAS EXPECTED 2DAY BUT HASN'T ARRIVED.</B>,delivery
+542,<p><b>my delivery is late.</b>,delivery
+543,😩 hi pls why was i charged $50 for my order!!,billing
+544,<b>Can u check the status of my delivery?</p> thx,delivery
+545,pls check The amount on my invoice is incorrect. 😭,billing
+546,U GUYS PLS HELP <P><B>MY CARD WAS CHARAGED BUT THE PAYMENT FAILED!!!!</B></P> CAN U CHECK,billing
+547,<STRONG>THE PAGE KEEPS SHOWING AN EROR</P> 😩,technical
+548,U GUYS PLS HELP HTTPS://SHOP.EXAMPLE.COM/ORDER <STRONG>!!! WHERE IS MY ORDER?</B></P>,delivery
+549,HTTPS://EXAMPLE.COM/HELP   <P><B>!!! I HAVE   A    PROBLEM    WITH  MY   LATEST  INOVICE</STRONG>,billing
+550,hi  pls   There    is    an    incorrect charg on   my    accout??  www.example.com/help    🤦,billing
+551,The courier has not delivered my order?!,delivery
+552,hey   pls  help  <p>...   The  website gives  me  an  error    every  time.</div>,technical
+553,<p><b>I am unable to sign in.</span>,account
+554,can u help !!! I need 2 reset my login information!!,account
+555,HtTp://sUPpoRt.eXaMPLE.cOM  <spaN>thE  sySTem  IS    extReMElY  SloW.</StRONG> LeT   me   KnoW aSaP,technical
+556,plz help The app suddenly closes by itself.,technical
+557,💳  !!!    I  need help   recovering my   account!!!!,account
+558,<B>?? THERE IS A DUPLICATE PAYMENT ON MY ACC?!</B> HTTPS://EXAMPLE.COM/ACCOUNT,billing
+559,<DIV>WHY CAN'T I SIGN INTO MY ACCOUNT?!</STRONG>,account
+560,<span>!!! The search feature is not working.</p>,technical
+561,MY SHIPMENT APPEARS 2 BE DELAYED. LET ME KNOW ASAP,delivery
+562,WHY DID YOU CHARGE ME AN EXTRA $50!!!!,billing
+563,hey pls help http://support.example.com <strong>How do I change my passwrod???</b>,account
+564,u guys pls help <span>I am still waiting for my shipment!!!!</span> can u check,delivery
+565,THE    WEBSITE  IS    NOT   LOADING PROPERLY. WWW.EXAMPLE.COM/HELP,technical
+566,U GUYS PLS HELP I WAS CHARGED EVEN THOUGH MY ORDER WAS CANCELLED.,billing
+567,hey pls help My login is not wroking!!!!,account
+568,😡 THE SCREEN GOES BLANK WHEN I OPEN THE APP??? HTTPS://EXAMPLE.COM/SUPPORT,technical
+569,THERE  IS   AN INCORRECT  CHARGE    ON MY ACCT!!   THX PLS    🙏,billing
+570,can u help <span>... The website gives me an error every time.</b></p>,technical
+571,pls help How can I change my email address!?!,account
+572,<p><b>the system is not responding to my requests!!!!</strong> 😢,technical
+573,🙏  I    FORGOT    MY   LGOIN DETAILS!!!!  HTTP://SUPPORT.EXAMPLE.COM,account
+574,<STRONG>!!! THE SEARCH FEATURE IS NOT WORKING.</STRONG> 💳,technical
+575,http://support.example.com <b>My delivery is late.</b></p>,delivery
+576,😩 The page keeps showing an error. pls help,technical
+577,😡 My delivary is late?!,delivery
+578,I don't recognize this chage of $120. 🙏,billing
+579,The amount on my invoice is incorrect!?! https://example.com/account,billing
+580,hey   pls help    The   app freezes  on  the  login    screen.,technical
+581,HEY PLS HELP <STRONG>I FORGOT MY PASSWORD???</DIV> WWW.EXAMPLE.COM/HELP,account
+582,PLZ HELP I CANNOT UPLOAD MY FILE. WWW.EXAMPLE.COM/HELP,technical
+583,<span>i am unable to sign in...</div>,account
+584,💳 pls help <p><b>the app stops working whenever i open it??</b> let me know asap,technical
+585,hey pls help <p>... Can you help me recover my password?</p>,account
+586,😭 NEED HELP ASAP I CANNOT UPLOAD MY FILE. THX PLS,technical
+587,hey pls help My shipment appears to be delayed.,delivery
+588,My account has been locked. https://shop.example.com/order pls help,account
+589,🤦 ?? My order still hasn't arrived??,delivery
+590,plz help ?? my shipment appears 2 be delayed??? pls help,delivery
+591,plz help My package has not arrived yet... let me know asap,delivery
+592,The   amount   on   my    invoice    is   incorrect.    plz   help,billing
+593,<p>My package seems to be stuck in transit??</b> https://example.com/support 😕,delivery
+594,can   u   help    My    pakage    has   not  arrvied yet...  📦,delivery
+595,Why was I charged $10 4 my order?,billing
+596,😩 pls help why did u charge me an extra $20? thx pls,billing
+597,I need helppp understanding my latest bill.,billing
+598,https://example.com/support I have been waiting 4 my order 4 several days. 😩,delivery
+599,😡 hi  pls <b>!!!    The package was   supposed 2  arrive  yesterday.</b></p>,delivery
+600,need help asap <div>I cannot remember my usernme</div>,account
+601,PlS hELP MY LOGIn is nOT woRkInG. can u CHecK 😤,account
+602,NEED HELP ASAP I AM STILL WAITING 4 MY SHIPMENT.,delivery
+603,<span>...    I was    charged   even   though my   order was   cancelled.</p>,billing
+604,https://example.com/support <strong>whyy is there an additional fee on my bill???</b> can u check,billing
+605,Hi pls HoW Can i reSEt mY Pwd,account
+606,pls check ?? I am getting an error msg thx,technical
+607,<StrONg>theRE  is   An  iNcORRECT   charge  ON    My   acCOUnt.</P> 😕,billing
+608,need help asap    http://support.example.com <p>The    website stopped  responding!!!!</strong>    😤,technical
+609,<STRONG>WHY CAN'T I SIGN INTO MY ACCT!!</DIV> WWW.EXAMPLE.COM/HELP,account
+610,<b>?? How can I reset my pwd</p> www.example.com/help,account
+611,The website stopped responding!?! http://support.example.com,technical
+612,My shipment has not been delivered?!,delivery
+613,🙏 need help asap My package has not arrived yet!?!,delivery
+614,my    acC    cReDentIAlS   ArE    nOt    wOrKing.,account
+615,😢 pls check I cant upload my file. thx pls,technical
+616,🤦 need help    asap   <span>I need    help   understanding my latest   bill.</strong>  pls   check,billing
+617,😭 <B>PLEASE CHECK MY RECENT TRANSACTION.</P> HTTPS://EXAMPLE.COM/SUPPORT PLZ HELP,billing
+618,<span>?? Can you help me recover my password?</strong>,account
+619,?? i am unable to access my profile!!,account
+620,u gUYs PlS help <P>mY ordER stIll HASN'T ARIvEd</sPaN> ThX,delivery
+621,PlZ HeLP The sEaRCh FEaTURe Is NoT WORKIng.,technical
+622,<div>My acct has been locked.</p> can u check,account
+623,😭 Hey PlS helP i fOrgot My login deTaiLS...,account
+624,HTTPS://EXAMPLE.COM/ACCOUNT  THE APP    FREEZES ON   THE    LOGIN SCREEN.,technical
+625,PLS CHECK !!! I WAS CHARGED TWICE 4 THE SAME PURCHASE!?!,billing
+626,!!! The system is extremely slow!!,technical
+627,hi pls https://example.com/support pleae check my recent transaction!!! 📦,billing
+628,hi  pls    <div>I am  having  trouble signing    into    the  webiste!!</div> 😡,account
+629,🙏 <P><B>I  NEED    HELP    RECOVERING    MY   ACCOUNT!!</STRONG>,account
+630,WHY dID YoU CharGe ME AN ExTRA $150!!!,billing
+631,plz help   ?? The    refund amount   on  my acc is  incorrect.,billing
+632,😢 u GuYS pls HeLP cAN YOu ExpLAiN ThIS cHArGe On My BiLL?,billing
+633,pls help https://shop.example.com/order  ??  there  is    an    incorrect charge   on my   account.    pls    help 😤,billing
+634,HeY   pLs HeLP    !!! thE DElIVERy   Is tAKING tOO    LOnG.    tHx    pls,delivery
+635,😡    <p><b>The tracking   information    has    not  changed.</b></p>,delivery
+636,why can't i sign into my acc http://support.example.com plz help 😤,account
+637,My payment was processed twice??? plz help,billing
+638,www.example.com/help   <div>i    am  getting  an erro  message...</p>,technical
+639,can u help the tracking info has not changed?? plz help 💳,delivery
+640,<div>The delivery date   has    passed!!!</span>  pls  help,delivery
+641,?? THE DELIVERY DATE HAS PASSED!!,delivery
+642,the search feature is not working?? 🙏,technical
+643,https://example.com/account ... why is there an additional fee on my bill!!!,billing
+644,nEEd heLP ASAP why cAn't i siGN iNtO my accT,account
+645,🙏 <strong>?? I am having trouble signing into the website.</span> www.example.com/help,account
+646,I WAS CHARGED TWICE FOR THE SAME PURCHASE??? THX 😢,billing
+647,... The  website   stopped responding.  plz  help,technical
+648,?? The application is freezing repeatedly.,technical
+649,I  have  a  prob   with my latest   invioce!!!,billing
+650,😕 can u help <strong>I cannot access my account.</strong> http://support.example.com let me know asap,account
+651,<B>!!! I wAs bILLed MoRe thAn i eXPecteD.</sPaN> 😩,billing
+652,the delivery date has passed. www.example.com/help,delivery
+653,can u help ... When should I expect my package? https://shop.example.com/order,delivery
+654,need   help  asap  <b>The   application keeps   crashing!!</strong>  https://shop.example.com/order    pls check,technical
+655,How can  I    change  my  email  address?    www.example.com/help,account
+656,!!! I was charged even though my order was cancelled!! can u check,billing
+657,https://shop.example.com/order ...  when    should   i expect    my    package!!!!   thx  pls,delivery
+658,I cannot upload my file. pls check,technical
+659,<div>... The    screen  goes blank    when    I  open    the app??</span>   😤,technical
+660,I AM HAVING A TECHNICAL PROBLEM WITH THE APPLICATION??? THX,technical
+661,THE DELIVERY DATE HAS PASSED!!,delivery
+662,😭 HTtps://SHOp.EXaMpLe.coM/ORdeR mY ACcT iS lockED.,account
+663,the   reFun aMoUnT    ON   My AccouNT    IS   inCOrREct...,billing
+664,hi pls my shippment has not been delivered. can u check 💳,delivery
+665,plz help The application keeps crashing.,technical
+666,cAn u hElp I wouLd lIkE 2 dIsPute A CHAGE LEt me KNoW Asap,billing
+667,<b>there is an incorrect charge on my acc</b></p> https://example.com/support thx pls,billing
+668,💳 pls check <strong>my paymnet was processed twice???</p> http://support.example.com,billing
+669,📦 ... THE SYSTEM IS EXTREMELY SLOW. HTTP://SUPPORT.EXAMPLE.COM PLS HELP,technical
+670,💳 HEY  PLS    HELP <DIV>WHEN   SHOULD    I   EXPECT    MY PACKAGE?</B>,delivery
+671,tHeRe    iS    An  iNCOrRecT  chARage    on my   acCout,billing
+672,can   u help <p>The   screen    goes  blank when  I   open   the    app!!</div>,technical
+673,<DIV>... I WAS CHARGED TWICE 4 THE SAME PURCHASE.</P> PLS HELP,billing
+674,HEY PLS HELP THERE IS A DUPLICATE PAYMENT ON MY ACCOUNT. THX,billing
+675,PLS    CHECK  HTTPS://EXAMPLE.COM/ACCOUNT    ??    HOW    CAN  I   RESET MY  PW!!!!,account
+676,i need to update my account info 😡,account
+677,<p><b>the page keeps showing an error.</strong>,technical
+678,U GUYS PLS HELP THE DELIVERY DATE HAS PASSED. CAN U CHECK,delivery
+679,!!! when should i expect my package!?!,delivery
+680,HTTPS://SHOP.EXAMPLE.COM/ORDER   <DIV>??  I   AM  STILL WAITING    FOR   MY SHIPMENT.</P>    😡,delivery
+681,I cant log into my account.,account
+682,HEY PLS    HELP HTTPS://EXAMPLE.COM/HELP  <SPAN>??   MY    LOGIN IS    NOT    WORKING!!!</B></P>,account
+683,...   I kEep  REceiving  aN ErROr  WHILe UsIng ThE   websiTe.  thX  PLS 😩,technical
+684,I cant remember my username.,account
+685,u guys pls help https://shop.example.com/order The system is not responding 2 my requests!!!! thx 😡,technical
+686,<spaN>I CaNnot lOG intO My ACCOunT.</StroNG> 😕,account
+687,<p><b>how do i change my password?!</div> https://shop.example.com/order,account
+688,HEY PLS HELP <P><B>... WHY IS THERE AN ADDITIONAL FEE ON MY BILL?</STRONG> CAN U CHECK 😭,billing
+689,<p><b>My payment was processed  twice!!!!</span>  🤦,billing
+690,The app stops working whenever I open it.,technical
+691,<P><B>?? THE REFUND AMOUNT ON MY ACCOUT IS INCORRECT.</DIV> LET ME KNOW ASAP,billing
+692,my account has been locked.,account
+693,pls help <p>where is my order???</b></p> let me know asap,delivery
+694,can u help I am still waiting for my shipment. plz help,delivery
+695,HTTPS://SHOP.EXAMPLE.COM/ORDER HOW CAN I RESET MY PASSORD!!!,account
+696,😡 HEY PLS HELP I AM HAVING A TECHNICAL PROBLEM W/ THE APLICATION PLS HELP,technical
+697,<b>The system is not responding to my requests...</p>,technical
+698,🤦  U  GuyS   plS   hElP  ThE  APPlICAtiON freeZES   oN tHe   lGOiN    SCrEEn.,technical
+699,<p>!!!   How    do I change   my password?</div>,account
+700,<B>WhERe iS My oRDER?</stRong>,delivery
+701,🤦 <p>MY acCounT is LoCkED.</div>,account
+702,😕   hey pls  help  <p>...  why    can't  i    sign    into my    account?</b>,account
+703,🙏 https://shop.example.com/order ?? The app stops wroking whenever I open it.,technical
+704,🙏 htTPs://exaMpLe.cOm/AccouNt !!! tHe AMOUNt ON My invoCe iS InCOrreCT. CAN U Check,billing
+705,I  am  still  waiting for  my  shipment!?!   thx 🙏,delivery
+706,MY LoGiN is NOT workinG.,account
+707,🙏 can u help can you tell me when my package will arrive?,delivery
+708,... I am still waiting for my shipment.,delivery
+709,There is an incorrect charge on my acc... 😕,billing
+710,<span>The refund amount on my account is incorrect.</b></p> 😤,billing
+711,😩    i  cant  get   the websit 2    work.    let   me know asap,technical
+712,😡 <p>i have a problem with my latest invioce</div>,billing
+713,😕 !!! thERe Is A duplIcAte PAYMANt oN my aCct,billing
+714,<b>I am unable 2 access my profile!!!!</b></p> 🤦,account
+715,The delivery  date   has passed.   https://shop.example.com/order,delivery
+716,The app suddenly closes by itself!!!! 💳,technical
+717,🙏 i HavE noT ReCeIVEd mY DelivErY.,delivery
+718,hey    plS  hElP   ThE  ScreeN   GOeS blaNK wHEn  i    Open    THE  App.,technical
+719,<DiV>I DOn'T RECOGNize thIS Charge OF $25.</SPaN> plS HELP 📦,billing
+720,https://shop.example.com/order I am having trouble signing into the website.,account
+721,<DIV>WHY WAS I CHARGED $35 FOR MY ORDER!?!</P> HTTPS://EXAMPLE.COM/SUPPORT,billing
+722,<strong>i have  not   received   my  delivery??</strong>  https://example.com/help thx  pls,delivery
+723,can  u    help Where  is   my order!!!,delivery
+724,i am having a technical prob w/ the application.,technical
+725,!!! how do i change my password!!!!,account
+726,pls help The system is not responding 2 my requests. 😤,technical
+727,hi pls !!! i AM sTIll WAItINg FOR my sHipmENt.,delivery
+728,... i am having trouble signing into the website.,account
+729,https://example.com/support The    system  is extremely   slow.,technical
+730,😭 !!! i was charged twice for the same purchase.,billing
+731,My delivery is late!! https://example.com/support 😤,delivery
+732,I NEED HELP UNDERSTANDING MY LATEST BILL. LET ME KNOW ASAP,billing
+733,thE  aPpLiCAtION    FREeZES    ON  The    LGOin   sCrEEN?!  caN   U   cHECk,technical
+734,pls   hELP  ...   pls  cHECk    mY    rEcent tRaNsactIoN. thX pLS,billing
+735,I was charged even though my order was cancelled.,billing
+736,https://example.com/account   !!!    plz   check my recent    transaction.,billing
+737,Can u check the status of my delivery?? http://support.example.com,delivery
+738,can    u help    The   app  crashes whenever    I try to    place   an order!!!!,technical
+739,pls help THe App crAShEs whENEvER I trY tO plAce An ORder.,technical
+740,hey pls help https://example.com/help can you explain this charge on my bill???,billing
+741,Pls HElp <b>i CaNt aCceSS my aCCONT</STROng> 😡,account
+742,🤦   HTTP://SUPPORT.EXAMPLE.COM    I   WOULD    LIKE TO   DISPUTE   A  CHARGE.    THX,billing
+743,https://example.com/account I cannot remember my username!!!! thx,account
+744,My card was charged but the payment failed??,billing
+745,i have not received my delivery. 🤦,delivery
+746,The  courier   has    not delivered my   order!!  pls  check,delivery
+747,<p><b>My account has been locked???</strong> let me know asap,account
+748,😩 u guys pls help ... the delivery is taking too long.,delivery
+749,I cannot get the website to work. 😢,technical
+750,😢    My    delievery    is late.,delivery
+751,😤 hi pls ?? the app crashes whenever i try 2 place an order!!!,technical
+752,hey pls help the app crashes whenever i try to place an order. 🙏,technical
+753,neEd HeLP aSap !!! mY pACkaGe HaS NoT arRIvED yet.,delivery
+754,The   app  stops working   whenever   I   open   it???,technical
+755,can u help    My  shipment   has   not been   delivered!?!,delivery
+756,My card was charaged but the payment failed...,billing
+757,<strong>I  was billed    more    than  I   expected!!!</div>,billing
+758,Hi   PLs WhY  IS    theRe  An    addiTIOnal   FEE On    mY   biLL?? can    u  cHecK,billing
+759,CaN U HelP ThE apP sUDDenlY clOseS bY iTSELF.,technical
+760,u  GUYs  PLS   hElp  THe PayMENT  AMoUnT loOKS    wRong.,billing
+761,😭   HTTpS://eXaMPle.com/SuPpoRt   <B>??  MY    CARD  wAS   ChArGED    bUt thE PaYment    FAILED?!</B>  CaN   U    chECk,billing
+762,<sTRONg>!!!  i    WouLd    lIKe   To  DIspUtE    a chArge!?!</b></P>    can    U   cHecK,billing
+763,<b>!!! I would like 2 dispute a charge...</strong> thx,billing
+764,U GUYS PLS HELP THE TRACKING INFO HAS NOT CHANGED!!! PLS CHECK,delivery
+765,😭 THE REFUN AMOUNT ON MY ACCT IS INCORRECT?? LET ME KNOW ASAP,billing
+766,😩  nEED    HElp  AsAp !!!  caN you    eXPlaiN  THiS    cHArGe    ON MY  BILl!?!,billing
+767,<STRONG>?? MY ACCOUNT HAS BEEN LOCKED.</SPAN> PLS CHECK,account
+768,My order still hasn't arrived.,delivery
+769,Why did u charge me an extra $100?? pls help,billing
+770,<div>whyyy can't I sign into my account!!!</div> https://example.com/help,account
+771,My package has not arrived yet. can u check,delivery
+772,need help asap My package seems to be stuck in transit.,delivery
+773,My card was charged but the payment failed?! https://example.com/help can u check,billing
+774,... How can I change my email address?,account
+775,u guys pls help <b>The app suddenly closes by itself.</strong> 🤦,technical
+776,📦 ... MY LOGIN IS NOT WORKING.,account
+777,plz help <span>My order still hasn't arived</b> can u check,delivery
+778,😡 mY dELIVEry is late.,delivery
+779,cAN   U    HElP  ??    tHe  dEliveRy daTE    haS  pASSed.,delivery
+780,<span>?? the website gives me an error every time.</span> https://example.com/account plz help 🤦,technical
+781,pls check How do I change my pwd,account
+782,😤 u guys pls help <b>Something is wrong with the aplication</b></p>,technical
+783,📦 ?? The app freezes on the logn screen!!! thx pls,technical
+784,www.example.com/help   The  tracking    information    has  not  changed??,delivery
+785,💳    !!!    I NEED  HELP RECOVERING    MY ACCT?!,account
+786,hTTpS://EXAMPLe.coM/HElp hOw Can i REset mY paSSWoRd?,account
+787,<p><b>My    acc   is locked.</p> can u   check   😭,account
+788,pLs HeLP PLEaSe ChEck My receNt trANsacTIon.,billing
+789,Can you check the status of my delivery? 😤,delivery
+790,😩 U GUYS pLS hELp I WAS biLlEd mOrE ThAn I expEctEd... HttPs://EXaMple.coM/acCOunT,billing
+791,...  The system    is   extremely  slow!!,technical
+792,i aM gettING An Error MESSAGe... 🙏,technical
+793,plz  help  https://example.com/support    !!!  My  invioce   shows   the    wrong  amount?!,billing
+794,need    help asap <p><b>...  The  amount  on  my    invioce   is   incorrect.</p>    pls  check,billing
+795,The application is freezing repeatedly?!,technical
+796,!!!   CAN YOU   EXPLAIN    THIS  CHARG    ON   MY   BILL?,billing
+797,😡 pls check !!! The screen goes blank when I open the app. can u check,technical
+798,pLS  HElp <DIv>!!!   ThE  trAcKinG    iNfOrMaTIOn    HAs   noT    chanGEd.</Div>    hTTp://SupporT.examPLE.Com,delivery
+799,PLS CHECK HOW CAN I CHANGE MY EMAIL ADDRESS?,account
+800,WHY IS TheRe aN adDITIONAl fEe oN my BIll?,billing
+801,<span>?? My order was expected today but hasn't arrived?!</div> plz help,delivery
+802,can you tell me when my package will arrive?,delivery
+803,... why  is    there an   additional fee   on my    bill?,billing
+804,hi Pls When shOUlD i expECT My paCKAGe?,delivery
+805,can u help <strong>can you explain this charge on my bill?</strong> pls check,billing
+806,<div>The website is not loading properly.</p>,technical
+807,<p>I don't   recognize    this    charge    of   $25!!!</p>  pls check,billing
+808,need help asap My payment was processed twice.,billing
+809,💳 ?? MY PACKAGE HAS NOT ARRIVED YET.,delivery
+810,i wAs cHArGEd eveN thoUgH My ORdER WaS cANcElLEd!!!! cAN U check,billing
+811,😡 <p><b>the pAkagE WAS SuPPOSED to ArriVE YEsteRDaY?!</b>,delivery
+812,HTTPS://SHOP.EXAMPLE.COM/ORDER    <SPAN>!!! THE PAGE    KEEPS    SHOWING  AN    ERRO</B></P>,technical
+813,need help asap <p>?? Why was I charged $35 for my order?</p> www.example.com/help 📦,billing
+814,<p>My delivery is late!!</div> 📦,delivery
+815,😕 <p><b>I need to update my acct information...</p> https://example.com/support,account
+816,😭 <DiV>!!! mY PACKAgE Seems TO bE STucK iN TraNsIt.</B></p>,delivery
+817,HEY PLS HELP    <P>WHERE  IS   MY  ORDER?</SPAN>,delivery
+818,<strong>My payment was processed twice.</strong> pls check,billing
+819,plz help https://example.com/help My invoice shows the wrong amount. plz help,billing
+820,PLZ HELP HTTPS://SHOP.EXAMPLE.COM/ORDER THE SYSTEM IS EXTREMELY SLOW?? THX 😡,technical
+821,😤 pls help i was billed more than i expected??? thx,billing
+822,<div>Can u explain this charge on my bill?</b></p> let me know asap,billing
+823,<diV>my ACcoUnT has Been LOcKed.</b> 😡,account
+824,<sPan>my CArD was CHargeD bUt THE PayMant FAIled.</spaN>,billing
+825,<SPAn>how CAN I REsET My pwD</B>,account
+826,CAN U HELP <P><B>THE APPLICATION KEEPS CRASHING.</DIV> WWW.EXAMPLE.COM/HELP THX PLS,technical
+827,<div>... my login is not working.</div> can u check,account
+828,!!! THE PAGE KEEPS SHOWING AN EROR,technical
+829,<STRONG>CAN U EXPLAIN THIS CHARGE ON MY BILL!!</B></P> 🙏,billing
+830,🙏 pLS help !!! CaN yOU EXpLAIN thIs ChagE on My biLL?,billing
+831,?? mY INvOICe SHOWs tHe WrONg amOuNT?? Www.eXAmPLE.COm/hElP,billing
+832,!!! The search feature is not working. 📦,technical
+833,hey pls    help   <span>The    delvery  date    has    passed.</div>,delivery
+834,??    My   card   was  chargd   but the   payment failed!?!    https://example.com/account pls  help  🤦,billing
+835,<p>!!! I have been waiting for my order 4 several days.</div>,delivery
+836,HI pls htTPS://EXAMpLE.COm/Account <spAN>I wAs cHARged twICe fOr tHe SamE PuRchAsE.</diV> PlS cHECK,billing
+837,hi pls the delivery date has passed. thx,delivery
+838,<p>?? why can't i sign into my acct...</b>,account
+839,I  KEEP   RECEIVING  AN   EROR   WHILE USING   THE   WEBSIT  WWW.EXAMPLE.COM/HELP,technical
+840,The delivery    is    taking  too   long.,delivery
+841,https://example.com/help    <strong>i    need   help recovering   my  account???</strong>,account
+842,😡   !!!   the  app  freezes    on   the    login   screen!!  can u  check,technical
+843,hey pls help I don't recognize this charge of $25!!! http://support.example.com,billing
+844,httPS://EXaMPLe.com/HELp <P><b>I CaNnoT GET THE WeBisTe 2 worK??</B></p> THx,technical
+845,📦 hTTPS://exaMPle.CoM/heLp <div>I wOULd lIKe TO diSPutE a CHArgE...</B>,billing
+846,MY ACCT CREDENTIALS R NOT WORKING!!!!,account
+847,HTTPS://EXAMPLE.COM/HELP    <P><B>??   MY   PAKAGE   SEEMS   TO BE    STUCK   IN    TRANSIT.</P>,delivery
+848,<DIV>!!! I AM HAVING TROUBLE SIGNING INTO THE WEBSITE!!</STRONG> THX,account
+849,😢 <strong>the payment amount looks wrong!!</b></p> thx pls,billing
+850,😡   CAN U HELP   <P>I AM    UNABLE   TO   ACCESS MY   PROFILE?!</STRONG>   PLS  CHECK,account
+851,pLS Help ... i canNOt AccesS mY aCc!?! WWw.ExamPLe.cOm/HElp,account
+852,my acc CrEDeNTIaLs ArE nOT wORkINg.,account
+853,😢 plz help <strong>The  pakage    is    missing...</strong> thx   pls,delivery
+854,💳 The app suddenly closes by itself. thx,technical
+855,u guys pls help the system is not responding 2 my requests!!!! https://shop.example.com/order,technical
+856,🤦 i would likE To DISPUtE a ChArGe??,billing
+857,hey pls help The amount on my inovice is incorrect!!!!,billing
+858,hey pls help My login is not working!!!!,account
+859,U GUYS PLS HELP !!! I WOULD LIKE TO DISPUTE A CHARGE. PLS CHECK,billing
+860,PLESE CHECK MY RECENT TRANSACTION!!!! HTTP://SUPPORT.EXAMPLE.COM PLZ HELP,billing
+861,😢 <STRONG>I HAVE BEEN WAITING 4 MY ORDER 4 SEVERAL DAYS??</STRONG>,delivery
+862,?? MY INVOICE SHOWS THE WRONG AMOUNT.,billing
+863,MY   ACCT    IS  LOCKED.,account
+864,😕 the application is freezing repeatedly?!,technical
+865,need   help  asap  Why   is    there    an   additional    fee   on    my    bill!?! thx   pls,billing
+866,PLZ HELP <P>MY SHIPMENT APPEARS TO BE DELAYED???</DIV>,delivery
+867,HOw CaN i reseT mY PW!!!!,account
+868,u guys   pls  help  The refnd   amount    on  my    account    is incorrect.,billing
+869,need help asap ?? There is a duplicate payment on my account!!! let me know asap,billing
+870,The package is missing. pls check 📦,delivery
+871,... I  would   like 2  dispute   a  chage   😩,billing
+872,PLS    HELP I    AM    GETTING   AN   ERROR    MESSAGE!?! 😤,technical
+873,Can   you   tell   me   when   my    package    will arrive? 😩,delivery
+874,<P>SOMETHING IS WRONG WITH THE APLICATION</STRONG> 😡,technical
+875,The  page   keeps  showing    an   error.,technical
+876,https://shop.example.com/order    <p>I  keep    receiving    an error while   using  the    website.</b>  can   u  check,technical
+877,<strong>I   cant   get  the website   to    work.</strong>,technical
+878,<div>!!!    my  order still  hasn't   arrived!!!!</b>  😭,delivery
+879,<P><B>MY ACCOUNT IS LOCKED.</B></P>,account
+880,<span>I was billed more than I expected.</b></p>,billing
+881,<strong>i need 2 reset my login information.</p>,account
+882,need help asap <div>the delvery is taking too long!!!!</strong> 😤,delivery
+883,<SPaN>WhY   DId   U    chaRGe   me  aN    ExtRa   $50!?!</P> 🤦,billing
+884,u   guys    pls   help  https://example.com/help  There    is  a duplicate  payment    on   my  account.,billing
+885,🙏 ?? THe dELiVery IS takiNg tOo lONg.,delivery
+886,plz    help My    invoice  shows    the  wrong amount!!! https://example.com/support,billing
+887,NEED HELP    ASAP  <DIV>I   AM GETTING  AN    ERROR   MSG???</B>,technical
+888,😡 ?? the tracking information has not changed. https://example.com/account,delivery
+889,I cannot get the website to work. thx pls,technical
+890,pls help <p>I need help recovering my account!?!</strong>,account
+891,https://example.com/help i have not received my delivery!?! 💳,delivery
+892,pls help ... the applcation keeps crashing. 😭,technical
+893,I keep receiving an error while using the website. http://support.example.com,technical
+894,😤 www.example.com/help ?? Where is my order?,delivery
+895,😩    i    Am   HAViNg  A    techNIcAl   PrOBlM wITH    THE aPPLiCation.,technical
+896,<p><b>I am still waiting 4 my shipment.</strong> thx,delivery
+897,hey pls help !!! I am unable to access my profile!?! can u check 💳,account
+898,😭 plz help <div>?? can you tell me when my package will arrive!!!!</div>,delivery
+899,<b>?? my account credentials are not working.</p> 😡,account
+900,<P><B>WHEN SHOULD I EXPECT MY PACKAGE!!!!</B>,delivery
+901,<B>SOMETHING IS WRONG W/ THE APP</B></P>,technical
+902,need help asap https://example.com/support how do i change my password... 🤦,account
+903,<p><b>Can    you  tell   me   when  my package will arrive?</span>,delivery
+904,HI PLS I CANNOT ACCESS MY ACCOUNT. 😢,account
+905,<B>ThEre is an INCorrECT CHARgE on my ACCOuT</strong> 😡,billing
+906,<sPAn>The    apP sTOpS   WrokinG  WhEnEVEr  i    OPEn It.</p>,technical
+907,WWW.EXAMPLE.COM/HELP    <DIV>THE    TRACKING INFORMATION  HAS    NOT   CHANGED!!!</B>,delivery
+908,pls check The website gives me an error every time?? 💳,technical
+909,my order still hasn't arrived?!,delivery
+910,can u  check   the status  of   my    delivery?,delivery
+911,pls    check   <b>My   account    has  been   locked???</b>  https://example.com/help,account
+912,😢 I AM STILL WAITING 4 MY SHIPMENT!?!,delivery
+913,hi pls <span>!!! Can you explain this charge on my bill?</b></p> https://example.com/account thx pls,billing
+914,HEY PLS   HELP I WAS    BILLED   MORE  THAN    I EXPECTED.,billing
+915,The delivery date has passed.,delivery
+916,u    guys    pls    help    <p>??   i  cant    get  the   website   to  work.</div>    can   u   check 💳,technical
+917,<B>I FORGOT MY LOGIN DETAILS...</STRONG>,account
+918,My invioce shows the wrong amount.,billing
+919,😡 ... i have a prob with my latest invoice.,billing
+920,plz   check my  recent   transaction. http://support.example.com,billing
+921,www.example.com/help My account credentials r not workin?!,account
+922,📦 whyyy is there an additional fee on my bill...,billing
+923,mY LOGin   IS   nOt wORkIng. PlS chEcK,account
+924,U GUYS PLS HELP CAN U EXPLAIN THIS CHARAGE ON MY BILL!!!! 😢,billing
+925,<div>my package has not arrived yet.</b>,delivery
+926,😭 can u help https://example.com/help I need to reset my login info!!!!,account
+927,hey   pls  help   the    payment amount  looks    wrong.,billing
+928,<strong>How do I change my password?</p> https://example.com/account 😭,account
+929,<strong>i need to reset my loign info</b></p>,account
+930,plz help My login is not workin http://support.example.com,account
+931,😤 hi pls My payment was processed twice!?! www.example.com/help thx,billing
+932,tHe WEbISTE Is NoT lOaDing ProperlY?? WWW.exaMPlE.Com/hElP,technical
+933,😩 PLZ HElP i neeD To resEt mY loGiN inforMAtioN. PlS HElP,account
+934,<strong>I have been waiting for my order for several days!!!</span>,delivery
+935,Need hElP    ASAP  <P>i   aM gEttING   AN errOr   MSg</b></p>,technical
+936,😩 http://support.example.com <b>I have a problem with my latest invoice???</b>,billing
+937,pls check My shipment has not been delivered!!,delivery
+938,😭 u guys pls help https://example.com/help The application freezes on the logn screen!?!,technical
+939,I WAS BILLED MORE THAN I EXPECTED... HTTPS://SHOP.EXAMPLE.COM/ORDER,billing
+940,plz    help    https://example.com/account I    cant  log  into    my   accout?!,account
+941,😭 https://shop.example.com/order I need to reset my login information.,account
+942,<p>The webiste is not loading properly!?!</strong>,technical
+943,pls check www.example.com/help My order still hasn't arrived.,delivery
+944,hey    pls    help    the   package  is    missing!!    http://support.example.com    plz  help,delivery
+945,PLZ HELP HTTPS://SHOP.EXAMPLE.COM/ORDER I NEED TO RESET MY LOGIN INFORMATION!?! PLS HELP,account
+946,Can you tell me when my package will arrive?? https://shop.example.com/order,delivery
+947,PLZ    HELP <SPAN>??    SOMETHING   IS    WRONG WITH   THE  APP</SPAN>,technical
+948,I  keep  receiving an    error   while    using  the website. https://example.com/account,technical
+949,Why can't I sign into my account? thx pls,account
+950,http://support.example.com <span>I need 2 reset my login information!!!!</b> thx 😢,account
+951,<span>My  card was   charged    but    the   payment   failed.</span>,billing
+952,u    guys    pls help  https://example.com/account  <div>!!!  The    app    is    freezing   repeatedly??</b>,technical
+953,https://example.com/account The courier has not delivered my order... 🤦,delivery
+954,<div>My   shipment    has    not  been   delivered??</span>  https://example.com/account thx   pls,delivery
+955,u Guys pls hELp !!! THE weBSiTe GivEs ME aN errOr EVEry TiME??? PLS CHecK,technical
+956,u GUYS pLs HELp <DiV>how dO i CHANGe MY passWORd?</SPan> pLs HELp 😢,account
+957,🙏 <p><b>where is my order!?!</strong>,delivery
+958,https://example.com/support    <div>I  cant get the   website  2 work.</strong>  plz   help,technical
+959,I Am hAvIng a TeChNIcaL ProBLeM WITh tHe aPp... pls help,technical
+960,NeED HElp AsAP wHY dID u cHaRge mE An ExTrA $25??? 💳,billing
+961,why can't i sign into my account?,account
+962,😤 hi PLs ... i AM HAvIng a TEChNIcal ProBEm wITH tHe ApP,technical
+963,!!! I    Forgot  MY paSSoRd    🤦,account
+964,WHEN SHOULD I EXPECT MY PACAGE? 😕,delivery
+965,HI PLS MY PACKAGE SEEMS 2 BE STUCK IN TRANSIT.,delivery
+966,!!! ThE pACKaGe wAS SupPosED 2 arRiVE yEsterDAy. 💳,delivery
+967,🤦 <p>?? I need 2 reset my login info...</div>,account
+968,📦 HTTP://SUPPORT.EXAMPLE.COM I WOULD LIKE TO DISPUTE A CHARGE. PLS HELP,billing
+969,hey    pls  help   <div>The delivery  date  has  passed!!!</b></p>  🙏,delivery
+970,HI  PLS    THE    WEBSITE  STOPPED    RESPONDING...,technical
+971,i  need   2  reset  my   login information.,account
+972,<p>i   ForGot    mY  LoGin    DEtaIls.</p>,account
+973,<P><B>THERE IS AN INCORRECT CHARG ON MY ACCOUT</B> HTTPS://EXAMPLE.COM/ACCOUNT,billing
+974,😡  <div>My  package    has   not   arrived    yet.</div>,delivery
+975,<P>i   CANNoT   GeT  ThE   weBSitE 2   wORk.</sTRoNG>,technical
+976,THE    SCREEN    GOES BLANK    WHEN    I OPEN  THE   APP.,technical
+977,HTTPS://EXAMPLE.COM/SUPPORT ... WHY IS THERE AN ADDITIONAL FEE ON MY BILL!!!,billing
+978,??   my  pakage  seems  to be   stuck in    transit.,delivery
+979,The tracking info has not changed!!!!,delivery
+980,<P>MY DELIVARY IS LATE...</DIV> LET ME KNOW ASAP,delivery
+981,can    u  help  i am   having   trouble    signing    into    the  webiste,account
+982,https://shop.example.com/order <div>?? Can u check the status of my delivery??</div>,delivery
+983,😤 <P>THERE IS A DUPLICATE PAYMENT ON MY ACCOUNT!!!!</B></P>,billing
+984,hi pLs I NEED HelP ReCOvErINg my aCCont!!!,account
+985,😡 u guys pls help i am unable to access my profile?? https://shop.example.com/order pls check,account
+986,need help asap I was charged even though my order was cancelled!!!!,billing
+987,😤    u   guys  pls help The   delivery    date    has  passed.,delivery
+988,THE WEBISTE   STOPPED    RESPONDING.    PLZ HELP,technical
+989,<strong>My payement was processed twice.</p> thx pls,billing
+990,<strong>...   I am   getting an   error message.</span>    pls    help,technical
+991,Can  u    help  me recover   my  password?,account
+992,😤  <p><b>the    refud  amount on  my    account is incorrect.</strong> www.example.com/help,billing
+993,<p><b>Can you check the status of my delivery...</b></p> https://example.com/help thx,delivery
+994,MY   ACC Has   Been   lOCked. leT   mE kNOW  AsAp,account
+995,... THE APP KEEPS CRASHING!!!,technical
+996,pls check <div>i cannot upload my file.</span>,technical
+997,cAN U heLp my AcOUNt cREdEnTiAlS aRE not WORkiNG!!!,account
+998,😡 The amount on my invoice is incorrect... www.example.com/help,billing
+999,<P>I  HAVE  BEEN   WAITING  FOR MY    ORDER   4    SEVERAL   DAYS!!!!</STRONG>   PLS  HELP,delivery
+1000,plz help   <span>I    don't  recognize this charge   of   $25.</span>,billing
+1001,😤 ... I caNt aCceSS My ACCoUnt??,account
+1002,pls    help <b>My  account    credentials    are   not   working.</strong>    plz  help 📦,account
+1003,Why is there an additional fee on my bill?,billing
+1004,pls  help   ?? My order  was    expected    today  but    hasn't    arrived!!   pls check,delivery
+1005,PLS HELP HTTPS://SHOP.EXAMPLE.COM/ORDER <B>I NEED HELP UNDERSTANDING MY LATEST BILL.</STRONG> 😤,billing
+1006,I Was ChaRed EVen thoUGH my oRdeR wAS CancELlEd!!,billing
+1007,<DIV>MY    ORDER   WAS    EXPECTED TODAY   BUT    HASN'T   ARRIVED.</B></P>  🤦,delivery
+1008,Why  can't   I  sign  into my    accout??,account
+1009,U GUYS PLS HELP <SPAN>MY PACKGE HAS NOT ARRIVED YET...</STRONG> THX,delivery
+1010,plz help <b>The app suddenly closes by itself!!</p>,technical
+1011,<b>I    need   help  recovering    my    acc</div>,account
+1012,https://shop.example.com/order  the    system is   extremely    slow.,technical
+1013,😕 <sPAn>?? I doN'T recOGniZE thiS cHaRGe oF $75.</B></p>,billing
+1014,hey pls help please check my recent transaction.,billing
+1015,I  have been    waiting   for  my  order   4    several    days??,delivery
+1016,u guys  pls help   The   package   is missing.   https://example.com/help,delivery
+1017,PLS HELP <P>!!! I CANNOT REMEMBER MY USERAME!!</B> THX,account
+1018,<p><b>Where is my order?</p> 🤦,delivery
+1019,https://example.com/account The search feature is not working?! pls check 😡,technical
+1020,why    did u   charge  me    an extra $120!!   can u check,billing
+1021,Hey PlS   HElp  <p>THe    app kEepS craShInG.</sTROnG>,technical
+1022,😢    hey  pls help   http://support.example.com  <strong>my acct    has   been  locked.</span>,account
+1023,<SPAN>THE    APP STOPS   WORKING  WHENEVER  I    OPEN  IT??</B>,technical
+1024,pls help !!! I am having trouble signing into the website?? 🙏,account
+1025,...   I   NeED   HeLp    UNDERSTAnDInG  My LATeSt  BILl.  wWw.ExAmPlE.Com/Help   PLS HElp,billing
+1026,<SPAN>THE REFUD AMOUNT ON MY ACC IS INCORRECT.</B> 😢,billing
+1027,the package was supposed to arrive yesterday.,delivery
+1028,Can u tell me when my pacage will arrive? https://shop.example.com/order,delivery
+1029,<SPAN>THE    DELIVERY   DATE   HAS   PASSED.</STRONG>  🙏,delivery
+1030,😩   <span>I    cannot  log into   my  acc!!</div>    pls   help,account
+1031,https://example.com/help <b>The app freezes on the login screen.</div> 🤦,technical
+1032,😕   <p>!!!    I    cannot   log into my accont?!</div>,account
+1033,📦    PLS  HELP I    AM    GETTING    AN ERROR    MESSAGE.,technical
+1034,u guys pls help The payment amount looks wrong?? 🙏,billing
+1035,pls help www.example.com/help why was i charaged $50 4 my order?,billing
+1036,<strong>The system is not responding 2 my requests.</b> https://example.com/help pls help,technical
+1037,PlS chEck <StronG>... I Have A ProBLEm wITh My LAteST inVoICE.</sPAN>,billing
+1038,<p><B>i    am  UnaBLE    2   SIgn   In...</STRONg>,account
+1039,😤 I have not received my delivary??,delivery
+1040,hi pls   <p><b>!!!    My    package  seems  to    be    stuck  in    transit.</strong>,delivery
+1041,<span>I   need   help    recovering    my    account.</div>,account
+1042,!!!    Why   can't I   sign    into   my   accont? 🤦,account
+1043,🙏 HTtPS://exAmPle.Com/SUpPoRt tHe App stoPs woRkIng wHENeveR i opEn IT!!,technical
+1044,<B>I   WOULD  LIKE  2   DISPUTE  A   CHARGE!!!</DIV>,billing
+1045,caN u hELp ... CaN yOU explain thIS charG On my biLL??,billing
+1046,😤    I    have   not    received  my   delivery. plz   help,delivery
+1047,😭 How can I change my email adres!!! https://example.com/help,account
+1048,HEY PLS HELP HTTPS://EXAMPLE.COM/HELP MY SHIPMENT HAS NOT BEEN DELIVERED. 😩,delivery
+1049,can  u  help  https://example.com/support   <p>??  The amount   on  my  invoice   is  incorrect!!!!</b> plz help,billing
+1050,My order was expected 2day but hasn't arrived.,delivery
+1051,i am gETTiNg AN errOR MesSAGe??? httP://suppORt.example.COM,technical
+1052,<p>!!! I have been waiting 4 my order for several days.</span>,delivery
+1053,😡  My   package seems  to  be   stuck in  transit?! www.example.com/help,delivery
+1054,https://example.com/support  The    app  stops working whenever    I  open it.   plz help,technical
+1055,https://shop.example.com/order ... the app is freezing repeatedly.,technical
+1056,HI PLS ?? THE PAGE KEEPS SHOWING AN ERROR.,technical
+1057,THE REFUN    AMOUNT    ON MY  ACCOUNT    IS INCORRECT.,billing
+1058,!!! i keep receiving an errror while using the website. let me know asap,technical
+1059,😡 pls check Can u tell me when my package will arrive!?! plz help,delivery
+1060,NeeD  hELp    aSaP    I  NEed   2 rESet   my LOGin    InfoRMATIOn.  httP://SUppOrt.eXAMplE.COM,account
+1061,<span>My shipment has not been delivered?!</b></p> www.example.com/help,delivery
+1062,PlS HELp <spAn>mY cARd waS CHargeD BUT The pAymeNT FAIlEd.</stroNG> thX,billing
+1063,The app crashes whenever I try 2 place an order!!! 😤,technical
+1064,need help asap The courier has not delivered my order. www.example.com/help,delivery
+1065,😤    pls    check  <p>...    the courier   has    not   delivered    my   order!!</span>,delivery
+1066,pls    check  https://example.com/account   <b>when should    i  expect    my   package!?!</strong>,delivery
+1067,<b>?? can you help me recover my password?</b></p> https://example.com/support,account
+1068,<div>I am still waiting for my shipment.</div>,delivery
+1069,My acct   has   been  locked.,account
+1070,pls check <strong>!!! i am still waiting for my shipment.</b> 😤,delivery
+1071,😩 need   help   asap   <p><b>I am   getting an  error  message??</p>,technical
+1072,<diV>THE SysTem    Is exTremelY  sLoW!?!</B>  😭,technical
+1073,u   guys    pls  help  https://example.com/support    the    system  is    not   responding   2   my  requests. plz  help,technical
+1074,😕 <div>the amount on my invoice is incorrect??</b> www.example.com/help,billing
+1075,http://support.example.com <span>My card was charged but the payment failed.</p>,billing
+1076,<B>... THE APPLICATION FREEZES ON THE LOGIN SCREEN.</SPAN>,technical
+1077,<p><b>there is a duplicate paymnet on my account.</b>,billing
+1078,<B>I HAVE A PROB WITH MY LATEST INVOICE???</B></P> HTTP://SUPPORT.EXAMPLE.COM,billing
+1079,<strong>My shipment has not been delivered.</div>,delivery
+1080,pls check <strong>?? i am unable to sign in!!!</b></p>,account
+1081,😩 Can U Help Where Is My OrDeR? httPS://ExAmPlE.Com/acCount,delivery
+1082,💳  My    package   seems   to   be   stuck    in   transit.,delivery
+1083,I keep receiving an error while using the website... https://example.com/account,technical
+1084,😢 Why    was I  charged  $5 4  my order?,billing
+1085,... I have not received my delvery,delivery
+1086,<b>My shipmnt appears to be delayed.</b></p> pls help,delivery
+1087,<div>I need help recovering my account.</div>,account
+1088,i  haVe   A  PrOb W/   mY    laTESt inVoicE.    😭,billing
+1089,... I HAVE A PrObLEm w/ my lAteSt InVoICE??,billing
+1090,😩 THE APP STOPS WORKING WHENEVER I OPEN IT.,technical
+1091,!!! i am unable TO ACCEsS my PRoFILe???,account
+1092,hi pls I forgot my pw,account
+1093,?? The package is missing. www.example.com/help,delivery
+1094,😕 the system is extremely slow!!!,technical
+1095,hi pls <p><b>There is an incorrect charge on my account?!</div>,billing
+1096,The tracking info has not changed. 🤦,delivery
+1097,need help asap The search feature is not working??? 😕,technical
+1098,hi pls I cannot upload my file??? thx pls,technical
+1099,!!! THE APPLICATION FREEZES ON THE LOGIN SCREEN.,technical
+1100,u guys pls help !!! I forgot my login details.,account
+1101,pls help the system is not responding 2 my requests!?! thx,technical
+1102,hey pls help the website stopped responding!!!,technical
+1103,<strong>... the package is missing.</p> https://example.com/help 😡,delivery
+1104,<div>when  should   i   expect my  package!!!</b></p>   thx    pls,delivery
+1105,THE PAGE KEEPS SHOWING AN ERROR!!!,technical
+1106,whY  DID  YOu  chaRg    ME   an eXTRa   $150?,billing
+1107,😕 pls   check   <div>I cannot  get the   website   2    work.</p>,technical
+1108,!!! I need to reset my login info,account
+1109,... The courier has not delivered my order???,delivery
+1110,hI pLS <dIv>SOmeTHiNG iS wRONG W/ tHe APplicATion.</b></p> 📦,technical
+1111,My  acc  has been   locked??? 😭,account
+1112,the paymant amount looks wrong. https://example.com/support,billing
+1113,U GUYS PLS HELP WWW.EXAMPLE.COM/HELP THE DELIVERY IS TAKING TOO LONG?? LET ME KNOW ASAP,delivery
+1114,i FoRgoT my LOgIn DetailS...,account
+1115,CAN U HELP HTTPS://EXAMPLE.COM/ACCOUNT <P><B>I FORGOT MY LOGIN DETAILS...</DIV> PLS CHECK,account
+1116,HTTPS://EXAMPLE.COM/SUPPORT ??  THE    WEBSITE IS   NOT   LOADING PROPERLY. LET  ME KNOW    ASAP    😤,technical
+1117,<P>THE WEBSITE GIVES ME AN ERROR EVERY TIME?!</B>,technical
+1118,<p>My   paymant   was   processed    twice!!</div>   http://support.example.com    😤,billing
+1119,😢 My  invoice  shows   the wrong  amount!!!! can   u  check,billing
+1120,pls help www.example.com/help <b>the refund amount on my account is incorrect!?!</p> 🙏,billing
+1121,📦 <div>The delivery is taking too long??</b></p> can u check,delivery
+1122,THE APP STOPS WORKING WHENEVER I OPEN IT. PLZ HELP 🤦,technical
+1123,😕 <B>... HOW dO I cHaNGE MY pasSWOrd...</B></P>,account
+1124,😩 can u help How can I change my email address?,account
+1125,<b>The app freezes on the lgoin screen!!!!</p> plz help,technical
+1126,wwW.ExAMPle.CoM/HELp <P><B>mY ordER WaS exPeCteD TodAy buT HaSn't ARrvIed</b></p> 🙏,delivery
+1127,hi pls ?? why did u charge me an extra $10!!!! https://example.com/account,billing
+1128,when    should  i    expect    my packge? https://shop.example.com/order,delivery
+1129,pls check !!! I need help recovering my acct???,account
+1130,WHY IS THERE AN ADDITIONAL FEE ON MY BILL!!!!,billing
+1131,u guys pls help Can you explain this charge on my bill? pls check,billing
+1132,pls HElP <b>i foRGot MY LOGIN DetaILS.</b> plS help,account
+1133,plz   help <p><b>Can  you  check    the  status   of my   delivery???</span>,delivery
+1134,I Cant UplOAd My File!?!,technical
+1135,😩 NEED HELP ASAP MY ORDER WAS EXPECTED TODAY BUT HASN'T ARRIVED!?!,delivery
+1136,The app is freezing repeatedly. http://support.example.com pls help,technical
+1137,whyy can't I sign into my acc www.example.com/help,account
+1138,HEY PLS HELP SOMETHING IS WRONG WITH THE APP,technical
+1139,<diV>MY    acCOuNt   IS  locKed.</B> thx,account
+1140,HTTPS://EXAMPLE.COM/ACCOUNT MY ACCOUNT HAS BEEN LOCKED!!!,account
+1141,Something is wrong with the application.,technical
+1142,www.example.com/help ... The amount on my invoice is incorrect...,billing
+1143,...   there   is   an    incorrect    charge on    my  account...,billing
+1144,hey pls help i forgot my passord!!!,account
+1145,😢 <p><b>The  amount on    my    invoce  is  incorrect.</b>,billing
+1146,😕 ... The app suddenly closes by itself??? https://shop.example.com/order,technical
+1147,💳 The ApP fReezEs ON thE LOIgN sCReEn.,technical
+1148,📦 why WaS I cHarAgED $35 for My OrdEr!?! THX,billing
+1149,?? MY PACKAGE HAS NOT ARRIVED YET.,delivery
+1150,<strong>My login is not working.</b> thx pls,account
+1151,<SPAN>... WHERE IS MY ORDER!!</STRONG> 💳,delivery
+1152,<strong>I forgot my password??</b> https://shop.example.com/order,account
+1153,http://support.example.com <div>i was charged twice for the same purchase...</div>,billing
+1154,u guYs PlS heLp HtTP://SUpPORt.EXaMPle.Com my oRdeR wAs eXpECTED 2dAY BuT HAsn'T arRiVed.,delivery
+1155,http://support.example.com my shippment appears to be delayed??,delivery
+1156,u    guys  pls help <span>My    package  seems    to  be stuck in   transit.</b></p>    http://support.example.com,delivery
+1157,<strong>?? The application keeps crashig...</div>,technical
+1158,I am unable to sign in.,account
+1159,WHERE IS MY ORDER!!!! CAN U CHECK,delivery
+1160,!!!    I  WAS  BILLED    MORE  THAN   I   EXPECTED.    PLZ    HELP,billing
+1161,can u help My order was expected today but hasn't arrivd??? https://example.com/help,delivery
+1162,how do i change my passwrod!!!,account
+1163,How can I change my email address!! https://shop.example.com/order,account
+1164,hi pls <strong>The app crashes whenever I try to place an order?!</b></p> thx pls,technical
+1165,?? i am getting an error message. 📦,technical
+1166,Need hELP aSAP ... THe aPp crasHeS whENEvER I Try 2 PLAce An ordEr. wWW.eXAmPle.Com/hElp Plz HELp,technical
+1167,🙏   I   am unable to   access    my    profile??  https://example.com/account,account
+1168,... The application is freezing repeatedly!!! pls help,technical
+1169,I   am  getting  an    error   message.,technical
+1170,😤 I HAVE BEEN WAITING 4 MY ORDER FOR SEVERAL DAYS. PLS HELP,delivery
+1171,hi pls My order still hasn't arrived. www.example.com/help thx pls,delivery
+1172,can you check the status of my delvery??? thx,delivery
+1173,http://support.example.com I keep receiving an error while using the website.,technical
+1174,The page keeps showing an error??? plz help,technical
+1175,Can you help me recover my pwd,account
+1176,i cannot log into my account. 😕,account
+1177,pLS CHeCk WWw.eXaMpLE.cOM/heLP the PAcKAge Is MisSinG!!!!,delivery
+1178,I AM HAVING A TECHNICAL PROBLEM WITH THE APP PLZ HELP,technical
+1179,The    payment   amount  looks wrong.   can  u check,billing
+1180,The    app    is   freezing   repeatedly!?!,technical
+1181,plz help my delivery is late. https://example.com/help,delivery
+1182,need help asap !!! the tracking information has not changed. https://example.com/help,delivery
+1183,my   card  was  charged  but  the  payment failed. https://shop.example.com/order   thx  😭,billing
+1184,CAN U HELP I KEEP RECEIVING AN ERROR WHILE USING THE WEBSITE!!!! HTTPS://EXAMPLE.COM/ACCOUNT,technical
+1185,!!!    my  acc    has   been   locked!!!,account
+1186,THE systeM iS extreMEly SLoW!!,technical
+1187,WHY DID YOU CHARGE ME AN EXTRA $150?,billing
+1188,hTtPS://EXAmPLe.cOm/SuPPOrT THERE iS an InCorreCt CHARG on my AcCT,billing
+1189,pls help something is wrong w/ the app,technical
+1190,<sTRONg>mY    oRdeR   Was    ExpecteD 2DAy   bUT   hAsN't   aRrIvEd.</B>,delivery
+1191,plz help the delivery is taking too long. 🤦,delivery
+1192,<p>My delivery is late.</span> http://support.example.com 💳,delivery
+1193,pls check <span>!!! i would like to dispute a charge???</strong> http://support.example.com,billing
+1194,<StROng>hoW do I chANGE My PASSwOrd?</b></p>,account
+1195,hi pls <b>i have not received my delivery!!!!</b>,delivery
+1196,When should I expect my package? https://shop.example.com/order,delivery
+1197,pls   check   ...    The   page  keeps  showing an error???  https://shop.example.com/order  can  u    check,technical
+1198,i need to update my account information!!!! thx pls 😤,account
+1199,<span>The    refund   amount   on    my  acc    is  incorrect.</strong>,billing
+1200,u  guys pls   help   ... the courier  has not   delivered  my   order!! let    me    know  asap,delivery
+1201,https://shop.example.com/order  !!!  i cannot    log    into    my    account!!!!,account
+1202,can u help ... I don't recognize this charge of $10.,billing
+1203,plz    help <strong>my    account has been    locked???</b> https://example.com/support   pls  check,account
+1204,... I cAnNOt loG iNtO mY ACCouNT...,account
+1205,The system is extremely slow...,technical
+1206,🙏 The delvery date has passed?!,delivery
+1207,pls check <span>!!! can you check the status of my delvery???</div> pls help,delivery
+1208,<p>My order was expected today but hasn't arrived??</strong>,delivery
+1209,hi pls How do I change my pwd https://shop.example.com/order 😢,account
+1210,😤 <div>My paymnet was processed twice.</div>,billing
+1211,pls check My account is locked. pls check,account
+1212,<span>I  would like   2    dispute    a charge!!!</p>,billing
+1213,i   WOuLD  lIKe    To  DIsPUTE   a  chArGe!!!,billing
+1214,WHEN    SHOULD    I EXPECT    MY PACKAGE?,delivery
+1215,<b>i need to reset my login information!!!</b></p> www.example.com/help let me know asap 😭,account
+1216,plz  help The  app   crashes    whenever I  try   2  place  an   order. pls    help   💳,technical
+1217,u GUys plS helP htTp://SuPpOrT.ExaMPle.com tHe pAyEMeNT amoUnt lOOKs wronG!!!! plS chECK,billing
+1218,I AM HAVING TROUBLE SIGNING INTO THE WEBSITE???,account
+1219,pLS ChecK <div>the APp crAsHES WHenEVer I try tO PLACE AN OrdER?!</spaN>,technical
+1220,plz help <p>!!! the package is missing.</strong> can u check,delivery
+1221,<p><b>Can you check the status of my delivery?!</div>,delivery
+1222,hi pls the courier has not delivered my order.,delivery
+1223,?? I cannot get the website to work?? plz help 😩,technical
+1224,plz   help  Can    you   tell   me when  my  package  will arrive?,delivery
+1225,httPS://Example.cOm/hELP <StRONG>the SCrEEN GoEs BLank wHeN i oPeN ThE aPp.</DIv>,technical
+1226,therE Is A dUpliCATE paymEnt oN my ACc!!!,billing
+1227,need   help  asap    ...   I  cannot    get    the   website    to   work...  😩,technical
+1228,the amount on my invoice is incorrect.,billing
+1229,I    WAS   BILLED  MORE THAN I EXPECTED. LET    ME  KNOW ASAP,billing
+1230,pls help ... I cannot upload my file.,technical
+1231,can u help www.example.com/help <span>There is an incorrect charge on my acct...</strong>,billing
+1232,<div>??  My    package    has not    arrived   yet.</div>,delivery
+1233,can u help www.example.com/help where is my order?,delivery
+1234,I am having trouble signing into the website!?! https://shop.example.com/order 😤,account
+1235,... THE APP SUDDENLY CLOSES BY ITSELF. CAN U CHECK,technical
+1236,pls   check  The    courier   has  not    delivered  my  order.  let me know   asap,delivery
+1237,The app suddenly closes by itself... thx pls 🙏,technical
+1238,can u help The website stopped responding... pls help,technical
+1239,can u help The courier has not delivered my order!!!,delivery
+1240,<div>Can you check the status of my delivery??</div>,delivery
+1241,CAn U hElp <dIV>can yOu ExPlAin tHIS cHaRgE on my BILL?</b> pLS CHecK,billing
+1242,pls check https://example.com/support my package has not arrived yet!!,delivery
+1243,plz  help    The application keeps    crashing.   pls   help    🤦,technical
+1244,pls help https://shop.example.com/order !!! Something is wrong with the application. pls check,technical
+1245,pls help ... pls check my recent transaction!?! 😡,billing
+1246,🤦    i    am    still    waiting    4 my shipmnt,delivery
+1247,https://example.com/support My shipment has not been delivered!!! let me know asap,delivery
+1248,<sPaN>tHE SeARch FEatUrE IS not WoRkiNG.</b> tHx,technical
+1249,www.example.com/help    Something   is   wrong   w/    the app,technical
+1250,<div>... The system is extremely slow.</p>,technical
+1251,<b>!!!   i nEed    to    reSEt my   logIN INforMatiOn.</dIv> PlS  HELp,account
+1252,plz help Why  is there  an additional   fee    on  my    bill???,billing
+1253,The refund amount on my account is incorrect!!!,billing
+1254,🤦 ?? Can you help me recover my pw??,account
+1255,can u help Where is my order?,delivery
+1256,<STRONG>THE DELIVERY DATE HAS PASSED...</DIV> THX PLS 😡,delivery
+1257,?? My acct credentials r not working!!!!,account
+1258,<p><b>?? I have a prob with my latest invoice.</span> 💳,billing
+1259,<span>I have been waiting 4 my order 4 several days.</b></p> let me know asap,delivery
+1260,hey  pls  help    www.example.com/help    I   have been   waiting   for    my  order    for  several  days!!!!,delivery
+1261,pls help  I   forgot    my  login  details!?! thx,account
+1262,📦 <P>How    do   i chaNGE   MY   pWD!!</B></p>,account
+1263,can   u  help The  screen   goes blank when I    open    the  app.,technical
+1264,whyyy   is   there  an additional    fee   on  my bill? pls   help,billing
+1265,💳 pls help Please check my recent transaction. pls help,billing
+1266,need  help  asap   https://example.com/support <span>I am having    a technical  prob   w/   the application!!!</strong>  thx pls  😕,technical
+1267,plz help <b>I am unable to sign in.</b></p>,account
+1268,😡 htTPS://EXaMPLe.COm/suPPoRt <b>... I foRgOT my PWD</p>,account
+1269,My login is not working.,account
+1270,😤   <p>!!!   The  system    is   not  responding to  my  requests.</span>   www.example.com/help thx    pls,technical
+1271,the   CoURier  HAS NOT DELivereD MY    orDeR!!,delivery
+1272,pls help <b>I am having a technical prob with the app</div> https://example.com/account,technical
+1273,can u help https://example.com/account my payment was processed twice... 😤,billing
+1274,pLs   hELP   !!! why  caN't    i  SiGn  inTo MY AcC  💳,account
+1275,http://support.example.com !!! My delivery is late. let me know asap,delivery
+1276,plz help The amount on my invoice is incorrect!?!,billing
+1277,hey pls help My order was expected today but hasn't arrived.,delivery
+1278,<p>!!! i am unable to sign in.</span> http://support.example.com 😡,account
+1279,🤦  <div>the    app   crashes   whenever i    try 2  place  an order.</p>,technical
+1280,The system is not responding to my requests!!!!,technical
+1281,https://example.com/help I forgot my password.,account
+1282,hey pls help <p>Can you tell me when my package will arrive?</p> http://support.example.com 😢,delivery
+1283,u GuyS plS HeLP httPs://EXaMPle.cOm/AccounT how do i ChANGe my passWord?,account
+1284,I am    still waiting  4  my   shipment.,delivery
+1285,My account credentials are not working. 😩,account
+1286,CAN U EXPLAIN THIS CHARGE ON MY BILL? 😡,billing
+1287,THE APP KEEPS CRASHING.,technical
+1288,<p><b>My payement was processed twice???</span> thx,billing
+1289,<P><B>WHY  DID   YOU   CHARGE ME AN   EXTRA   $10?</B>   PLS    HELP,billing
+1290,https://example.com/help <div>The    website    stopped    responding.</span>,technical
+1291,<b>my    login   is   not  working??</p>    😩,account
+1292,<P><B>I WAS   CHARGED   TWICE   4    THE  SAME  PURCHASE.</B></P>,billing
+1293,<p>My    card  was charged   but the   payment    failed.</b></p>,billing
+1294,need help  asap    The   applcation  freezes on   the    login    screen?!,technical
+1295,😤 <span>I have not received my delivery.</b></p> pls check,delivery
+1296,HEY    PLS  HELP  <SPAN>THE    APP   SUDDENLY CLOSES BY ITSELF.</STRONG>,technical
+1297,I forgot my pw...,account
+1298,<P><b>i need HeLP rEcOvERinG my aCcT</b> 😡,account
+1299,<span>I    am   having   a technical problem    with   the   app!!!</span>,technical
+1300,🤦  htTP://sUpPORT.EXamPLE.COm <B>whY    Can't   i siGN iNTO mY  acCoUnt?</p>,account
+1301,I am getting an erro message. https://example.com/help pls help,technical
+1302,I  cant    log   into    my  acc?!    😭,account
+1303,<div>Can u help me recover my password?!</b> plz help,account
+1304,<SPAN>CAN    YOU    TELL    ME    WHEN  MY  PACKAGE   WILL  ARRIVE?!</DIV>  CAN    U CHECK,delivery
+1305,Hey  pLS  heLP i   foRgot    MY   LOGin    dEtAILS...,account
+1306,i need help recovering my accout!?!,account
+1307,<p><b>I NeEd 2 UPDAtE my AcCOunt infO...</p>,account
+1308,😤 u guys PLS HeLp CAN yOu TelL ME WheN mY pacKaGE wIll ARRivE!!!,delivery
+1309,hi pls ??    Why is  there an  additional    fee    on  my    bill?,billing
+1310,PLS    CHECK    <B>I AM   STILL    WAITING    FOR    MY    SHIPMNT</SPAN>,delivery
+1311,!!! My order was expected today but hasn't arrived.,delivery
+1312,📦   <P>I AM   STILL    WAITING   FOR    MY  SHIPMENT?!</B>,delivery
+1313,can u HELp Why CaN'T i SiGN iNTO MY aCcT,account
+1314,😩 u Guys PLs HeLP ?? mY ShIpMent HAS not bEEN DelIveRED.,delivery
+1315,hey pls help <div>... The packge was supposed to arrive yesterday!!</div> let me know asap 🙏,delivery
+1316,hi pls https://example.com/account i don't recognize this charge of $5!! let me know asap 😕,billing
+1317,plz help <b>I am unable to access my profile!!!</span>,account
+1318,pls check the app stops working whenever i open it.,technical
+1319,need help asap ?? the courier has not delivered my order!!!!,delivery
+1320,... my acc is locked. thx,account
+1321,whYYY CAn'T I SiGN Into my ACCout? HttP://support.EXaMpLe.COM 💳,account
+1322,plz help The refund amount on my acct is incorrect... 😡,billing
+1323,<b>The system is extremely slow???</b> let me know asap,technical
+1324,💳   pls    check    <span>i forgot my    password.</div>,account
+1325,😩 pls help http://support.example.com <div>The courier has not delivered my order...</b>,delivery
+1326,<DIV>I   hAve    a  pRObLEM    WITH   mY    lATeSt InVOCe</stRONG>,billing
+1327,😕  <p><b>my   invoice    shows    the   wrong amount.</b>  www.example.com/help,billing
+1328,nEeD  HElp   AsAP   the    pAGe  keepS    SHOwING An    errOr.,technical
+1329,plz help I cant remember my username?! https://example.com/account pls check,account
+1330,plz help I have a problem w/ my latest invioce,billing
+1331,<span>Why    can't   I    sign    into    my acct...</p>,account
+1332,CAN U HELP THE TRACKING INFORMATION HAS NOT CHANGED. PLS HELP,delivery
+1333,My account is locked!?!,account
+1334,u guys pls help <strong>My payment was processed twice...</b></p>,billing
+1335,need  help asap   <div>I have been waiting    4  my order   for  several days.</b></p>   https://example.com/help,delivery
+1336,<b>?? How do I change my pw</b>,account
+1337,<P><B>thE PaCKaGe was SUppOSeD tO aRrIve YeSTErDaY.</b> HTtp://SUpport.examPLE.Com 😕,delivery
+1338,!!! tHE apP crAsHES WheNevEr i try to PLAce an oRDer.,technical
+1339,Pls Check <spAn>... wHy is tHERE an aDDitiONal fEE on my BIlL!!</B>,billing
+1340,I forgot my    passord   thx   pls,account
+1341,📦 ?? the tracking information has not changed.,delivery
+1342,U GUYS PLS HELP !!! HOW CAN I RESET MY PASSWORD!!!,account
+1343,😩 can u help ?? Can u tell me when my package will arrive?,delivery
+1344,I    cannot   access  my account.,account
+1345,https://example.com/support <div>... The app freezes on the login screen.</strong> 💳,technical
+1346,...  I was charged  twice    for the    same purchase.,billing
+1347,!!!  MY  ACC    HAS BEEN    LOCKED.,account
+1348,Please check my recent transaction. https://example.com/support,billing
+1349,😭 I cannot log into my account.,account
+1350,I  was   billed  more  than   I   expected!!   thx pls,billing
+1351,🤦  Hey    PLs heLP   <sPan>sOMEtHINg  IS  wroNG   wiTh    THE  aPPlICAtIOn.</StrOnG>,technical
+1352,<p><B>tHe apPLIcaTIOn FrEEzEs oN thE LogIn scREEn!!!!</DiV>,technical
+1353,<span>!!! how can i change my email address?</b></p> 😤,account
+1354,how can i change my email addres!! https://example.com/account thx,account
+1355,The app is freezing repeatedly!! www.example.com/help can u check 😢,technical
+1356,Can U hElP THe paCkgE WaS SuPpOsED 2 ARRiVE YesTErdAY?!,delivery
+1357,hey pls help <p><b>I am getting an error msg</b></p> 😢,technical
+1358,HTTPS://EXAMPLE.COM/SUPPORT MY ACCOUNT IS LOCKED. 😩,account
+1359,<p>When  should    I expect    my   package?</b></p>    thx    pls,delivery
+1360,<div>??   I    would    like  2 dispute  a charge.</b>    https://example.com/support,billing
+1361,😕 PLZ    HELP    <STRONG>THE    APPLICATION    KEEPS CRASHING.</STRONG> PLS HELP,technical
+1362,😕 need    help    asap  my   shipment   has  not been   delivered!! pls  check,delivery
+1363,plz    help    I    am   unable   2    access   my    profile.,account
+1364,The websit is not loading properly.,technical
+1365,Hey PLs HeLP ThE APLicATiOn FrEeZeS ON THE loGn ScREeN. pLS HElP 🤦,technical
+1366,HTTPS://EXAMPLE.COM/SUPPORT I FORGOT MY LOGIN DETAILS.,account
+1367,?? There is  an  incorrect  charg    on   my account.   pls help,billing
+1368,😢 hi pls i am still waiting 4 my shipmnt!!,delivery
+1369,I cant   log into    my   account.,account
+1370,caN U hElp i aM having a TeChnical prOBLem WiTh tHE aPp?! 😤,technical
+1371,pLs   HelP    ...    WHY    Is   TheRe an    ADDitiOnAl fEe   on  my    bILL?,billing
+1372,hey pls help I cannot get the webiste 2 work. https://shop.example.com/order 📦,technical
+1373,WHERE IS MY ORDER?,delivery
+1374,pls check my recent transaction. https://shop.example.com/order pls help,billing
+1375,<STRONG>MY DELIVERY  IS    LATE.</P>,delivery
+1376,i    was    charged  twice for the    same   purchase?!,billing
+1377,<b>There is    a duplicate    payement on my account!!!!</div>,billing
+1378,<strong>... I    forgot  my    login  details.</p>,account
+1379,u GUyS PLS HElP THe weBsITE is noT LOadiNG PRopERLy!!! thX,technical
+1380,hey pls help <b>?? the amount on my invoice is incorrect?!</p>,billing
+1381,!!! I NEED 2 RESET MY LOGIN INFORMATION???,account
+1382,u guys   pls   help Please  check   my   recent    transaction.,billing
+1383,😭 <p><b>I have not received my delivery!!!</strong> let me know asap,delivery
+1384,hI PLS WHy dID u chArGE mE an ExTrA $10!! Thx pLs 💳,billing
+1385,HI PLS HOW CAN I RESET MY PASSWORD!! THX PLS,account
+1386,🤦 HI PLs hoW cAN i cHaNgE My EMAIL ADDResS? PlS CHEck,account
+1387,<b>my    package   has   not  arrvied   yet...</b></p>,delivery
+1388,I WOULD LIKE 2 DISPUTE A CHARGE. PLZ HELP,billing
+1389,😩 <p><b>I am having trouble signing into the website.</p> pls help,account
+1390,hi    pls    <div>can   you tell    me   when   my    pacage  will   arrive...</b></p> thx  pls 😡,delivery
+1391,WHy Did u cHArGE ME An exTra $150?,billing
+1392,... the app crashes whenever i try to place an order.,technical
+1393,PLz Check My ReCENt trAnsactIOn?! THX,billing
+1394,https://shop.example.com/order The payement amount looks wrong... 😢,billing
+1395,The website gives me an error every time.,technical
+1396,i need help!!! recovering my account?? 💳,account
+1397,http://support.example.com    <p><b>my  shipment has    not been   delivered...</b>  can u check,delivery
+1398,PLS HELP I CANNOT ACCESS MY ACCONT THX 😡,account
+1399,i NEEd HelP rEcovErInG My AcCoUnT.,account
+1400,I cant log into my account. 💳,account
+1401,!!!    ThE  sySteM  iS   NOT  reSpONDING to    mY  REqueSts.   https://shOp.examPLE.com/OrDer   pLZ   hElP,technical
+1402,I HAVE BEEN WAITING 4 MY ORDER 4 SEVERAL DAYS!!,delivery
+1403,<div>I forgot my    pwd!?!</strong> https://example.com/account    😕,account
+1404,?? i FORGOT My paSsWoRD. HtTPS://exampLE.com/sUPPoRT,account
+1405,ThE APp STops    WORKing  whENeveR  i    open  It.  PlS    HelP  📦,technical
+1406,I   am   having trouble signing  into    the website.,account
+1407,😭 I cant remember my username?! can u check,account
+1408,pls help https://example.com/support <p><b>i cannot log into my accont!!!!</span> thx,account
+1409,I WAS CHARGD EVEN THOUGH MY ORDER WAS CANCELLED.,billing
+1410,The system is extremely slow.,technical
+1411,hey PLS HeLP hTTPs://ExaMpLe.COm/HELP the ApP SUDDeNlY cLoSeS BY ITSELF... caN u cheCK,technical
+1412,PLS HELP <STRONG>MY ACCOUT IS LOCKED.</B>,account
+1413,how can i change my email adres? 😭,account
+1414,😡 <span>Can u check the status of my delivery?</b></p>,delivery
+1415,The websit stopped responding!! thx,technical
+1416,can u   help !!!  The application  freezes    on the    login screen.,technical
+1417,I need to reset my login information?! 🙏,account
+1418,My aCCONt is lOCKED?! caN U chEck 😭,account
+1419,How DO    I  chAnGE    my   pW,account
+1420,pls  help    https://example.com/help   !!!   How   can I   reset my  password?!,account
+1421,HeY pLs help ... How DO i chANgE My pwd,account
+1422,plz help I cannot remember my username!!,account
+1423,Can yOU HElP Me rECover My PASSWoRd??? 😩,account
+1424,🤦 How can I change my email address? https://shop.example.com/order,account
+1425,pls check I need to update my account information. pls check 🤦,account
+1426,!!! MY acC Is loCkED?! HTtp://SUPpORt.EXamPLE.CoM,account
+1427,the website gives me an error every time.,technical
+1428,need  help  asap   https://shop.example.com/order   The  page keeps showing    an   error.,technical
+1429,I have not received my delivery. https://example.com/account,delivery
+1430,www.example.com/help i am getting an error msg,technical
+1431,<p>tHe wEBsite StOpPED REsPoNdinG!!</div>,technical
+1432,😢  HTTPS://EXAMPLE.COM/HELP  !!!    SOMETHING    IS    WRONG    WITH    THE APP,technical
+1433,Where is my order... pls check,delivery
+1434,... I need to update my accout information...,account
+1435,hey pls help www.example.com/help ... My delivery is late.,delivery
+1436,pls check ... The app is freezing repeatedly.,technical
+1437,can   u help <div>!!!   my  delvery is    late??</strong>    🙏,delivery
+1438,I  cannot upload  my   file!!!!    thx pls,technical
+1439,plz help !!! My package has not arrived yet???,delivery
+1440,<b>!!! the app stops working whenever i open it???</b> 😭,technical
+1441,😤 !!! I am unable 2 access my profile...,account
+1442,can u help !!! I cannot access my account.,account
+1443,📦 <p><b>... The system is not responding to my requests.</div>,technical
+1444,The payment amount looks wrong!!! www.example.com/help,billing
+1445,??  my  shipment appears 2  be    delayed!!! https://example.com/help,delivery
+1446,THE    APP    STOPS    WORKING   WHENEVER I  OPEN    IT.,technical
+1447,can  u   help   <p>!!!    Why    can't   I sign   into   my  account?</div>  https://example.com/help,account
+1448,The   website   gives  me  an    error every  time!! let   me    know   asap,technical
+1449,HTTps://eXamplE.COm/suPPorT ... My ShiPmNt APPEArs To BE dElAYed. THx pls,delivery
+1450,CAN U HELP <SPAN>!!! MY SHIPMENT HAS NOT BEEN DELIVERED...</B></P>,delivery
+1451,😡 need help asap <div>... My package seems 2 be stuck in transit.</div> pls help,delivery
+1452,THE AMOUNT  ON   MY INVOICE  IS INCORRECT.   HTTPS://EXAMPLE.COM/HELP,billing
+1453,🙏 My payment was processed twice.,billing
+1454,pls check The search feature is not workin?!,technical
+1455,<p>the  courier  has    not   delivered   my    order.</b>   https://shop.example.com/order    😤,delivery
+1456,pls help https://example.com/account <strong>I was billed more than I expected.</div> pls check,billing
+1457,nEED heLP Asap I Keep RECEiVINg An eRRoR whiLe USinG The weBSITe?? WWw.eXAmpLE.cOm/heLP caN U CHEcK 😭,technical
+1458,📦 http://support.example.com <b>my login is not working.</strong> plz help,account
+1459,my lgoin is not working??,account
+1460,The courier has not delivered my order!?! thx pls,delivery
+1461,https://example.com/account  I   cannot  upload my  file.,technical
+1462,the app keeps crashig let me know asap 🤦,technical
+1463,!!! mY ShIpmEnT aPPEaRs 2 bE dElayED!! 😢,delivery
+1464,plz help I cannot get the website 2 work. http://support.example.com,technical
+1465,pls help    https://example.com/support  The app stops working whenever   I   open   it.    pls  help  📦,technical
+1466,😕 pLz HeLp <b>THERE is aN incOrRECt cHaragE oN MY aCc</SpAN>,billing
+1467,PlS cHecK <span>MY sHiPmENt haS NoT beEN DELIveReD.</b>,delivery
+1468,💳  The  app  suddenly closes  by  itself??  can  u  check,technical
+1469,💳 hi pls ?? the search feature is not working?! https://example.com/account thx,technical
+1470,<p><b>the    package  was  supposed to   arrive yesterday.</div> www.example.com/help    😤,delivery
+1471,My order was expected today but hasn't arrived!!,delivery
+1472,📦 <B>?? THE delIVeRy Is TAKinG TOO LoNg!!!</P>,delivery
+1473,The app freezes on the login screen. let me know asap,technical
+1474,www.example.com/help <span>Why is there an additional fee on my bill??</b> thx pls,billing
+1475,?? i would  like    to    dispute  a charge.  pls    check,billing
+1476,!!!  THE    COURIER  HAS   NOT   DELIVERED  MY    ORDER.   📦,delivery
+1477,My    card  was   charged    but the   payment  failed??   😕,billing
+1478,My shipment has  not  been   delivered.   🙏,delivery
+1479,my invoice shows the wrong amount.,billing
+1480,😡 NEED HELP ASAP <STRONG>!!! MY CARD WAS CHARGED BUT THE PAYMENT FAILED!?!</B> HTTPS://SHOP.EXAMPLE.COM/ORDER LET ME KNOW ASAP,billing
+1481,😩 i was charged even though my order was cancelled!!,billing
+1482,I AM HAVING A TECHNICAL PROBEM WITH THE APLICATION,technical
+1483,!!! WHY DID YOu CHARGE mE An EXtRa $10!!! CAN U checK,billing
+1484,the system is not responding 2 my requests. https://example.com/support,technical
+1485,Where  is   my order!!!! https://example.com/account   can  u  check,delivery
+1486,MY PACKAGE HAS NOT ARRVIED YET. HTTPS://EXAMPLE.COM/HELP,delivery
+1487,😭 <p>THE APP CRasHes wheNeveR i TrY 2 pLace aN ORDER.</DIv> pLZ HelP,technical
+1488,The delivery date has passed. https://shop.example.com/order,delivery
+1489,need help asap https://example.com/help <div>i am unable to sign in???</div> 😕,account
+1490,hEY   PLS   heLP  <p>The PAge   keeps    ShoWInG    aN erRoR.</dIV>,technical
+1491,pls help <p>Why was I charged $100 4 my order?</strong>,billing
+1492,😩   <B>WHY  DID U    CHARGE ME AN EXTRA   $35?!</STRONG>,billing
+1493,😡 I AM STILL WAITING 4 MY SHIPEMENT!!,delivery
+1494,?? I have not rEceiVeD MY dELivarY,delivery
+1495,📦 The    page   keeps   showing an  error!!,technical
+1496,!!!   Why   was I  charged   $20   4 my  order?   😤,billing
+1497,?? I need helppp understanding my latest bill. 🤦,billing
+1498,plz help   <div>The   app crashes    whenever    I  try 2   place  an order.</strong>   plz help,technical
+1499,There    is   an  incorrect   charage   on my  accont!! plz help,billing
+1500,💳 pls check the app stops working whenever i open it??? pls check,technical
+1501,<strong>Can u check the status of my delvery?</div>,delivery
+1502,https://example.com/account  ... The   package is  missing!!,delivery
+1503,!!!  WHY IS    THERE AN   ADDITIONAL FEE   ON  MY   BILL??,billing
+1504,... The screen goes blank when I open the app??? http://support.example.com pls check,technical
+1505,hey pls help <b>Can u explain this charge on my bill?</b></p> www.example.com/help pls help,billing
+1506,<div>Can you tell me when my pakage will arrive?</b>,delivery
+1507,www.example.com/help <p><b>How can I change my email address?</div> 📦,account
+1508,https://shop.example.com/order    I    cannot   remember  my   username.,account
+1509,The page keeps showing an error!! pls check,technical
+1510,My account is locked.,account
+1511,hey   pls  help   Can  you check    the   status  of  my   delivery?    https://example.com/account,delivery
+1512,📦 u   Guys plS   HElp <STRoNg>WHY   WaS    i   ChARGEd $120 For MY  ORdER?</SpAn>  HTTP://sUppOrT.ExAMPle.Com    cAN  u  cHeCk,billing
+1513,u guys pls help ?? the pakage was supposed to arrive yesterday?! pls help,delivery
+1514,<div>pleeease   check   my    recent  transaction...</strong>    can    u check,billing
+1515,CAN U HELP I WOULD LIKE TO DISPUTE A CHARAGE,billing
+1516,plz help the app crashes whenever i try to place an order.,technical
+1517,<div>the application is freezing repeatedly???</div> let me know asap,technical
+1518,😕  http://support.example.com  <p>I   cant get the  website   to   work.</span>   plz help,technical
+1519,?? my aCcouNT cREdeNTIALs aRE Not WoRKINg. CAN u ChECK 😢,account
+1520,<p><b>My delivery is late???</b> can u check,delivery
+1521,💳 ... I cannot upload my file.,technical
+1522,😩 plZ HeLP    i    nEED    TO   UpdAtE    mY   accOunt   inFORmatIoN!!!,account
+1523,💳 U guYs plS helP thE cOurIER HAS nOt DEliverED mY ORder???,delivery
+1524,https://example.com/support <b>The package is missing.</p>,delivery
+1525,can u help <p>I forgot my password??</b> https://example.com/account,account
+1526,My shipment appears 2 be delayed.,delivery
+1527,🙏    !!!  why did    you  charge  me  an extra  $25?  thx   pls,billing
+1528,😕   pls    check I   need  help  understanding   my latest bill. www.example.com/help,billing
+1529,PLZ HELP !!! THE WEBSITE IS NOT LOADING PROPERLY!! LET ME KNOW ASAP,technical
+1530,PLS HELP THE PAGE KEEPS SHOWING AN ERROR?! THX,technical
+1531,<p><b>Why can't I sign into my accout?</span>,account
+1532,... Can u  help   me    recover  my passwrod...,account
+1533,I forgot my pw!!!! https://shop.example.com/order,account
+1534,pls help <p>I am unable to access my profile.</strong>,account
+1535,💳 mY PaymeNt wAs procESseD twIce. WWw.exampLE.Com/hElp,billing
+1536,PLZ HELP HOW CAN I RESET MY PW THX PLS,account
+1537,https://example.com/help <p>I am   still   waiting    4 my shipment...</p>    pls help,delivery
+1538,CAn u HElP I aM hAVINg a technIcaL pRoBlEM WIth THe AppliCATiON. ThX plS,technical
+1539,🙏 how do i change my password? https://example.com/help plz help,account
+1540,🤦 <P>!!! THE APPLICATION KEEPS CRASHING...</B> PLZ HELP,technical
+1541,💳 i have a problem w/ my latest inovice!!!!,billing
+1542,💳 PLZ    HELP   <B>!!!  I  WAS   BILLED MORE    THAN I   EXPECTED.</B></P>,billing
+1543,https://example.com/help   Can u   explain this    charge   on my   bill...  pls check,billing
+1544,... THE WEBSIT GIVES ME AN ERROR EVERY TIME. HTTPS://EXAMPLE.COM/ACCOUNT THX,technical
+1545,U GUYS PLS HELP <SPAN>THE PAYMENT AMOUNT LOOKS WRONG!!</B>,billing
+1546,HeY pLs HElp caN yoU hElP ME RECoVer mY PW,account
+1547,💳 wHyY WAs I cHArAGed $50 For My Order? lET ME KNOW aSAp,billing
+1548,...  the    courier    has not  delivered    my  order.,delivery
+1549,<p>Why  was    I charged  $120    for my  order?!</div>,billing
+1550,NEED HELP ASAP HTTPS://EXAMPLE.COM/ACCOUNT <STRONG>I CANNOT GET THE WEBSITE TO WORK.</P>,technical
+1551,Https://SHOp.eXAMple.CoM/oRDER ??  CaN    u heLp  ME   ReCovEr    my  PWD,account
+1552,Can u tell me when my package will arrive!! https://example.com/help 😡,delivery
+1553,PLS CHECK I NEED TO UPDATE MY ACC INFO WWW.EXAMPLE.COM/HELP,account
+1554,need help asap My packge has not arrived yet. thx,delivery
+1555,my   LOIgn is    NOT   wORkINg.   WWw.eXaMpLE.COM/HELP tHX,account
+1556,need help asap ?? i am having a technical problem w/ the aplication!!!!,technical
+1557,i need  to reset  my   login  info!!!!    thx   pls,account
+1558,need help asap ... The app crashes whenever I try to place an order?!,technical
+1559,u   guys pls    help  http://support.example.com    The  tracking info   has not   changed!!!!,delivery
+1560,📦 plz help <b>There is a duplicate payment on my account.</span>,billing
+1561,😤 My shipmnt has not been delivered!!!,delivery
+1562,... I am getting an error msg,technical
+1563,can u help My login is not working... thx,account
+1564,💳   <strong>...  Something  is  wrong with  the  application.</span>,technical
+1565,🤦   <P>The DEliVERy   Date    has   PAssEd.</b></P>    cAN u CHECk,delivery
+1566,!!! The application is freezing repeatedly. 😡,technical
+1567,... My shipment has not been delivered.,delivery
+1568,u guys pls help <p><b>The website stopped responding.</strong>,technical
+1569,<strong>there is a duplicate payment on my account.</div>,billing
+1570,https://shop.example.com/order Please check my recent transaction. pls help,billing
+1571,Can   u   help   me    recover my    password?,account
+1572,u guys pls help Something is wrong with the application. pls check,technical
+1573,https://example.com/support  my order    was  expected today    but   hasn't arrived.,delivery
+1574,<DIv>i hAVe a PrObLM W/ MY LaTESt inVOICe.</StRoNg> 💳,billing
+1575,MY ORDER STILL HASN'T ARRIVED.,delivery
+1576,PLS CHECK I FORGOT MY PWD HTTPS://EXAMPLE.COM/HELP,account
+1577,!!! Can u explain this charge on my bill?,billing
+1578,<p>My shipment has not been delivered!!</strong>,delivery
+1579,WWW.EXAMPLE.COM/HELP <DIV>HOW CAN I CHANGE MY EMAIL ADRES!!!!</STRONG>,account
+1580,hey    pls   help    http://support.example.com I forgot    my login    details?!,account
+1581,pls check <p><b>There is an incorrect charge on my accont</strong>,billing
+1582,PlZ hELp ThE PaGE KeEps ShoWing an ERrOR.,technical
+1583,!!! How can I reset my password??,account
+1584,plz    help <div>why  did    u   charge   me    an   extra    $35?</b>    can    u    check,billing
+1585,pls check !!! the delvery is taking too long!!,delivery
+1586,?? The tracking information has not changed?!,delivery
+1587,<div>?? My acct is locked.</b></p> 💳,account
+1588,pls help I was billed more than I expected. https://shop.example.com/order,billing
+1589,💳 <div>I am unable to access my profile??</strong>,account
+1590,😡 https://example.com/account My card was charged but the payment failed... thx pls,billing
+1591,<p><b>My acct credentials r not working!!</b></p> 😕,account
+1592,need help asap <b>The page keeps showing an error!!!!</strong>,technical
+1593,!!!   i was   charged  even  though    my   order was  cancelled!!    😩,billing
+1594,PLS hELP !!! CaN U CheCk THE staTuS of mY DelIverY??? 😤,delivery
+1595,WWW.EXAMPLE.COM/HELP <P>MY PACKAGE HAS NOT ARRIVED YET.</DIV> PLZ HELP,delivery
+1596,my package has not arrived yet!! 😩,delivery
+1597,😢 ... how do i change my pwd!!!! pls check,account
+1598,My package has not arrived yet...,delivery
+1599,😡  My  acct  credentials  are  not working?!    https://example.com/account,account
+1600,HEY PLS    HELP <B>!!!    MY    PACKAGE   SEEMS    2 BE    STUCK IN  TRANSIT.</B></P>,delivery
