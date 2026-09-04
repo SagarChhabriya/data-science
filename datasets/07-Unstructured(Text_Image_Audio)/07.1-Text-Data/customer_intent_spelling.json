@@ -1,0 +1,80 @@
+SPELLING_CORRECTIONS = {
+    "plese": "please",
+    "pleas": "please",
+    "pleae": "please",
+
+    "acount": "account",
+    "accout": "account",
+    "accont": "account",
+
+    "pasword": "password",
+    "passwrod": "password",
+    "passord": "password",
+
+    "delivary": "delivery",
+    "delievery": "delivery",
+    "delvery": "delivery",
+
+    "pakage": "package",
+    "packge": "package",
+    "pacage": "package",
+
+    "paymant": "payment",
+    "payement": "payment",
+    "paymnet": "payment",
+
+    "chargd": "charged",
+    "charaged": "charged",
+    "chared": "charged",
+
+    "chage": "charge",
+    "charg": "charge",
+    "charage": "charge",
+
+    "invoce": "invoice",
+    "invioce": "invoice",
+    "inovice": "invoice",
+
+    "refnd": "refund",
+    "refud": "refund",
+    "refun": "refund",
+
+    "aplication": "application",
+    "applicaton": "application",
+    "applcation": "application",
+
+    "webiste": "website",
+    "websit": "website",
+
+    "problm": "problem",
+    "probem": "problem",
+    "probelm": "problem",
+
+    "eror": "error",
+    "erro": "error",
+    "errror": "error",
+
+    "workng": "working",
+    "wroking": "working",
+    "workin": "working",
+
+    "crasing": "crashing",
+    "crashng": "crashing",
+    "crashig": "crashing",
+
+    "arived": "arrived",
+    "arrvied": "arrived",
+    "arrivd": "arrived",
+
+    "shipmnt": "shipment",
+    "shipement": "shipment",
+    "shippment": "shipment",
+
+    "adress": "address",
+    "addres": "address",
+    "adres": "address",
+
+    "logn": "login",
+    "loign": "login",
+    "lgoin": "login"
+}
